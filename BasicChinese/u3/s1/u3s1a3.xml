@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u3s1a3a1.mp3" hanzi="你今年多大？" pinyin="Nǐ jīnnián duōdà?" />
+	<item id="2" audio="u3s1a3a2.mp3" hanzi="我今年二十三岁，我在读大学。" pinyin="Wǒ jīnnián èr shí sān suì, wǒ zài dú dàxué." />
+	<item id="3" audio="u3s1a3a3.mp3" hanzi="大学几年级，你学什么？" pinyin="Dàxué jǐ niánjí, nǐ xué shénme?" />
+	<item id="4" audio="u3s1a3a4.mp3" hanzi="大学三年级，我学数学，我快毕业了。" pinyin="Dàxué sān niánjí, wǒ xué shùxué, wǒ kuài bìyè le." />
+	<item id="5" audio="u3s1a3a5.mp3" hanzi="毕业后你想做什么？" pinyin="Bìyè hòu nǐ xiǎng zuò shénme?" />	
+	<item id="6" audio="u3s1a3a6.mp3" hanzi="我想进电脑公司工作。" pinyin="Wǒ xiǎng jìn diànnǎo gōngsī gōngzuò." />
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

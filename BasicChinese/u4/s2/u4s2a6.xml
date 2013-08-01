@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u4s2a6a1.mp3" hanzi="你们喝点儿什么" punct="？" prompt="What would you (plural) like to drink?" />
+	<item id="2" audio="u4s2a6a2.mp3" hanzi="她要一杯咖啡" punct="。" prompt="She wants a cup of coffee." />
+	<item id="3" audio="u4s2a6a3.mp3" hanzi="请给我加一点牛奶" punct="。" prompt="Please add some milk for me." />
+	<item id="4" audio="u4s2a6a4.mp3" hanzi="不加糖" punct="。" prompt="Please don't add sugar." />
+</act>

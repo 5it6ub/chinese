@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u6s3a3a1.mp3" hanzi="小姐，我预定了一个双人间。" pinyin="Xiǎojiě, wǒ yùdìng le yī gè shuāngrénjiān." />
+	<item id="2" audio="u6s3a3a2.mp3" hanzi="好的，我查一下，先生您贵姓？" pinyin="Hǎo de, wǒ chá yīxià, xiānsheng nín guì xìng?" />
+	<item id="3" audio="u6s3a3a3.mp3" hanzi="我姓李，我三天前打电话预定的。" pinyin="Wǒ xìng Lǐ, wǒ sān tiān qián dǎ diànhuà yùdìng de." />
+	<item id="4" audio="u6s3a3a4.mp3" hanzi="对，李先生，您预定了一个双人间，两天。" pinyin="Duì, Lǐ xiānsheng, nín yùdìng le yī gè shuāngrénjiān, liǎngtiān." />
+	<item id="5" audio="u6s3a3a5.mp3" hanzi="对，房间怎么样？" pinyin="Duì, fángjiān zěnmeyàng?" />
+	<item id="6" audio="u6s3a3a6.mp3" hanzi="房间设备很全，还可以打国际长途。" pinyin="Fángjiān shèbèi hěn quán, hái kěyǐ dǎ guójì chángtú." />
+	<item id="7" audio="u6s3a3a7.mp3" hanzi="好极了，谢谢。" pinyin="Hǎo jí le, xièxie" />	
+	<item id="7" audio="u6s3a3a8.mp3" hanzi="不客气，这是您的房卡，请收好。" pinyin="Bù kèqi, zhèshì nín de fángkǎ, qǐng shōuhǎo." />	
+</act>
+
+
+
+
+
+
+
+

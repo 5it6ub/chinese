@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u3s2a2a1.mp3">What does Deng do?</quest>
+		<op fb="incorrect: teacher is 'lǎoshī'">He is a teacher.</op>
+		<op fb="correct">He is a professor.</op>
+		<op fb="incorrect: research student is yánjiūshēng">He is a research student.</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u3s2a2a2.mp3">Where does Xiaolong Zhang work?</quest>
+		<op fb="incorrect: bank is 'yínháng'">at a bank</op>
+		<op fb="incorrect: hospital is 'yīyuàn'">in a hospital</op>
+		<op fb="correct">in a supermarket</op>		
+		<op fb="incorrect: university is 'dàxué'">at a university</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="u3s2a2a3.mp3">What is Mao Yu's marital status?</quest>
+		<op fb="correct: ">She is married</op>
+		<op fb="incorrect: single is 'wèihūn'">She is single.</op>
+		<op fb="incorrect: divorced is 'líhūn'">She is divorced.</op>
+	</item>
+</act>
+
+

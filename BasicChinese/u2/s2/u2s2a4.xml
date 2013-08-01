@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create five sentences using the characters below.</intro>
+	<item id="1" audio="u2s2a4a1.mp3" hanzi="我来自英国" punct="。" prompt="I am from Britain." />
+	<item id="2" audio="u2s2a4a2.mp3" hanzi="我家在北京" punct="。" prompt="My family is at Beijing. " />
+	<item id="3" audio="u2s2a4a3.mp3" hanzi="你是哪国人" punct="？" prompt="What’s your nationality?" />
+	<item id="4" audio="u2s2a4a4.mp3" hanzi="你从哪里来" punct="？" prompt="Where are you from? " />
+	<item id="5" audio="u2s2a4a5.mp3" hanzi="你是美国人吗" punct="？" prompt="Are you American? " />
+</act>
+
+
+
+
+
+

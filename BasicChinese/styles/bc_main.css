@@ -1,0 +1,201 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+	
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 62.5%;
+	background: url(body_bg.png) no-repeat top center; 
+	background-color: #E1E2D6;
+	margin: 0;
+	padding: 0;
+	position: relative;
+
+}
+
+body a:link, a:active, a:visited{
+	text-decoration:none;
+	color:#1A0000;
+}
+
+body a:hover{
+	text-decoration:none;
+	color:#BA332C;
+}
+
+#container { 
+	margin: auto;
+	padding: 0;
+	width: 800px; 
+	background: url(content_bg_top.png) no-repeat top center;
+} 
+
+/* start of top section */
+
+#intro{
+	width:800px;
+	height: 487px;
+	margin: 0;
+	padding: 245px 0 0 0;
+	z-index: 100;
+}
+
+#header {float: right; padding: 242px 33px 0 150px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1em; text-align: center; color:#1A0000; }
+#header b{letter-spacing: 1px; font-weight: normal;}
+
+
+#menu{	float: right;
+		position: relative;
+		z-index: 100;
+		background-image: url(main_menu.png);
+		background-repeat: no-repeat;
+		padding: 0;
+		width: 605px;
+		height: 270px;
+		margin: 23px 0 0 12px;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size:1.45em;
+		line-height: 1.50em;
+}
+
+#lists {margin: auto; margin-top: 32px; width: 440px; text-align: center;}
+#menuleft {float: left; width: 42%;}
+#menuright {float: right; width: 50%;}
+#listsend {clear: both;}
+
+#menu a:link{color: #1A0000; text-decoration:none;}
+#menu a:hover{color: #BA332C; text-decoration:none;}
+
+#sidebar{
+		float: left;
+		position: relative;
+		z-index: 100;
+		background-image: url(side_bamboo.png);
+		background-repeat: no-repeat;
+		margin: 24px 0 0 2px;
+		padding: 0;
+		width: 160px;
+		height: 270px;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		text-align: left;
+}
+
+#sidebar ul {
+	font-size: 1.25em;
+	line-height: 1.65em;
+	list-style-type:none;
+	margin:25px 0 0 8px;
+	padding: 0 0 0 15px;
+	
+}
+
+#sidebar ul ul{
+	font-size: 0.85em;
+	line-height: 1.40em;
+	list-style-type:none;
+	margin: 0 0 2px -6px;
+	padding-top:0 0 0 0;
+
+}
+
+#sidebar a:link{color: #1A0000; text-decoration:none;}
+#sidebar a:hover{color: #BA332C; text-decoration:none;}
+
+/* end of top section */
+
+#content{
+	width:800px;
+	position: relative;
+	margin: auto;
+	margin-top: -266px;
+	margin-bottom: 0;
+	background: url(repeat_body.png) repeat-y top center;
+	padding: 0;
+	
+}
+
+#main {
+	float: right;
+	position: relative;
+	z-index: 50;
+	width: 649px;
+	padding: 5px 0 0 0;
+	margin: 0;
+}
+
+#main h2 {
+	display:none;
+	padding: 0;
+	margin: 0;
+}
+
+#main p {
+	font-size: 1em;
+}
+
+#main a:link{color: #1A0000; text-decoration:none; }
+#main a:visited{color: #1A0000; text-decoration:none; }
+#main a:hover{color: #BA332C; text-decoration:none; }
+#main a:active{color: #1A0000; text-decoration:none; }
+
+.unit{
+	margin: 0 0 10px 0;
+	padding:5px;
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	height: 225px;
+	font-size: 1.20em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #1A0000;
+}
+
+img{
+	float:left;
+	margin: 0 20px 0 -20px;
+	padding: 0;
+}
+
+#u0{ background-image:url(../images/u0_header.png); }
+#u1{ background-image:url(../images/u1_header.png); }
+#u2{ background-image:url(../images/u2_header.png); }
+#u3{ background-image:url(../images/u3_header.png); }
+#u4{ background-image:url(../images/u4_header.png); }
+#u5{ background-image:url(../images/u5_header.png); }
+#u6{ background-image:url(../images/u6_header.png); }
+#u7{ background-image:url(../images/u7_header.png); }
+#u8{ background-image:url(../images/u8_header.png); }
+#u9{ background-image:url(../images/u9_header.png); }
+#u10{ background-image:url(../images/u10_header.png); }
+#u11{ background-image:url(../images/u11_header.png); }
+#u12{ background-image:url(../images/u12_header.png); }
+#u13{ background-image:url(../images/u13_header.png); }
+
+
+.unitTitle{
+	display: none;
+}
+
+.desc{
+	margin-top: 90px;
+	margin-left: 250px;
+	margin-right: 40px;
+}
+
+.desc2{
+	margin-top: 90px;
+	margin-left: 330px;
+	margin-right: 40px;
+}
+
+#footer{
+	clear: both;
+	font-size: 1em;
+	padding: 28px 0 30px 120px;
+	color: #1A0000;
+	text-align: center;
+	line-height: 1.3em;
+	margin: 0;
+}
+
+#footer b{letter-spacing: 1px; font-weight: normal;}

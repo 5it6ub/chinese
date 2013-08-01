@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript himage = "images/general/transcript.png">
+	<line hanzi="顾客" pinyin="Gùkè">
+		<hanzi>服务员，请结账。</hanzi>
+		<pinyin>Fúwùyuán, qǐng jiézhàng.</pinyin>
+	</line>
+	<line hanzi="服务员" pinyin="Fúyùyuán">
+		<hanzi>李先生，这是找您的50元。</hanzi>
+		<pinyin>Lǐ xiānsheng, zhè shì zhǎo nín de wǔ shí yuán.</pinyin>
+	</line>	
+	<line hanzi="顾客" pinyin="Gùkè">
+		<hanzi>好的， 谢谢。这账单好像不对。</hanzi>
+		<pinyin>Hǎo de, xièxie. Zhè zhàngdān hǎoxiàng bùduì.</pinyin>
+	</line>
+	<line hanzi="服务员" pinyin="Fúyùyuán">
+		<hanzi>怎么了？</hanzi>
+		<pinyin>Zěnmele?</pinyin>
+	</line>
+	<line hanzi="顾客" pinyin="Gùkè">
+		<hanzi>我们点的是一杯红酒，不是一瓶红酒。</hanzi>
+		<pinyin>Wǒmen diǎn de shì yī bēi hóngjiǔ, bùshì yī píng hóngjiǔ.</pinyin>
+	</line>
+	<line hanzi="服务员" pinyin="Fúyùyuán">
+		<hanzi>非常抱歉，应该是150元。</hanzi>
+		<pinyin>Fēicháng bàoqiàn, yīnggāi shì yī bǎi wǔ shí yuán.</pinyin>
+	</line>
+	<line hanzi="顾客" pinyin="Gùkè">
+		<hanzi>能用信用卡吗？</hanzi>
+		<pinyin>Néng yòng xìnyòngkǎ ma?</pinyin>
+	</line>
+	<line hanzi="服务员" pinyin="Fúyùyuán">
+		<hanzi>对不起，我们只收现金。</hanzi>
+		<pinyin>Duìbùqǐ, wǒmen zhǐ shōu xiànjīn.</pinyin>
+	</line>
+	<line hanzi="顾客" pinyin="Gùkè">
+		<hanzi>没关系。这是200元。</hanzi>
+		<pinyin>Méiguānxi. Zhè shì èr bǎi yuán.</pinyin>
+	</line>
+	<line hanzi="服务员" pinyin="Fúyùyuán">
+		<hanzi>谢谢。欢迎下次再来，请慢走。</hanzi>
+		<pinyin>Xièxie. Huānyíng xià cì zài lái, qǐng mànzǒu.</pinyin>
+	</line>
+</transcript>
+

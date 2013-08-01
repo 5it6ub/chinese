@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What is broken?</quest>
+		<op fb="incorrect: listen again">the fridge</op>
+		<op fb="incorrect: listen again">the TV set</op>
+		<op fb="correct">the air-conditioning</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">What is the room number?</quest>
+		<op fb="correct">345</op>
+		<op fb="incorrect: listen again">435</op>		
+		<op fb="incorrect: listen again">534</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="">What does the receptionist reply?</quest>
+		<op fb="incorrect: listen again">She will fix it right away.</op>
+		<op fb="correct">She will find someone to fix it right away.</op>
+		<op fb="incorrect: listen again">She will get him a new room right away.</op>
+	</item>
+</act>	

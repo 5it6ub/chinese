@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>16</time>
+		<track1>Amanda, what languages do you speak?</track1>
+		<track2>Amanda, 你会说哪几国语言?</track2>
+		<track3>Amanda, nǐ huì shuō nǎ jī guó yǔyán?</track3>
+	</subtitle>
+	<subtitle>
+		<time>42</time>
+		<track1>I speak English, French and a little Chinese. And you?</track1>
+		<track2>我会说英语, 法语 还有一点儿中文。你呢?</track2>
+		<track3>Wǒ huì shuō Yīngyǔ, Fǎyǔ hái yǒu yī diǎnr Zhōngwén. Nǐ ne?</track3>
+	</subtitle>
+	<subtitle>
+		<time>84</time>
+		<track1>I speak Chinese, English. I am currently learning Italian.</track1>
+		<track2>我会说中文, 英语我正在学意大利语</track2>
+		<track3>Wǒ huì shuō Zhōngwén, Yīngyǔ, wǒ zhēng zài xué Yìdàlìyǔ.</track3>
+	</subtitle>
+	<subtitle>
+		<time>124</time>
+		<track1>What is your mother tongue?</track1>
+		<track2>你的母语是什么?</track2>
+		<track3>Nǐ de mǔyǔ shì shénme?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>140</time>
+		<track1>My mother tongue is Chinese</track1>
+		<track2>我的母语是中文。</track2>
+		<track3>Wǒ de mǔyǔ shì Zhōngwén</track3>
+	</subtitle>
+	<subtitle>
+		<time>154</time>
+		<track1>Mandarin or Cantonese></track1>
+		<track2>普通话还是广东话?</track2>
+		<track3>Pǔtōnghùa háishi Guǎngdōnghuà?</track3>
+	</subtitle>
+	<subtitle>
+		<time>176</time>
+		<track1>Mandarin and you?</track1>
+		<track2>普通话。你呢?</track2>
+		<track3>Pǔtōnghuà. Nǐ ne?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>192</time>
+		<track1>My mother tongue is English</track1>
+		<track2>我的母语是英语</track2>
+		<track3>Wǒ de mǔyǔ shì Yīngyǔ</track3>
+	</subtitle>
+	<subtitle>
+		<time>216</time>
+		<track1>Your Chinese is very good</track1>
+		<track2>你的中文说得很不错</track2>
+		<track3>Nǐ de Zhōngwén shuō de hěn bù cuò</track3>
+	</subtitle>	
+	<subtitle>
+		<time>232</time>
+		<track1>Not really</track1>
+		<track2>哪里哪里</track2>
+		<track3>Nǎli, nǎli</track3>
+	</subtitle>
+</subtitles>

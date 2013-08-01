@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">Who arrived first?</quest>
+		<op fb="incorrect: listen again">Manager Chen</op>
+		<op fb="incorrect: listen again">Mr Wang on his own</op>
+		<op fb="correct">Mr Wang and Miss Zhang</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">Who is in charge of the project?</quest>
+		<op fb="incorrect: there is no information about Manager Chen's role in the project.">Manager Chen</op>
+		<op fb="correct">Mr Wang</op>
+		<op fb="incorrect: Miss Zhang is the assistant.">Miss Zhang</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Where are they going to discuss next?</quest>
+		<op fb="incorrect, listen again">the cafeteria</op>
+		<op fb="incorrect, listen again">Mr Chen's office</op>
+		<op fb="correct">the meeting room</op>
+	</item>
+</act>

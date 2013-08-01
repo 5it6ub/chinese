@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u2s4a3a1.mp3">Does she speak Cantonese and Mandarin?</quest>
+		<op fb="correct">She only speaks Mandarin.</op>
+		<op fb="incorrect: listen again.">She speaks both Mandarin and Cantonese.</op>
+		<op fb="incorrect: listen again.">She speaks only Cantonese</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u2s4a3a2.mp3">He speaks the following European languages:</quest>
+		<op fb="Britain is Yīngguó">English, French and German</op>
+		<op fb="correct">Italian, Spanish and French</op>
+		<op fb="America is Měiguó">Spanish and German</op>		
+	</item>	
+</act>
+
+

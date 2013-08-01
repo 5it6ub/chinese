@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u9s3a2a1.mp3">What does she buy?</quest>
+		<op fb="correct">wood ears</op>
+		<op fb="incorrect: listen again">meat</op>
+		<op fb="incorrect: listen again">wood ears and meat</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u9s3a2a2.mp3">What do they decide to buy?</quest>
+		<op fb="incorrect: listen again">beef</op>
+		<op fb="incorrect: listen again">chicken</op>		
+		<op fb="correct">nothing</op>
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u9s3a2a3.mp3">What does she mean?</quest>
+		<op fb="incorrect: listen again">She needs to buy some mushrooms.</op>
+		<op fb="correct">She does not need to buy any mushrooms.</op>
+		<op fb="incorrect: listen again">There are many mushrooms in the market</op>	
+	</item>
+	<item id="4">
+		<quest correct="1" audio="u9s3a2a4.mp3">What is said about wood-ears?</quest>
+		<op fb="correct">They are nutritious but expensive</op>
+		<op fb="incorrect: listen again">They are nutritious and inexpensive.</op>
+		<op fb="incorrect: listen again">They are not very nutritious and expensive.</op>	
+	</item>	
+</act>

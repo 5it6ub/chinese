@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>8</time>
+		<track1>hello welcome</track1>
+		<track2>您好 欢迎光临</track2>
+		<track3>nín hǎo, huānyíng guānglí</track3>
+	</subtitle>
+	<subtitle>
+		<time>24</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>	
+	<subtitle>
+		<time>90</time>
+		<track1>how much is it altogether</track1>
+		<track2>总共多少钱</track2>
+		<track3>zǒnggòng duōshǎo qián</track3>
+	</subtitle>
+	<subtitle>
+		<time>100</time>
+		<track1>mm one hundred Yuan</track1>
+		<track2>嗯 一百元</track2>
+		<track3>ēn yī bǎi yuá</track3>
+	</subtitle>
+	<subtitle>
+		<time>116</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>
+	<subtitle>
+		<time>144</time>
+		<track1>for you</track1>
+		<track2>给您</track2>
+		<track3>gěi nín</track3>
+	</subtitle>	
+</subtitles>

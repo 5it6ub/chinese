@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">How much is the ticket?</quest>
+		<op fb="incorrect: listen again">1 yuan</op>
+		<op fb="correct">2 yuan</op>
+		<op fb="incorrect: listen again">3 yuan</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How many stops are there to go?</quest>
+		<op fb="incorrect: listen again">2 stops</op>
+		<op fb="correct">3 stops</op>		
+		<op fb="incorrect: listen again">4 stops</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">What does the passenger ask the driver to do?</quest>
+		<op fb="incorrect: listen again">to give her a ticket</op>
+		<op fb="incorrect: listen again">to stop right there</op>
+		<op fb="correct">to call her when they get to the right stop</op>
+	</item>
+</act>	

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u4s1a2a1.mp3">What does the customer want?</quest>
+		<op fb="incorrect: listen again">black tea</op>
+		<op fb="incorrect: listen again">jasmine tea</op>
+		<op fb="correct">tea with milk</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="u4s1a2a2.mp3">What does the customer mean?</quest>
+		<op fb="correct">He doesn’t want sugar in her coffee.</op>
+		<op fb="incorrect: listen again">He doesn’t want milk in her coffee.</op>
+		<op fb="incorrect: listen again">He wants some sugar in her coffee.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u4s1a2a3.mp3">What is she offered?</quest>
+		<op fb="incorrect: listen again">coffee</op>
+		<op fb="correct">jasmine tea</op>
+		<op fb="incorrect: listen again">green tea</op>	
+	</item>
+	<item id="4">
+		<quest correct="1" audio="u4s1a2a4.mp3">How is the dragon-well tea?</quest>
+		<op fb="correct">excellent</op>
+		<op fb="incorrect: just so so is 'yībān'">just so so</op>
+		<op fb="incorrect: 'not good at all' is 'bù hǎo'">not good at all</op>
+	</item>
+</act>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Listen to the audio and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">How many brothers and sisters does Lan Wang have?</quest>
+		<op fb="incorrect： listen again">One younger brother and two older sisters</op>
+		<op fb="incorrect: listen again">Two younger sisters and one older brother</op>
+		<op fb="correct">Two older brothers and a younger sister</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">How old is the sister?</quest>
+		<op fb="incorrect: listen again">She is eighteen.</op>
+		<op fb="incorrect: listen again">She is fifteen.</op>
+		<op fb="correct">She is thirteen.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">What year was the sister born in?</quest>
+		<op fb="correct">The year of monkey.</op>
+		<op fb="incorrect: sheep is 'yáng'">The year of sheep.</op>
+		<op fb="incorrect: rat is 'shǔ'">The year of rat.</op>
+	</item>
+</act>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u5s1a3a1.mp3" hanzi="您好，北京饭店。" pinyin="Nín hǎo, Běijīng fàndiàn." />
+	<item id="2" audio="u5s1a3a2.mp3" hanzi="您好，我想订两个靠窗的位子，这周六。" pinyin="Nín hǎo, wǒ xiǎng dìng liǎng gè kào chuāng de wèizi, zhè zhōu liù." />
+	<item id="3" audio="u5s1a3a3.mp3" hanzi="好，是晚餐吗？" pinyin="Hǎo, shì wǎncān ma?" />
+	<item id="4" audio="u5s1a3a4.mp3" hanzi="对，我们大约七点到。" pinyin="Duì, wǒmen dàyue qī diǎn dào." />
+	<item id="5" audio="u5s1a3a5.mp3" hanzi="好的，请问先生贵姓？" pinyin="Hǎo de, qǐngwèn xiānsheng guì xìng?" />
+	<item id="6" audio="u5s1a3a6.mp3" hanzi="姓李，木子李。" pinyin="Xìng Lǐ, mù zǐ Lǐ" />
+	<item id="7" audio="u5s1a3a7.mp3" hanzi="好的，李先生，我已经为您订了两个靠窗的位子，这周六" pinyin="Hǎo de, Lǐ xiānsheng, wǒ yǐjīng wèi nín dìng le liǎng gè kào chuāng de wèizi, zhè zhōu liù." />	
+	<item id="8" audio="u5s1a3a8.mp3" hanzi="谢谢，再见。" pinyin="Xièxie, zàijiàn." />	
+</act>
+
+
+
+
+
+
+
+
+

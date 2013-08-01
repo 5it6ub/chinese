@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'mc1' aimage="images/acts/lc.png" title="Listening Comprehension">
+	<intro>Watch the video and then answer the questions below.</intro>
+	<item>
+		<quest correct="3" text="What is incorrect?" />
+		<opt id="1" text="order" image="images/u4/av3/flowers.png" />
+		<opt id="2" text="booking" image="images/u4/av3/wine.png" />
+		<opt id="3" text="bill" image="images/u4/av3/fruits.png" />
+	</item>	
+	<item>
+		<quest correct="2" text="How much is the bill at last? " />
+		<opt id="1" text="100 yuan" image="images/u4/av3/flowers.png" />
+		<opt id="2" text="150 yuan" image="images/u4/av3/wine.png" />
+		<opt id="3" text="200 yuan" image="images/u4/av3/fruits.png" />
+	</item>	
+</act>

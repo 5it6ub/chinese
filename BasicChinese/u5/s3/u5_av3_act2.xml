@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "amc1" aimage="images/acts/al.png" alink="u5/av3/audio/u5_av3_act2_a" title="Additional Listening">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="1.mp3" text="What does the customer want?" />
+		<opt id="1" text="another dish" image="images/u5/av3/wine.png" />
+		<opt id="2" text="to order" image="images/u5/av3/chocolate.png" />
+		<opt id="3" text="to pay the bill" image="images/u5/av3/fruits.png" />
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="1.mp3" text="How can the customer pay?" />
+		<opt id="1" text="only by cash" image="images/u5/av3/wine.png" />
+		<opt id="2" text="only by credit card" image="images/u5/av3/chocolate.png" />
+		<opt id="3" text="eithger by cash or by credit card" image="images/u5/av3/fruits.png" />
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="1.mp3" text="What does the waitress give back?" />
+		<opt id="1" text="change and credit card" image="images/u5/av3/wine.png" />
+		<opt id="2" text="credit card and receipt" image="images/u5/av3/chocolate.png" />
+		<opt id="3" text="change and receipt" image="images/u5/av3/fruits.png" />
+	</item>	
+</act>

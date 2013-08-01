@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">Whom did Wang celebrate the Spring Festival with?</quest>
+		<op fb="incorrect: listen again">her friends</op>
+		<op fb="correct">her family</op>
+		<op fb="incorrect: listen again">her colleagues</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">Where did Wang travel to?</quest>
+		<op fb="correct">Hong Kong</op>
+		<op fb="incorrect: listen again">Shanghai</op>		
+		<op fb="incorrect: listen again">Beijing</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Where did Li celebrate the Spring Festival?</quest>
+		<op fb="incorrect: listen again">back at home</op>
+		<op fb="incorrect: listen again">in Hong Kong</op>
+		<op fb="correct">in his lab</op>
+	</item>
+</act>	
+
+

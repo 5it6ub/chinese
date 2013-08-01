@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What does the customer want to buy for her friend?</quest>
+		<op fb="incorrect listen again">a wedding present</op>
+		<op fb="incorrect: listen again">a Christmas present</op>
+		<op fb="correct">a birthday present</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What does the customer choose as a present?</quest>
+		<op fb="incorrect: listen again">a book</op>
+		<op fb="correct">a notebook</op>
+		<op fb="incorrect: listen again">a diary</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">How much is the original price of the notebook?</quest>
+		<op fb="incorrect: listen again">72 yuan</op>
+		<op fb="incorrect: listen again">62 yuan</op>		
+		<op fb="correct">100 yuan</op>
+	</item>		
+</act>
+

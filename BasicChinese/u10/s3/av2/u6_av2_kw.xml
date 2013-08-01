@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords himage = "images/general/keywords.png" alink="u6/av2/audio/u6_av2_kaudio" aimage = "images/general/aicon.png" gimage = "images/general/gicon.png" cimage = "images/general/cicon.png">
+	<entry audio="1.mp3" gr="-1" cn="-1">
+		<hanzi>司机</hanzi>
+		<pinyin>sī,jī</pinyin>
+		<english>driver</english>
+	</entry>
+	<entry audio="2.mp3" gr="-1" cn="-1">
+		<hanzi>先生</hanzi>	
+		<pinyin>xiān,shēng</pinyin>
+		<english>Mr</english>
+	</entry>
+	<entry audio="3.mp3" gr="-1" cn="-1">			
+		<hanzi>去</hanzi>
+		<pinyin>qù</pinyin>
+		<english>to go</english>
+	</entry>
+	<entry audio="4.mp3" gr="-1" cn="-1">		
+		<hanzi>哪里 </hanzi>
+		<pinyin>nǎ,lǐ</pinyin>
+		<english>where</english>
+	</entry>
+	<entry audio="5.mp3" gr="-1" cn="-1">			
+		<hanzi>乘客</hanzi>
+		<pinyin>chéng,kè</pinyin>
+		<english>passenger</english>
+	</entry>
+	<entry audio="6.mp3" gr="-1" cn="-1">		 
+		<hanzi>朋友</hanzi>
+		<pinyin>péng,yǒu</pinyin>
+		<english>friend</english>
+	</entry>
+	<entry audio="7.mp3" gr="-1" cn="-1">		
+		<hanzi>家</hanzi>
+		<pinyin>jiā</pinyin>
+		<english>home</english>
+	</entry>
+	<entry audio="8.mp3" gr="-1" cn="-1">		
+		<hanzi>地址</hanzi>
+		<pinyin>dì,zhǐ</pinyin>
+		<english>address</english>
+	</entry>
+	<entry audio="9.mp3" gr="0" cn="-1">			
+		<hanzi>知道</hanzi>
+		<pinyin>zhī,dào</pinyin>
+		<english>to know</english>
+	</entry>
+	<entry audio="10.mp3" gr="-1" cn="-1">		
+		<hanzi>前面</hanzi>
+		<pinyin>qián,miàn</pinyin>
+		<english>in front of</english>
+	</entry>
+	<entry audio="11.mp3" gr="-1" cn="-1">		
+		<hanzi>该</hanzi>
+		<pinyin>gāi</pinyin>
+		<english>should</english>
+	</entry>
+	<entry audio="12.mp3" gr="-1" cn="-1">		
+		<hanzi>怎么</hanzi>
+		<pinyin>zěn,me</pinyin>
+		<english>how</english>
+	</entry>
+	<entry audio="13.mp3" gr="0" cn="-1">		
+		<hanzi>走</hanzi>
+		<pinyin>zǒu</pinyin>
+		<english>to go</english>
+	</entry>
+	<entry audio="14.mp3" gr="-1" cn="-1">		
+		<hanzi>先</hanzi>
+		<pinyin>xiān</pinyin>
+		<english>at first</english>
+	</entry>
+	<entry audio="15.mp3" gr="0" cn="-1">		
+		<hanzi>一直</hanzi>
+		<pinyin>yī,zhí</pinyin>
+		<english>continuously</english>
+	</entry>
+	<entry audio="16.mp3" gr="-1" cn="-1">		
+		<hanzi>然后</hanzi>
+		<pinyin>rán,hòu</pinyin>
+		<english>then</english>
+	</entry>
+	<entry audio="17.mp3" gr="0" cn="-1">		
+		<hanzi>左</hanzi>
+		<pinyin>zuǒ</pinyin>
+		<english>left</english>
+	</entry>
+	<entry audio="18.mp3" gr="0" cn="-1">		
+		<hanzi>拐</hanzi>
+		<pinyin>guǎi</pinyin>
+		<english>to turn</english>
+	</entry>
+	<entry audio="19.mp3" gr="0" cn="-1">		
+		<hanzi>第</hanzi>
+		<pinyin>dì</pinyin>
+		<english>marker for ordinal numbers</english>
+	</entry>
+	<entry audio="20.mp3" gr="-1" cn="-1">			
+		<hanzi>路口</hanzi>
+		<pinyin>lù,kǒu</pinyin>
+		<english>crossroad</english>
+	</entry>
+	<entry audio="21.mp3" gr="-1" cn="-1">		
+		<hanzi>右</hanzi>
+		<pinyin>yòu</pinyin>
+		<english>right</english>
+	</entry>
+	<entry audio="22.mp3" gr="-1" cn="-1">		
+		<hanzi>往</hanzi>
+		<pinyin>wǎng</pinyin>
+		<english>towards </english>
+	</entry>
+	<entry audio="23.mp3" gr="-1" cn="-1">			
+		<hanzi>开</hanzi>
+		<pinyin>kāi</pinyin>
+		<english>to drive</english>
+	</entry>
+	<entry audio="24.mp3" gr="-1" cn="-1">		
+		<hanzi>到</hanzi>
+		<pinyin>dào</pinyin>
+		<english>to reach</english>
+	</entry>
+	<entry audio="25.mp3" gr="-1" cn="-1">		
+		<hanzi>就</hanzi>
+		<pinyin>jiù</pinyin>
+		<english>just</english>
+	</entry>
+	<entry audio="26.mp3" gr="0" cn="-1">		
+		<hanzi>停	</hanzi>
+		<pinyin>tíng</pinyin>
+		<english>to stop</english>
+	</entry>
+	<entry audio="27.mp3" gr="-1" cn="-1">		
+		<hanzi>在</hanzi>
+		<pinyin>zài</pinyin>
+		<english>at</english>
+	</entry>
+	<entry audio="28.mp3" gr="-1" cn="-1">		
+		<hanzi>这里</hanzi>
+		<pinyin>zhè,lǐ</pinyin>
+		<english>here</english>
+	</entry>
+</keywords>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "ma" aimage="images/acts/cw.png" alink="saudio/" title="Find a match" leftType="to">
+	<intro>Click on an item on the left and then on the matching item on the right.</intro>
+	<item id="1" audio="u4s2a1a1.mp3" left="Audio 1" right="a cup of lemon tea" lFont="" rFont="" />
+	<item id="2" audio="u4s2a1a2.mp3" left="Audio 2" right="a glass of orange juice" lFont="" rFont="" />
+	<item id="3" audio="u4s2a1a3.mp3" left="Audio 3" right="an ice cream" lFont="" rFont="" />
+	<item id="4" audio="u4s2a1a4.mp3" left="Audio 4" right="a plate of cake" lFont="" rFont="" />
+	<item id="5" audio="u4s2a1a5.mp3" left="Audio 5" right="a glass of wine" lFont="" rFont="" />
+</act>
+
+
+
+
+
+
+
+

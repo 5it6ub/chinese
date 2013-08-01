@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "amc1" aimage="images/acts/al.png" alink="u7/av2/audio/u7_av2_act2_a" title="Additional Listening">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="1.mp3" text="What’s wrong with the patient?" />
+		<opt id="1" text="high fever" image="images/u8/av2/wine.png" />
+		<opt id="2" text="tooth ache" image="images/u8/av2/chocolate.png" />
+		<opt id="3" text="head ache" image="images/u8/av2/fruits.png" />
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="2.mp3" text="What does the doctor ask the patient to do? " />
+		<opt id="1" text="to take medicine" image="images/u8/av2/once.png" />
+		<opt id="2" text="to have more rest" image="images/u8/av2/twice.png" />
+		<opt id="3" text="to have more water" image="images/u8/av2/many.png" />
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="3.mp3" text="What does the doctor give the patient?" />
+		<opt id="1" text="some medicine" image="images/u8/av2/yes.png" />
+		<opt id="2" text="prescription" image="images/u8/av2/no.png" />
+		<opt id="3" text="a thermometer" image="images/u8/av2/unknown.png" />
+	</item>
+</act>

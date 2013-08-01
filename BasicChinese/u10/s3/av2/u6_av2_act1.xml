@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'mc1' aimage="images/acts/lc.png" title="Listening Comprehension">
+	<intro>Watch the video and then answer the questions below.</intro>
+	<item>
+		<quest correct="1" text="Where is the passenger going?" />
+		<opt id="1" text="a friend’s home" image="images/u6/av2/flowers.png" />
+		<opt id="2" text="a supermarket" image="images/u6/av2/wine.png" />
+		<opt id="3" text="a university" image="images/u6/av2/fruits.png" />
+	</item>	
+	<item>
+		<quest correct="2" text="How to get there?" />
+		<opt id="1" text="turn left first, and then turn right" image="images/u6/av2/flowers.png" />
+		<opt id="2" text="go straight first, and then turn left, and then turn right" image="images/u6/av2/wine.png" />
+		<opt id="3" text="go straight first, then turn right, and then turn left" image="images/u6/av2/fruits.png" />
+	</item>	
+</act>

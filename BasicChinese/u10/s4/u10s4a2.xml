@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Additional Listening">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u10s4a2a1.mp3">Where is the woman going?</quest>
+		<op fb="incorrect: listen again">to the library</op>
+		<op fb="correct">to the gym</op>
+		<op fb="incorrect: listen again">toilet</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u10s4a2a2.mp3">Is the man able to tell the way?</quest>
+		<op fb="incorrect: listen again">Yes, he is.</op>
+		<op fb="incorrect: listen again">Yes, although he is new here.</op>		
+		<op fb="correct">No, he just got here himself.</op>
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="u10s4a2a3.mp3">How to go to the subway station?</quest>
+		<op fb="correct">just go straight</op>
+		<op fb="incorrect: ">turn left and then go straight</op>
+		<op fb="incorrect: ">turn right and then go straight.</op>
+	</item>
+</act>
+
+

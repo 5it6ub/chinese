@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u5s2a2a1.mp3">What is recommended?</quest>
+		<op fb="correct">fish</op>
+		<op fb="incorrect: listen again">beaf</op>
+		<op fb="incorrect: listen again">lamb</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u5s2a2a2.mp3">What is the problem?</quest>
+		<op fb="incorrect: listen again">The food has been sold out.</op>
+		<op fb="correct">There is no vacant compartment</op>
+		<op fb="incorrect: listen again">There are no places in the restaurant at all</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u5s2a2a3.mp3">What does the customer mean?</quest>
+		<op fb="incorrect: listen again">The wine is not good</op>
+		<op fb="correct">The wine is quite good and he wants another bottle.</op>	
+		<op fb="incorrect: listen again">The beer is quite good and he wants another bottle.</op>
+	</item>
+</act>

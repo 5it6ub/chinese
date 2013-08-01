@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation himage = "images/general/translation.png">
+	<line col="Driver">Hello sir, where are you going?</line>
+	<line col="Passenger">Hello, I am going to a friend's home. This is the address.</line>
+	<line col="Driver">OK.</line>
+	<line col="Driver">Sir, do you know how to go ahead?</line>
+	<line col="Passenger">Yes. First go straight, and then turn left.</line>
+	<line col="Driver">OK, and then?</line>
+	<line col="Passenger">Turn right at the second crossroad, and then go ahead.</line>
+	<line col="Driver">OK.</line>
+	<line col="Passenger">Mr, here we are, please just stop here.</line>
+</translation>

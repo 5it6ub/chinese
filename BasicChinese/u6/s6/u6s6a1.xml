@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What does the customer want?</quest>
+		<op fb="incorrect: listen again">to check in</op>
+		<op fb="incorrect: listen again">to check out</op>
+		<op fb="correct">to leave luggage</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">What does the receptionist give him?</quest>
+		<op fb="incorrect: listen again">a key</op>
+		<op fb="incorrect: listen again">a receipt</op>		
+		<op fb="correct">a label</op>		
+	</item>	
+</act>	

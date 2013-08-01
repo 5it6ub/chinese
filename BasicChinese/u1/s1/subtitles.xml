@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>12</time>
+		<track1>Hello</track1>
+		<track2>你好</track2>
+		<track3>Nǐhǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>38</time>
+		<track1>How do you do?</track1>
+		<track2>您好</track2>
+		<track3>Nín hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>64</time>
+		<track1>Good morning</track1>
+		<track2>早上好</track2>
+		<track3>Zǎoshang hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>92</time>
+		<track1>Good evening</track1>
+		<track2>晚上好</track2>
+		<track3>Wǎnshang hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>124</time>
+		<track1>Good night</track1>
+		<track2>晚安</track2>
+		<track3>Wǎn'ān</track3>
+	</subtitle>
+	<subtitle>
+		<time>146</time>
+		<track1>Hello</track1>
+		<track2>喂</track2>
+		<track3>Wèi</track3>
+	</subtitle>
+	<subtitle>
+		<time>168</time>
+		<track1>Long time no see</track1>
+		<track2>好久不见</track2>
+		<track3>Hǎojiùbujiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>204</time>
+		<track1>Welcome</track1>
+		<track2>欢迎</track2>
+		<track3>Huānyíng</track3>
+	</subtitle>
+	<subtitle>
+		<time>232</time>
+		<track1>Welcome to Beijing</track1>
+		<track2>欢迎来北京</track2>
+		<track3>Huānyíng lái Běijīng</track3>
+	</subtitle>
+	<subtitle>
+		<time>266</time>
+		<track1>Goodbye</track1>
+		<track2>再见</track2>
+		<track3>Zàijiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>288</time>
+		<track1>See you tomorrow</track1>
+		<track2>明天见</track2>
+		<track3>Míngtiān jiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>316</time>
+		<track1>See you next week</track1>
+		<track2>下星期见</track2>
+		<track3>Xiàxīngqī jiàn</track3>
+	</subtitle>
+</subtitles>
+

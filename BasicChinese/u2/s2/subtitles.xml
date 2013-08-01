@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>16</time>
+		<track1>Hello, where are you from?</track1>
+		<track2>你好你是哪国人?</track2>
+		<track3>Nǐ hǎo, nǐ shì nǎli rén?</track3>
+	</subtitle>
+	<subtitle>
+		<time>34</time>
+		<track1>I am Chinese</track1>
+		<track2>我是中国人</track2>
+		<track3>Wǒ shì Zhōngguó ren.</track3>
+	</subtitle>
+	<subtitle>
+		<time>48</time>
+		<track1>Where are you from in China?</track1>
+		<track2>你从中国哪里来?</track2>
+		<track3>Nǐ cóng Zhōngguó nǎli lái?</track3>
+	</subtitle>
+	<subtitle>
+		<time>68</time>
+		<track1>I am from Hangzhou</track1>
+		<track2>我从中国杭州来</track2>
+		<track3>Wǒ cóng Zhōngguó Hángzhōu lái</track3>
+	</subtitle>
+	<subtitle>
+		<time>84</time>
+		<track1>And you? Are you English?</track1>
+		<track2>你呢? 你是英国人吗?</track2>
+		<track3>Nǐ ne? Nǐ shì Yīngguó rén ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>106</time>
+		<track1>No, I am American</track1>
+		<track2>不是, 我是美国人</track2>
+		<track3>Bù shì. Wǒ shì Měiguó rén</track3>
+	</subtitle>
+	<subtitle>
+		<time>126</time>
+		<track1>I am from Chicago in the States.</track1>
+		<track2>我来自美国芝加哥</track2>
+		<track3>Wǒ láizì Měiguó Zhījiāgē</track3>
+	</subtitle></subtitles>

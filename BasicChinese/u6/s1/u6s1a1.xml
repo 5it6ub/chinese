@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">What does he ask for</quest>
+		<op fb="correct">a single room</op>
+		<op fb="incorrect: listen again">a double room</op>
+		<op fb="incorrect: listen again">two single rooms</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">How much should he pay in all?</quest>
+		<op fb="incorrect: listen again">400 yuan</op>
+		<op fb="incorrect: listen again">1400 yuan</op>		
+		<op fb="correct">1200 yua</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">When is breakfast served?</quest>
+		<op fb="incorrect: listen again">from 7am to 9 am</op>
+		<op fb="incorrect: listen again">from 7:30 am to 9 a</op>
+		<op fb="correct">from 7 am to 9:30 am</op>
+	</item>
+</act>	

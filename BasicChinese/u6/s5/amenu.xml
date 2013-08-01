@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amenu hfont="kai.swf">
+	<item name="Listening comprehension" icon="../../images/listen.png" player="../../utils/sc.swf" content="u6s5a1.xml"/>
+	<item name="Additional listening" icon="../../images/elisten.png" player="../../utils/sc.swf" content="u6s5a2.xml"/>
+	<item name="Dialogue reconstruction" icon="../../images/write.png" player="../../utils/ro.swf" content="u6s5a3.xml"/>
+	<item name="Writing practice" icon="../../images/write.png" player="../../utils/rw.swf" content="u6s5a4.xml"/>
+</amenu>

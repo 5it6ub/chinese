@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u8s2a2a1.mp3">Was the movie yesterday interesting?</quest>
+		<op fb="correct">Yes, very.</op>
+		<op fb="incorrect: listen again">No, it was a pity.</op>
+		<op fb="incorrect: listen again">Don't know, neither of them went.</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u8s2a2a2.mp3">What are they talking about?</quest>
+		<op fb="incorrect: listen again">Halloween</op>
+		<op fb="incorrect: listen again">Christmas</op>
+		<op fb="correct">The Spring Festival</op>
+	</item>		
+	<item id="2">
+		<quest correct="3" audio="u8s2a2a3.mp3">Is he going to France?</quest>
+		<op fb="incorrect: listen again">He is going.</op>
+		<op fb="incorrect: listen again">No, because he is too busy.</op>
+		<op fb="correct">No, because he doesn't know how to ski.</op>		
+	</item>	
+</act>
+

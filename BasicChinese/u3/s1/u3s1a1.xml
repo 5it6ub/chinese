@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">How old is Amanda?</quest>
+		<op fb="incorrect： 20 is 'èr shí suì'">20</op>
+		<op fb="correct">24</op>
+		<op fb="incorrect: 26 is 'èr shí liù suì'">26</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What degree is Amanda studying for?</quest>
+		<op fb="incorrect: BA is 'xuéshí'">BA</op>
+		<op fb="correct">MA</op>
+		<op fb="incorrect: PhD is 'bóshí'">PhD</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">What is her subject?</quest>
+		<op fb="incorrect: manufacturing is 'zhìzào'">Manufacturing</op>
+		<op fb="incorrect: engineering is 'gōngchéng'">Engineering</op>
+		<op fb="correct">Filming</op>
+	</item>
+	<item id="4">
+		<quest correct="3" audio="">Where is Ning Su from?</quest>
+		<op fb="incorrect: listen again">Beijing</op>
+		<op fb="incorrect: listen again">Shanghai</op>
+		<op fb="correct">Nanjing</op>
+	</item>
+	<item id="5">
+		<quest correct="3" audio="">Where is he studying?</quest>
+		<op fb="incorrect: listen again">Hongkong</op>
+		<op fb="incorrect: listen again">the United States</op>
+		<op fb="correct">Britain</op>
+	</item>
+	<item id="6">
+		<quest correct="2" audio="">What is he studying?</quest>
+		<op fb="incorrect: English is 'Yīngyǔ'">English</op>
+		<op fb="correct">Economics</op>
+		<op fb="incorrect: Physics is 'wùlǐ'">Physics</op>
+	</item>
+</act>

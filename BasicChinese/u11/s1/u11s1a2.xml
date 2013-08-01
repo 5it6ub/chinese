@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u11s1a2a1.mp3">What does he want?</quest>
+		<op fb="incorrect: listen again">two tickets to Xi'an</op>
+		<op fb="correct">two tickets to Shenzhen</op>
+		<op fb="incorrect: listen again">two tickets to Beijing</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u11s1a2a2.mp3">What does he want?</quest>
+		<op fb="incorrect: listen again">upper bunk</op>
+		<op fb="correct">middle bunk</op>
+		<op fb="incorrect: listen again">lower bunk</op>
+	</item>		
+	<item id="2">
+		<quest correct="1" audio="u11s1a2a3.mp3">How is she going to get the ticket?</quest>
+		<op fb="correct">the travel shop will mail it to her</op>
+		<op fb="incorrect: listen again">she will collect it herself</op>
+		<op fb="incorrect: listen again">she will print it herself</op>		
+	</item>	
+</act>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u9s7a3a1.mp3" hanzi="您好，需要帮忙吗？" pinyin="Nín hǎo, xūyào bāngmáng ma?" />
+	<item id="2" audio="u9s7a3a2.mp3" hanzi="您好，我想买条裙子。" pinyin="Nín hǎo, wǒ xiǎng mǎi tiáo qúnzi." />
+	<item id="3" audio="u9s7a3a3.mp3" hanzi="我们这儿有很多裙子，您喜欢什么颜色的？" pinyin="Wǒmen zhèr yǒu hěnduō qúnzi, nín xǐhuān shénme yánsè de?" />
+	<item id="4" audio="u9s7a3a4.mp3" hanzi="我喜欢浅蓝色的。" pinyin="Wǒ xǐhuān qiǎn lán sè de." />
+	<item id="5" audio="u9s7a3a5.mp3" hanzi="那边有几条都是浅蓝色的。" pinyin="Nà biān yǒu jǐ tiáo dōu shì qiǎn lán sè de" />
+	<item id="6" audio="u9s7a3a6.mp3" hanzi="太好了，你们有小号的吗？" pinyin="Tài hǎo le, nǐmen yǒu xiǎo hào de ma?" />
+	<item id="7" audio="u9s7a3a7.mp3" hanzi="有，您可以试一下，试衣间在那边。" pinyin="Yǒu, nín kěyǐ shì yīxià, shìyījiān zài nàbiān." />
+	<item id="8" audio="u9s7a3a8.mp3" hanzi="好的，谢谢。" pinyin="Hǎo de, xièxie." />
+</act>
+

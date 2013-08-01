@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u7s2a2a1.mp3">What is he asking her to teach him?</quest>
+		<op fb="incorrect: listen again">chess</op>
+		<op fb="incorrect: listen again">shadow-boxing</op>
+		<op fb="correct">table-tennis</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u7s2a2a2.mp3">What are they talking about?</quest>
+		<op fb="incorrect: listen again">What she likes doing.</op>
+		<op fb="correct">Why she like shadow-boxing.</op>
+		<op fb="incorrect: listen again">Whether she could teach him or not.</op>
+	</item>		
+	<item id="2">
+		<quest correct="3" audio="u7s2a2a3.mp3">What is he good at?</quest>
+		<op fb="incorrect: listen again">International chess</op>
+		<op fb="incorrect: listen again">Chinese chess</op>		
+		<op fb="correct">both</op>
+	</item>	
+</act>

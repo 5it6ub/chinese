@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u6s2a2a1.mp3">What are available in the rooms?</quest>
+		<op fb="incorrect: listen again">internet and air-conditioning</op>
+		<op fb="incorrect: listen again">air-conditioning and fridge</op>
+		<op fb="correct">internet and fridge</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u6s2a2a2.mp3">Where can one have access to internet?</quest>
+		<op fb="incorrect: listen again">in the room</op>
+		<op fb="correct">in the net cafe</op>
+		<op fb="incorrect: listen again">no access at all</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="u6s2a2a3.mp3">How much is a single room per day including breakfast?</quest>
+		<op fb="correct">200 yuan</op>
+		<op fb="incorrect: listen again">180 yuan</op>
+		<op fb="incorrect: listen again">220 yuan</op>	
+	</item>
+</act>
+

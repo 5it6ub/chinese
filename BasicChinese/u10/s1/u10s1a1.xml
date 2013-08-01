@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">Where are they going?</quest>
+		<op fb="incorrect: listen again">Beihai Park</op>
+		<op fb="correct">The Summer Palace</op>
+		<op fb="incorrect: listen again">The Great Wall</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">How much is the taxi?</quest>
+		<op fb="correct">17 Yuan</op>		
+		<op fb="incorrect: listen again">20 Yuan</op>
+		<op fb="incorrect: listen again">23 Yuan</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="">What do they ask the driver for?</quest>
+		<op fb="incorrect: listen again">a map</op>
+		<op fb="correct">a receipt</op>
+		<op fb="incorrect: listen again">a ticket</op>
+	</item>
+</act>	

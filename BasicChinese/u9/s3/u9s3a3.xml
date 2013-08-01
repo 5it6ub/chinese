@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u9s3a3a1.mp3" hanzi="我们需要买些什么呢？" pinyin="Wǒmen xūyào mǎi xiē shénme ne?" />
+	<item id="2" audio="u9s3a3a2.mp3" hanzi="让我想想，家里还有几个蛋和一些鸡肉。" pinyin="Ràng wǒ xiǎngxiang, jiā lǐ háiyǒu jǐ gè dàn hé yīxiē jīròu." />
+	<item id="3" audio="u9s3a3a3.mp3" hanzi="那我们买几个番茄吧，做个番茄炒蛋怎么样？" pinyin="Nà wǒmen mǎi jǐ gè fānqié ba, zuò gè fānqié chǎo dàn zěnmeyàng?" />
+	<item id="4" audio="u9s3a3a4.mp3" hanzi="好啊，我很喜欢吃番茄炒蛋。" pinyin="Hǎo a, wǒ hěn xǐhuān chī fānqié chǎo dàn" />
+	<item id="5" audio="u9s3a3a5.mp3" hanzi="鸡肉就用来做宫爆鸡丁吧，我们去买点花生。" pinyin="Jīròu jiù yònglái zuò gōng bào jīdīng ba, wǒmen qù mǎi diǎn huāshēng." />
+	<item id="6" audio="u9s3a3a6.mp3" hanzi="走，花生在那边。" pinyin="Zǒu, huāshēng zài nàbiān." />
+	<item id="7" audio="u9s3a3a7.mp3" hanzi="还有什么要买的吗？" pinyin="Háiyǒu shénme yào mǎi de ma?" />	
+	<item id="8" audio="u9s3a3a8.mp3" hanzi="没有了，我们去结账吧。" pinyin="Méiyǒu le, wǒmen qù jiézhàng ba." />	
+</act>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>32</time>
+		<track1>Hello</track1>
+		<track2>您好。</track2>
+		<track3>Nín hǎo.</track3>
+	</subtitle>
+	<subtitle>
+		<time>42</time>
+		<track1>Hello</track1>
+		<track2>你好</track2>
+		<track3>Nǐ hǎo.</track3>
+	</subtitle>
+	<subtitle>
+		<time>52</time>
+		<track1>Excuse me, do you have a booking?</track1>
+		<track2>请问你有预定吗?</track2>
+		<track3>Qǐngwèn nǐ yǒu yùdìng ma?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>70</time>
+		<track1>I have booked, I made a telephone booking</track1>
+		<track2>我预定了,我打电话预定的。</track2>
+		<track3>Wǒ yùdìng le, wǒ dǎ diànhuà yùdìng de.</track3>
+	</subtitle>
+	<subtitle>
+		<time>100</time>
+		<track1>Ok. What is your name Sir?</track1>
+		<track2>好的。先生,请问您贵姓?</track2>
+		<track3>Hǎode. Xiānsheng, qǐngwèn nín guì xìng?</track3>
+	</subtitle>
+	<subtitle>
+		<time>130</time>
+		<track1>I am called Wang</track1>
+		<track2>我姓王。</track2>
+		<track3>Wǒ xìng wáng.</track3>
+	</subtitle>
+	<subtitle>
+		<time>160</time>
+		<track1>Ok, you have booked for three days?</track1>
+		<track2>好的, 先生,您的预定是三天吗?</track2>
+		<track3>Hǎo de, xiānsheng, nín de yùdìng shì sān tiān ma?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>193</time>
+		<track1>For three days. What are the rooms like?</track1>
+		<track2>三天。房间怎么样?</track2>
+		<track3>Sān tiān. Fángjiān zěnmeyàng?</track3>
+	</subtitle>
+	<subtitle>
+		<time>220</time>
+		<track1>All rooms have television</track1>
+		<track2>每个房间都有电视、。</track2>
+		<track3>Měi gè fángjiān dōu yǒu diànshì </track3>
+	</subtitle>
+	<subtitle>
+		<time>238</time>
+		<track1>air conditioning and Internet</track1>
+		<track2>空调,还可以上网</track2>
+		<track3>kōngtiáo, hái kěyǐ shàngwǎng</track3>
+	</subtitle>	
+	<subtitle>
+		<time>262</time>
+		<track1>Please fill in this registration form.</track1>
+		<track2>请您填一下登记表好吗?</track2>
+		<track3>Qǐng nín tián yīxià dēngjìbiǎo hǎo ma?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>284</time>
+		<track1>Ok</track1>
+		<track2>好的。</track2>
+		<track3>Hǎo de.</track3>
+	</subtitle>	
+	<subtitle>
+		<time>316</time>
+		<track1>Ok, thank you, Sir</track1>
+		<track2>好的,谢谢......先生</track2>
+		<track3>Hǎo de, xièxie...xiānsheng</track3>
+	</subtitle>
+	<subtitle>
+		<time>332</time>
+		<track1>Can I see your ID card</track1>
+		<track2>能不能看看您的身份证?</track2>
+		<track3>néng bù néng kànkan nín de shēnfēnzhèng?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>360</time>
+		<track1>This is my ID card</track1>
+		<track2>这是我的身份证</track2>
+		<track3>Zhè shì wǒ de shēnfènzhèng</track3>
+	</subtitle>
+	<subtitle>
+		<time>380</time>
+		<track1>Ok, thank you</track1>
+		<track2>好的......好,谢谢......,</track2>
+		<track3>Hǎo de...hǎo, xièxie..., .</track3>
+	</subtitle>
+	<subtitle>
+		<time>436</time>
+		<track1>This is the key for your room</track1>
+		<track2>这是您房间的钥匙</track2>
+		<track3>zhè shì nín fángjiān de yàoshi</track3>
+	</subtitle>
+	<subtitle>
+		<time>452</time>
+		<track1>Room 345 on the third floor</track1>
+		<track2>345房间,在三层</track2>
+		<track3>sān sì wǔ fángjiān, zài sān céng</track3>
+	</subtitle>	
+	<subtitle>
+		<time>475</time>
+		<track1>Thank you</track1>
+		<track2>谢谢。</track2>
+		<track3>Xièxie.</track3>
+	</subtitle>	
+	<subtitle>
+		<time>484</time>
+		<track1>My pleasure</track1>
+		<track2>不客气</track2>
+		<track3>Bùkèqi.</track3>
+	</subtitle>
+</subtitles>

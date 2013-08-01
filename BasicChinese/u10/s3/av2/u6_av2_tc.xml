@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript himage = "images/general/transcript.png">
+	<line hanzi="司机" pinyin="Sījī ">
+		<hanzi>先生你好，你去哪里？</hanzi>
+		<pinyin>Xiānsheng nǐhǎo, nǐ qù nǎlǐ?</pinyin>
+	</line>
+	<line hanzi="乘客" pinyin="Chéngkè">
+		<hanzi>你好，我去一个朋友家，这是地址。</hanzi>
+		<pinyin>Nǐhǎo, wǒ qù yīgè péngyǒu jiā, zhèshì dìzhǐ.</pinyin>
+	</line>	
+	<line hanzi="司机" pinyin="Sījī ">
+		<hanzi>好的。</hanzi>
+		<pinyin>Hǎo de.</pinyin>
+	</line>
+	<line hanzi="司机" pinyin="Sījī ">
+		<hanzi>先生，你知道前面该怎么走吗？</hanzi> 
+		<pinyin>Xiānsheng, nǐ zhīdào qiánmiàn gāi zěnme zǒu ma?</pinyin>
+	</line>
+	<line hanzi="乘客" pinyin="Chéngkè">
+		<hanzi>知道。先一直走，然后左拐。</hanzi>
+		<pinyin>Zhīdào. Xiān yīzhí zǒu, ránhòu zuǒ guǎi.</pinyin>
+	</line>
+	<line hanzi="司机" pinyin="Sījī ">
+		<hanzi>好的，然后呢？</hanzi>
+		<pinyin>Hǎo de, ránhòu ne?</pinyin>
+	</line>
+	<line hanzi="乘客" pinyin="Chéngkè">
+		<hanzi>前面第二个路口右拐，然后一直往前开。</hanzi>
+		<pinyin>Qiánmiàn dì èr gè lùkǒu yòu guǎi, ránhòu yīzhí wǎng qián kāi.</pinyin>
+	</line>
+	<line hanzi="司机" pinyin="Sījī ">
+		<hanzi>好。</hanzi>
+		<pinyin>Hǎo.</pinyin>
+	</line>
+	<line hanzi="乘客" pinyin="Chéngkè">
+		<hanzi>司机先生，到了，就停在这里吧。</hanzi>
+		<pinyin>Sījī xiānsheng, dào le, jiù tíng zài zhèlǐ ba.</pinyin>
+	</line>
+</transcript>
+

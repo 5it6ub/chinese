@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">Where is Fan Yang from?</quest>
+		<op fb="correct">Hangzhou</op>
+		<op fb="incorrect: Amanda went to Nanjing">Nanjing</op>
+		<op fb="incorrect: Amanda went to Beijing">Beijing</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What did Fan Yang do in Sweden?</quest>
+		<op fb="incorrect">He travelled there.</op>
+		<op fb="correct">He studied there.</op>
+		<op fb="incorrect">He worked there.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">For how long has Amanda been learning Chinese?</quest>
+		<op fb="incorrect: listen again">3 years</op>
+		<op fb="incorrect: listen again">5 years</op>
+		<op fb="correct">6 years</op>
+	</item>
+	<item id="4">
+		<quest correct="1" audio="">Where is Amanda going next?</quest>
+		<op fb="correct">the library</op>
+		<op fb="incorrect: bookshop is 'shūdiàn'">the bookshop</op>
+		<op fb="incorrect: gym is 'jiànshēnfáng'">the gym</op>
+	</item>
+</act>

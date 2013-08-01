@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u5s1a4a1.mp3" hanzi="请问一共几位" punct="?" prompt="May I ask how many people are there in all?" />
+	<item id="2" audio="u5s1a4a2.mp3" hanzi="我们想要一个包间" punct="。" prompt="We want a compartment." />
+	<item id="3" audio="u5s1a4a3.mp3" hanzi="我们差不多七点半到吧" punct="。" prompt="We will arrive at around 7.30." />
+</act>

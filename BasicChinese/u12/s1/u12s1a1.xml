@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">How is the patient?</quest>
+		<op fb="incorrect: listen again">She has got a stomach ache and a head ache.</op>
+		<op fb="incorrect: listen again">She has got a head ache and diarrhea.</op>
+		<op fb="correct">She has got a stomach ache and diarrhea.</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How long has she had the illness?</quest>
+		<op fb="incorrect: listen again">for one day</op>		
+		<op fb="correct">for two days</op>
+		<op fb="incorrect: listen again">for three days</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">How is she supposed to take the medicine?</quest>
+		<op fb="incorrect: listen again">once a day before a meal</op>
+		<op fb="incorrect: listen again">three times a day before a meal</op>
+		<op fb="correct">three times a day after a meal</op>
+	</item>
+</act>	

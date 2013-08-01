@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u9s1a2a1.mp3">How much are bananas per jin?</quest>
+		<op fb="incorrect: listen again">1 yuan</op>
+		<op fb="correct">5 yuan</op>
+		<op fb="incorrect: listen again">9 yuan</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u9s1a2a2.mp3">What does the customer want?</quest>
+		<op fb="incorrect: listen again">apples and oranges</op>
+		<op fb="incorrect: listen again">apples and grapes</op>		
+		<op fb="correct">oranges and grapes</op>
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="u9s1a2a3.mp3">How much does the customer pay?</quest>
+		<op fb="correct">7 yuan</op>
+		<op fb="incorrect: listen again">3 yuan</op>
+		<op fb="incorrect: listen again">10 yuan</op>	
+	</item>
+	<item id="4">
+		<quest correct="2" audio="u9s1a2a4.mp3">What does the salesperson mean?</quest>
+		<op fb="incorrect: listen again">The grapes are not fresh</op>
+		<op fb="correct">The grapes are very fresh.</op>
+		<op fb="incorrect: listen again">The salesperson does not know whether they are fresh or not</op>	
+	</item></act>

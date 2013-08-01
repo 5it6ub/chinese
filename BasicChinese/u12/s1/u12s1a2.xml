@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u12s1a2a1.mp3">How is the patient?</quest>
+		<op fb="incorrect: listen again">She has a headache.</op>
+		<op fb="incorrect: listen again">She has caught a bad cold.</op>
+		<op fb="correct">She has a high fever.</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u12s1a2a2.mp3">How long has the patient had a bad cold?</quest>
+		<op fb="incorrect: listen again">for one day</op>
+		<op fb="incorrect: listen again">for five days</op>
+		<op fb="correct">for seven days</op>
+	</item>		
+	<item id="2">
+		<quest correct="2" audio="u12s1a2a3.mp3">How is the medicine to be taken?</quest>
+		<op fb="incorrect: listen again">twice a day, three pills a time</op>
+		<op fb="correct">three times a day, two pills a time</op>
+		<op fb="incorrect: listen again">once a day, three pills a time</op>		
+	</item>	
+	<item id="1">
+		<quest correct="3" audio="u12s1a2a4.mp3">What kind of disease might the patient have?</quest>
+		<op fb="incorrect: listen again">a throat infection</op>
+		<op fb="incorrect: listen again">a toothache</op>
+		<op fb="correct">a high fever</op>
+	</item>		
+</act>

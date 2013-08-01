@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'dr' aimage="images/acts/dr.png" alink="u6/av2/audio/u6_av2_act3_a" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attempt the activity) </intro>
+	<item id="1" audio="1.mp3" hanzi="对不起，请问去近春园宾馆怎么走？" pinyin="Duìbùqǐ, qǐngwèn qù Jìnchūnyuán bīnguǎn zěnme zǒu?" />
+	<item id="2" audio="2.mp3" hanzi="哦，让我想一下。你先笔直往前走，然后左拐。？" pinyin="Ò, ràng wǒ xiǎng yīxià. Nǐ xiān bǐzhí wǎng qián zǒu, ránhòu zuǒguǎi." />
+	<item id="3" audio="3.mp3" hanzi="在哪里左拐？" pinyin="Zài nǎlǐ zuǒguǎi?" />
+	<item id="4" audio="4.mp3" hanzi="前面第三个路口。" pinyin="Qiánmiàn dì sān gè lùkǒu." />
+	<item id="5" audio="5.mp3" hanzi="好，然后呢？" pinyin="Hǎo, ránhòu ne?" />	
+	<item id="6" audio="6.mp3" hanzi="嗯……然后再走大约五分钟后往右拐，那个路口有个超市。" pinyin="En...ránhòu zài zǒu dàyuě wǔ fēnzhōng hòu wǎng yòu guǎi, nà gè lùkǒu yǒu gè chāoshì." />
+	<item id="7" audio="7.mp3" hanzi="哦，我想我还是打的过去吧。" pinyin="Ò, wǒ xiǎng wǒ háishì dǎdī guòqù ba." />
+</act>
+
+
+
+

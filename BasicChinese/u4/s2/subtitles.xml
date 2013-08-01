@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>1</time>
+		<track1>What would you like to drink?</track1>
+		<track2>你门喝点儿什么?</track2>
+		<track3>Nǐmen hē diǎnr shénme?</track3>
+	</subtitle>
+	<subtitle>
+		<time>24</time>
+		<track1>I would like a cup of lemon tea</track1>
+		<track2>我要一杯柠檬茶</track2>
+		<track3>Wǒ yào yī bēi níngméng chá</track3>
+	</subtitle>
+	<subtitle>
+		<time>52</time>
+		<track1>What about you?</track1>
+		<track2>你呢?</track2>
+		<track3>Nǐ ne?</track3>
+	</subtitle>
+	<subtitle>
+		<time>70</time>
+		<track1>I would like a cup of coffee</track1>
+		<track2>我要一杯咖啡吧</track2>
+		<track3>Wǒ yào yī bēi kāfēi ba</track3>
+	</subtitle>
+	<subtitle>
+		<time>96</time>
+		<track1>Miss, Would you like ice in your tea?</track1>
+		<track2>小姐, 您的柠檬茶要加冰吗?</track2>
+		<track3>Xiǎojie, nín de níngméng chá yào jiā bīng ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>140</time>
+		<track1>Don't add ice</track1>
+		<track2>不加冰</track2>
+		<track3>Bù jiā bīng</track3>
+	</subtitle>
+	<subtitle>
+		<time>152</time>
+		<track1>I don't like to drink very cold drinks</track1>
+		<track2>我不喜欢喝太冷的饮料</track2>
+		<track3>Wǒ bù xǐhuan hē tài lěng de yǐnliào</track3>
+	</subtitle>
+	<subtitle>
+		<time>186</time>
+		<track1>Sir, would you like milk or sugar in your coffee?</track1>
+		<track2>先生,您的咖啡要加奶和糖吗?</track2>
+		<track3>Xiānsheng, nín de kāfēi yào jiā nǎi hé táng ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>232</time>
+		<track1>Please add a bit of milk</track1>
+		<track2>请给我加一点点牛奶</track2>
+		<track3>Qǐng gěi wǒ jiā yī diǎn diǎn niúnǎi</track3>
+	</subtitle>
+	<subtitle>
+		<time>252</time>
+		<track1>don't add sugar</track1>
+		<track2>不要放糖</track2>
+		<track3>bù yào fàng táng</track3>
+	</subtitle>	
+</subtitles>

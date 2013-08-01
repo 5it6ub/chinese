@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">How many days will the customer stay in the hotel?</quest>
+		<op fb="correct">3 days</op>
+		<op fb="incorrect: listen again">6 days</op>
+		<op fb="incorrect: listen again">9 days</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">Which among the following is not mentioned?</quest>
+		<op fb="incorrect: listen again">hot water</op>
+		<op fb="incorrect: listen again">internet</op>		
+		<op fb="correct">fridge</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="">How much is the customer going to pay?</quest>
+		<op fb="incorrect: listen again">600 yuan</op>
+		<op fb="correct">1200 yuan</op>
+		<op fb="incorrect: listen again">1800 yuan</op>
+	</item>
+</act>	

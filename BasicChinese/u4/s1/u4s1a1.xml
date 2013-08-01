@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">How many customers are there in all?</quest>
+		<op fb="incorrect: listen again">one</op>
+		<op fb="correct">two</op>
+		<op fb="incorrect: listen again">three</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">How does the customer want her black tea?</quest>
+		<op fb="incorrect: listen again">with sugar and milk</op>
+		<op fb="incorrect: listen again">only with sugar</op>		
+		<op fb="correct">only with milk</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">What do they order in the end?</quest>
+		<op fb="correct">black tea and green tea</op>
+		<op fb="incorrect: listen again">black tea and jasmine tea</op>
+		<op fb="incorrect: listen again">green tea and jasmine tea</op>
+	</item>
+</act>	

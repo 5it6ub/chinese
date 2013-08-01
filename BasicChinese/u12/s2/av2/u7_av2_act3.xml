@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'dr' aimage="images/acts/dr.png" alink="u7/av2/audio/u7_av2_act3_a" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attempt the activity) </intro>
+	<item id="1" audio="1.mp3" hanzi="医生，我肚子疼得厉害。" pinyin="Yīsheng, wǒ dùzi téng de lìhai." />
+	<item id="2" audio="2.mp3" hanzi="怎么了？你昨晚吃了什么？" pinyin="Zěnme le? Nǐ zuówǎn chī le shénme?" />
+	<item id="3" audio="3.mp3" hanzi="昨晚和朋友出去吃饭，可能海鲜吃太多了。" pinyin="Zuówǎn hé péngyou chūqù chīfàn, kěnéng hǎixiān chī tài duō le." />
+	<item id="4" audio="4.mp3" hanzi="有可能，我给你开点药片，你先试试。" pinyin="Yǒu kěnéng, wō gěi nǐ kāi diǎn yàopiàn, nǐ xiān shìshi." />
+	<item id="5" audio="5.mp3" hanzi="好的，这药怎么吃？" pinyin="Hǎode, zhè yào zěnme chī?" />	
+	<item id="6" audio="6.mp3" hanzi="一天一次，一次一片，以后不要一下子吃那么多海鲜。" pinyin="Yī tiān yī cì, yī cì yī piàn, yǐhòu bùyào yīxiàzi chī nàme duō hǎixiān." />
+	<item id="7" audio="7.mp3" hanzi="好，我知道了，谢谢医生。" pinyin="Hǎo, wǒ zhīdào le, xièxie yīsheng." />
+</act>
+
+
+
+

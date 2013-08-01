@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u12s2a2a1.mp3">What’s wrong with the patient?</quest>
+		<op fb="incorrect: listen again">high fever</op>
+		<op fb="correct">tooth ache</op>
+		<op fb="incorrect: listen again">head ache</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u12s2a2a2.mp3">What does the doctor ask the patient to do? </quest>
+		<op fb="incorrect: listen again">to take medicine</op>
+		<op fb="incorrect: listen again">to have more rest</op>		
+		<op fb="correct">to have more water</op>
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u12s2a2a3.mp3">What does the doctor give the patient?</quest>
+		<op fb="incorrect: listen again">some medicine</op>
+		<op fb="correct">a prescription</op>
+		<op fb="incorrect: listen again">a thermometer</op>		
+	</item>	
+</act>

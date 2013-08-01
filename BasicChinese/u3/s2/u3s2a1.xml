@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">How old is Xin Chen?</quest>
+		<op fb="incorrect: listen again">twenty-one</op>
+		<op fb="incorrect: listen again">twenty-two</op>
+		<op fb="correct:">twenty-three</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">What year was Xin Chen born in?</quest>
+		<op fb="correct">The year of ox.</op>
+		<op fb="incorrect: the word for 'rat' is 'shǔ'">The year of rat.</op>
+		<op fb="incorrect: the word for 'monkey' is 'hóu'">The year of monkey.</op>
+	</item>		
+	<item id="3">
+		<quest correct="3" audio="">What is Xin Chen's profession ?</quest>
+		<op fb="incorrect: manager is 'jīnglǐ'">He is a manager.</op>
+		<op fb="incorrect: doctor is 'yīshēng'">He is a doctor.</op>
+		<op fb="correct">He is an accountant.</op>		
+	</item>	
+	<item id="4">
+		<quest correct="3" audio="">What is the profession of Le Kong's wife?</quest>
+		<op fb="incorrect: teacher is 'lǎoshī'">She is a teacher.</op>
+		<op fb="incorrect: nurse is 'hùshi'">She is a nurse.</op>
+		<op fb="correct">She is a doctor.</op>
+	</item>
+	<item id="5">
+		<quest correct="1" audio="">How many children do they have?</quest>
+		<op fb="correct">one son</op>
+		<op fb="incorrect: listen again">one son and one daughter</op>
+		<op fb="incorrect: listen again">one son and two daughters</op>
+	</item>
+	<item id="6">
+		<quest correct="1" audio="">How old is the son?</quest>
+		<op fb="correct">two years</op>
+		<op fb="incorrect: listen again">five years</op>
+		<op fb="incorrect: listen again">seven years</op>
+	</item>
+</act>

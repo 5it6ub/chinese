@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Listen to the audio and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">How many siblings does Ning Su have?</quest>
+		<op fb="correct">none</op>
+		<op fb="incorrect: listen again">one younger brother</op>
+		<op fb="incorrect: listen again">one younger sister</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What is Ning Su’s animal sign?</quest>
+		<op fb="incorrect: rooster is 'gōngjī'">rooster</op>
+		<op fb="correct">dog</op>
+		<op fb="incorrect: rat is 'shǔ'">rat</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">What does Amanda’s brother study?</quest>
+		<op fb="incorrect: design is 'shèjì'">design</op>
+		<op fb="incorrect: chemistry is 'huàxué'">chemistry</op>
+		<op fb="correct">architecture</op>
+	</item>
+	<item id="4">
+		<quest correct="2" audio="">What is Amanda’s work?</quest>
+		<op fb="incorrect: design is 'shèjì'">design</op>
+		<op fb="correct: software engineering is 'ruǎnjiàn gōngchéng'">software engineering</op>
+		<op fb="incorrect: to teach is 'jiāo'">teaching</op>
+	</item>
+</act>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>96</time>
+		<track1>hello where do you want to go?</track1>
+		<track2>你好, 你去哪里?</track2>
+		<track3>nǐhǎo, nǐ qù nǎlǐ?</track3>
+	</subtitle>
+	<subtitle>
+		<time>112</time>
+		<track1>hello we want to go to the Summer Palace</track1>
+		<track2>你好 我们想去颐和园</track2>
+		<track3>nǐhǎo, wǒmen xiǎng qù yíhéyuán</track3>
+	</subtitle>
+	<subtitle>
+		<time>138</time>
+		<track1>Ok</track1>
+		<track2>好的</track2>
+		<track3>hǎo de</track3>
+	</subtitle>
+	<subtitle>
+		<time>148</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>
+	<subtitle>
+		<time>208</time>
+		<track1>hello we have arrived at the Summer Palace</track1>
+		<track2>你好。颐和园到了</track2>
+		<track3>nǐhǎo. yíhéyuán dào le</track3>
+	</subtitle>
+	<subtitle>
+		<time>232</time>
+		<track1>OK how much is it</track1>
+		<track2>好的 多少钱</track2>
+		<track3>hǎo de  duōshǎo qián</track3>
+	</subtitle>
+	<subtitle>
+		<time>248</time>
+		<track1>seventeen Yuan</track1>
+		<track2>十七块钱</track2>
+		<track3>shí qī kuài qián</track3>
+	</subtitle>	
+	<subtitle>
+		<time>260</time>
+		<track1>twenty Yuan for you</track1>
+		<track2>给您二十</track2>
+		<track3>gěi nín èr shí</track3>
+	</subtitle>
+	<subtitle>
+		<time>272</time>
+		<track1>I am giving you three Yuan back</track1>
+		<track2>我找您三块</track2>
+		<track3>wǒ zhǎo nín sān kuài</track3>
+	</subtitle>
+	<subtitle>
+		<time>292</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>	
+	<subtitle>
+		<time>352</time>
+		<track1>Driver, can you give us a receipt</track1>
+		<track2>师傅  可以给我们收据吗</track2>
+		<track3>shīfu  kěyǐ gěi wǒmen shōujù ma</track3>
+	</subtitle>
+	<subtitle>
+		<time>376</time>
+		<track1>I can</track1>
+		<track2>可以</track2>
+		<track3>kěyǐ</track3>
+	</subtitle>
+		<subtitle>
+		<time>388</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>
+	<subtitle>
+		<time>420</time>
+		<track1>Thank you</track1>
+		<track2>谢谢</track2>
+		<track3>xièxie</track3>
+	</subtitle>
+	<subtitle>
+		<time>440</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>	
+</subtitles>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">What is the man booking?</quest>
+		<op fb="correct">a separate room in a restaurant</op>
+		<op fb="incorrect: listen again">a table in the dining hall</op>
+		<op fb="incorrect: listen again">some take-away food</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How many people would there be in all?</quest>
+		<op fb="incorrect: listen again">25</op>
+		<op fb="correct">8</op>		
+		<op fb="incorrect: listen again">7</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="">What time should they arrive?</quest>
+		<op fb="incorrect: listen again">before 7pm</op>
+		<op fb="correct">before 7.30p</op>
+		<op fb="incorrect: listen again">before 8pm</op>
+	</item>
+</act>	

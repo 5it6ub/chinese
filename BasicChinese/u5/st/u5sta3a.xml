@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u5s3a3a1.mp3" hanzi="小姐，请结账。" pinyin="Xiǎojiě, qǐng jiézhàng." />
+	<item id="2" audio="u5s3a3a2.mp3" hanzi="先生，您用现金还是信用卡" pinyin="Xiānsheng, nín yòng xiànjīn háishì xìnyòngkǎ?" />
+	<item id="3" audio="u5s3a3a3.mp3" hanzi="我用信用卡。给。" pinyin="Wǒ yòng xìnyòngkǎ. Gěi." />
+	<item id="4" audio="u5s3a3a4.mp3" hanzi="谢谢，请在这里签名。" pinyin="Xièxie, qǐng zài zhèlǐ qiānmíng." />
+	<item id="5" audio="u5s3a3a5.mp3" hanzi="好，请给我收据" pinyin="Hǎo, qǐng gěi wǒ shōujù." />
+	<item id="6" audio="u5s3a3a6.mp3" hanzi="先生，这是您的收据，欢迎下次再来。" pinyin="Xiānsheng, zhè shì nín de shōujù, huānyíng xià cì zài lái." />
+</act>
+
+
+

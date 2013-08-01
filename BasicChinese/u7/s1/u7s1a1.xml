@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What is Chen's favourite type of music?</quest>
+		<op fb="incorrect: listen again">pop music</op>
+		<op fb="incorrect: listen again">classic music</op>
+		<op fb="correct">Jazz music</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How long has Wang been learning calligraphy?</quest>
+		<op fb="incorrect: listen again">4 years</op>		
+		<op fb="correct">5 years</op>
+		<op fb="incorrect: listen again">6 years</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="">	How is Chen's calligrahpy? </quest>
+		<op fb="incorrect: listen again">He likes it and can write it as well.</op>
+		<op fb="correct">He can only appreciate.</op>
+		<op fb="incorrect: listen again">He has learnt it for 5 years.</op>
+	</item>
+</act>	

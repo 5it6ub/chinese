@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">How many customers are there in all?</quest>
+		<op fb="incorrect: listen again">one</op>
+		<op fb="incorrect: listen again">two</op>
+		<op fb="correct">three</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What does the waitress recommend</quest>
+		<op fb="incorrect: listen again">fish and bean curd</op>
+		<op fb="correct">diced chicken and bean curd</op>		
+		<op fb="incorrect: listen again">diced chicken and soup</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Which one was not ordered?</quest>
+		<op fb="incorrect: listen again">soup</op>
+		<op fb="incorrect: listen again">fish</op>
+		<op fb="correct">beaf</op>
+	</item>
+</act>	

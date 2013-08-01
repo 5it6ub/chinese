@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u3s3a4a1.mp3" hanzi="我属龙" punct="。" prompt="I was born in the year of dragon" />
+	<item id="2" audio="u3s3a4a2.mp3" hanzi="我有一个妹妹" punct="。" prompt="I have a younger sister." />
+	<item id="3" audio="u3s3a4a3.mp3" hanzi="她的姐姐二十岁" punct="。" prompt="Her older sister is twenty." />
+	<item id="4" audio="u3s3a4a4.mp3" hanzi="他弟弟是学生" punct="。" prompt="His younger brother is a student." />
+	<item id="5" audio="u3s3a4a5.mp3" hanzi="你哥哥多大了" punct="?" prompt="How old is your older brother?" />
+</act>

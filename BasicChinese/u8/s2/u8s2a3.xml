@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u8s2a3a1.mp3" hanzi="明天杰克过生日，我们一起去他家吧。" pinyin="Míngtiān jiékè guò shēngri, wǒmen yīqǐ qù tā jiā ba." />
+	<item id="2" audio="u8s2a3a2.mp3" hanzi="哦，明天？哎呀，我明天有课。" pinyin="Ō, míngtiān? Āiyā, wǒ míngtiān yǒu kè." />
+	<item id="3" audio="u8s2a3a3.mp3" hanzi="你明天什么时候有课？" pinyin="Nǐ míngtiān shénme shíhòu yǒu kè?" />
+	<item id="4" audio="u8s2a3a4.mp3" hanzi="下午，六点结束。" pinyin="Xiàwǔ, liù diǎn jiéshù." />
+	<item id="5" audio="u8s2a3a5.mp3" hanzi="没关系，我们等你下了课一起去吧。" pinyin="Méi guānxi, wǒmen děng nǐ xià le kè yīqǐ qù ba." />	
+	<item id="6" audio="u8s2a3a6.mp3" hanzi="好的，我们先去买个礼物再去他家吧。" pinyin="Hǎo de, wǒmen xiān qù mǎi ge lǐwù zài qù tā jiā ba." />	
+	<item id="7" audio="u8s2a3a7.mp3" hanzi="好主意。" pinyin="Hǎo zhǔyì." />	
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+

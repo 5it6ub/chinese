@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">Where is she heading for?</quest>
+		<op fb="incorrect: listen again">Shenzhen</op>
+		<op fb="correct">Xi'an</op>
+		<op fb="incorrect: listen again">Shanghai</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">What is the departure time?</quest>
+		<op fb="correct">10:20am</op>
+		<op fb="incorrect: listen again">10:20pm</op>		
+		<op fb="incorrect: listen again">12:00 noon</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">What is the arrival time?</quest>
+		<op fb="incorrect: listen again">10:20am</op>
+		<op fb="incorrect: listen again">10:20pm</op>
+		<op fb="correct">12:00 noon</op>
+	</item>
+</act>	

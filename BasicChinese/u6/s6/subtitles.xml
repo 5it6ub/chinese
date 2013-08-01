@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>30</time>
+		<track1>hello</track1>
+		<track2>您好</track2>
+		<track3>nín hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>40</time>
+		<track1>hello can I store my luggage here somewhere</track1>
+		<track2>你好 我可以把行李寄存在这儿吗</track2>
+		<track3>nǐ hǎo wǒ kěyǐ bǎ xínglǐ jìcún zài zhèr ma</track3>
+	</subtitle>
+	<subtitle>
+		<time>68</time>
+		<track1>ok for how long do you want to store it</track1>
+		<track2>好的请问您要存多长时间</track2>
+		<track3>hǎo de qǐngwèn nín yào cún duō cháng shíjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>94</time>
+		<track1>six hours until six o'clock tonight</track1>
+		<track2>六个小时 到今天晚上六点</track2>
+		<track3>liù gè xiǎoshí dào jīntiān wǎnshàng liù diǎn</track3>
+	</subtitle>
+	<subtitle>
+		<time>118</time>
+		<track1>ok</track1>
+		<track2>好的</track2>
+		<track3>hǎo de</track3>
+	</subtitle>
+	<subtitle>
+		<time>128</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>	<subtitle>
+		<time>152</time>
+		<track1>this is your luggage label</track1>
+		<track2>这是您的行李牌儿</track2>
+		<track3>zhè shì nín de xínglǐ páir</track3>
+	</subtitle>
+	<subtitle>
+		<time>172</time>
+		<track1>you can put your luggage over there</track1>
+		<track2>您可以把行李放在那边</track2>
+		<track3>nín kěyǐ bǎ xínglǐ fàng zài nàbiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>196</time>
+		<track1>thank you goodbye</track1>
+		<track2>谢谢你 再见</track2>
+		<track3>xièxie nǐ zàijiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>208</time>
+		<track1>dont' mention it goodbye</track1>
+		<track2>不客气 再见</track2>
+		<track3>bùkèqì zàijiàn</track3>
+	</subtitle>
+</subtitles>

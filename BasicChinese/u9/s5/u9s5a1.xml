@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">What do they finally buy?</quest>
+		<op fb="incorrect listen again">bread</op>
+		<op fb="correct">yolk-pie</op>
+		<op fb="incorrect: listen again">egg</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">How much is the yolk-pie per package?</quest>
+		<op fb="incorrect: listen again">3 Yuan</op>
+		<op fb="incorrect: listen again">4 Yuan</op>
+		<op fb="correct">3.4 Yuan</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Do they like eating yolk-pies?</quest>
+		<op fb="incorrect: listen again">One of them does.</op>
+		<op fb="incorrect: listen again">None of them does.</op>
+		<op fb="correct">Both of them do.</op>		
+	</item>		
+</act>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">Do they finally buy any wood-ears?</quest>
+		<op fb="incorrect listen again">Yes</op>
+		<op fb="correct">No</op>
+		<op fb="incorrect: listen again">They will think about and decide later.</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">Which among the following do they buy?</quest>
+		<op fb="incorrect: listen again">meat</op>
+		<op fb="incorrect: listen again">egg</op>
+		<op fb="correct">mushroom</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="">What’s not good about wood-ears according to the video?</quest>
+		<op fb="incorrect: listen again">They are not nutritious.</op>
+		<op fb="correct">They are not easy to wash.</op>
+		<op fb="incorrect: listen again">They are too expensive.</op>
+	</item>
+</act>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Additional Listening">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u13s2a2a1.mp3">What is the western counterpart of the Chinese Double Seventh Festival?</quest>
+		<op fb="incorrect: listen again">Christmas</op>
+		<op fb="correct">Valentine’s Day</op>
+		<op fb="incorrect: listen again">Halloween</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u13s2a2a2.mp3">When is the Teachers’ Day?</quest>
+		<op fb="incorrect: listen again">9th October</op>
+		<op fb="incorrect: listen again">9th September</op>
+		<op fb="correct">10th September</op>
+	</item>		
+	<item id="3">
+		<quest correct="1" audio="u13s2a2a3.mp3">Which festival did he use to like most?</quest>
+		<op fb="correct">Children’s Day</op>
+		<op fb="incorrect: listen again">Halloween</op>
+		<op fb="incorrect: listen again">Christmas</op>		
+	</item>	
+</act>
+
+

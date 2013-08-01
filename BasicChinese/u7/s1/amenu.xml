@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amenu hfont="kai.swf">
+	<item name="Listening Comprehension" icon="../../images/listen.png" player="../../utils/sc.swf" content="u7s1a1.xml"/>
+	<item name="Additional Listening" icon="../../images/elisten.png" player="../../utils/sc.swf" content="u7s1a2.xml"/>
+	<item name="Dialogue Reconstruction" icon="../../images/write.png" player="../../utils/ro.swf" content="u7s1a3.xml"/>
+	<item name="Write it yourself" icon="../../images/write.png" player="../../utils/rw.swf" content="u7s1a4.xml"/>
+</amenu>

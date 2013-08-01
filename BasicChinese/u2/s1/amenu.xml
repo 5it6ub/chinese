@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amenu hfont="kai.swf">
+	<item name="Listening Practice" icon="../../images/listen.png" player="../../utils/ma.swf" content="u2s1a1.xml"/>
+	<item name="Reading Practice" icon="../../images/write.png" player="../../utils/ma.swf" content="u2s1a2.xml"/>
+	<item name="Writing Practice" icon="../../images/write.png" player="../../utils/rw.swf" content="u2s1a3.xml"/>
+</amenu>

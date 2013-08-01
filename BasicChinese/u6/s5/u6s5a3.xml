@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u6s5a3a1.mp3" hanzi="小姐，我要退房，这是我的钥匙，203房间。" pinyin="Xiǎojǐe, wǒ yào tuìfáng, zhèshì wǒ de yàoshi, èr líng sān fángjiān." />
+	<item id="2" audio="u6s5a3a2.mp3" hanzi="好的，谢谢，203房间，一共五天。您住得还舒服吗？" pinyin="Hǎo de, xièxie, èr líng sān fángjiān, yīgòng wǔ tiān. Nín zhù de hái shūfu ma?" />
+	<item id="3" audio="u6s5a3a3.mp3" hanzi="很好，很不错。" pinyin="Hěn hǎo, hěn bù cuò." />
+	<item id="4" audio="u6s5a3a4.mp3" hanzi="先生，您是用卡还是现金？" pinyin="Xiānsheng, nín shì yòng kǎ háishì xiànjīn?" />
+	<item id="5" audio="u6s5a3a5.mp3" hanzi="我用信用卡。" pinyin="Wǒ yòng xìnyòngkǎ." />
+	<item id="6" audio="u6s5a3a6.mp3" hanzi="好的，先生，请在这里签名。" pinyin="Hǎo de, xiānsheng, qǐng zài zhèlǐ qiānmíng." />
+	<item id="7" audio="u6s5a3a7.mp3" hanzi="好，能给我张发票吗？" pinyin="Hǎo, néng gěi wǒ zhāng fāpiào ma?" />
+	<item id="8" audio="u6s5a3a8.mp3" hanzi="当然，这是您的发票，欢迎下次光临。" pinyin="Dāngrán, zhèshì nín de fāpiào, huānyíng xiàcì guānglín." />
+</act>
+
+
+

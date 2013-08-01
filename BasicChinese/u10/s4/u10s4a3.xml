@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u10s4a3a1.mp3" hanzi="同学你好，请问校长办公室怎么走？" pinyin="Tóngxué nǐhǎo, qǐngwèn xiàozhǎng bàngōngshì zěnme zǒu?" />
+	<item id="2" audio="u10s4a3a2.mp3" hanzi="哦，校长办公室，在两号楼。" pinyin="Ò, xiàozhǎng bàngōngshì, zài liǎng hào lóu." />
+	<item id="3" audio="u10s4a3a3.mp3" hanzi="两号楼在哪儿？" pinyin="Liǎng hào lóu zài nǎr?" />
+	<item id="4" audio="u10s4a3a4.mp3" hanzi="两号楼在操场旁边。" pinyin="Liǎng hào lóu zài cāochǎng pángbiān." />
+	<item id="5" audio="u10s4a3a5.mp3" hanzi="哦，好的，校长办公室在几楼？" pinyin="Ò, hǎode, xiàozhǎng bàngōngshì zài jǐlóu?" />
+	<item id="6" audio="u10s4a3a6.mp3" hanzi="我不太清楚，大概顶楼吧。" pinyin="Wǒ bù tài qīngchǔ, dàgài dǐng lóu ba." />
+	<item id="7" audio="u10s4a3a7.mp3" hanzi="好的，谢谢。" pinyin="Hǎode, xièxie." />	
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

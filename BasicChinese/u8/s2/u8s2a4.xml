@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u8s2a4a1.mp3" hanzi="晚会很有意思" punct="。" prompt="The evening-party was very interesting." />
+	<item id="2" audio="u8s2a4a2.mp3" hanzi="大家都玩得很开心" punct="。" prompt="Everybody had a good time." />
+	<item id="3" audio="u8s2a4a3.mp3" hanzi="你去了吗" punct="？" prompt="Did you go?" />
+	<item id="4" audio="u8s2a4a4.mp3" hanzi="太可惜了" punct="。" prompt="It was really a pity." />
+	<item id="5" audio="u8s2a4a5.mp3" hanzi="我已经两年没有回家了" punct="。" prompt="I haven't been back for two years." />
+</act>
+
+

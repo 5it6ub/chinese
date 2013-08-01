@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u6s2a3a1.mp3" hanzi="你好，请问房间里有热水吗？" pinyin="Nǐhǎo, qǐngwèn fángjiān lǐ yǒu rè shuǐ ma?" />
+	<item id="2" audio="u6s2a3a2.mp3" hanzi="有，二十四小时都有热水。" pinyin="Yǒu, èrshísì xiǎoshí dōu yǒu rè shuǐ." />
+	<item id="3" audio="u6s2a3a3.mp3" hanzi="太好了，另外，我能在房间里上网吗？" pinyin="Tài hǎo le. lìngwài, wǒ néng zài fángjiān lǐ shàngwǎng ma?" />
+	<item id="4" audio="u6s2a3a4.mp3" hanzi="对不起，您不能在房间里上网。" pinyin="Duìbùqǐ, nín bù néng zài fángjiān lǐ shàngwǎng." />
+	<item id="5" audio="u6s2a3a5.mp3" hanzi="那么这儿附近有网吧吗？" pinyin="Nàme zhèer fùjìn yǒu wǎngbā ma?" />
+	<item id="6" audio="u6s2a3a6.mp3" hanzi="有，在我们宾馆旁边就有一家网吧。" pinyin="Yǒu, zài wǒmen bīnguǎn pángbiān jiù yǒu yī jiā wǎngbā." />
+	<item id="7" audio="u6s2a3a7.mp3" hanzi="好的，我知道了，谢谢。" pinyin="Hǎode, wǒ zhīdào le, xièxie." />	
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

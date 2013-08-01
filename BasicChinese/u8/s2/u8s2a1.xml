@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">Who went to the Halloween party?</quest>
+		<op fb="correct">Chen</op>
+		<op fb="incorrect: listen again">Wang</op>
+		<op fb="incorrect: listen again">both</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">When was the Halloween party?</quest>
+		<op fb="incorrect: listen again">last weekend</op>		
+		<op fb="incorrect: listen again">last Monday</op>		
+		<op fb="correct">yesterday</op>
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Who is going to celebrate their birthday next weekend?</quest>
+		<op fb="incorrect: listen again">Chen</op>
+		<op fb="incorrect: listen again">Wang</op>
+		<op fb="correct">Xiaoming</op>
+	</item>
+</act>	
+

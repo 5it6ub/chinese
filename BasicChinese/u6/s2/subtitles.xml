@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>64</time>
+		<track1>hello</track1>
+		<track2>您好</track2>
+		<track3>Nínhǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>69</time>
+		<track1>this is the Jinchunyuan Hotel</track1>
+		<track2>这里是近春园宾馆</track2>
+		<track3>zhèlǐ shì Jìnchūnyuán bīnguǎn</track3>
+	</subtitle>
+	<subtitle>
+		<time>90</time>
+		<track1>hello</track1>
+		<track2>你好</track2>
+		<track3>Nǐhǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>100</time>
+		<track1>I would like to book a room</track1>
+		<track2>我想订个房间</track2>
+		<track3>wǒ xiǎng dìng gè fángjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>122</time>
+		<track1>excuse me, when will you arrive?</track1>
+		<track2>请问您哪天到?</track2>
+		<track3>Qǐngwèn nín nǎ tiān dào?</track3>
+	</subtitle>
+	<subtitle>
+		<time>136</time>
+		<track1>and how many days will you stay?</track1>
+		<track2>要住几天?</track2>
+		<track3>yào zhù jǐ tiān?</track3>
+	</subtitle>
+	<subtitle>
+		<time>150</time>
+		<track1>I will be arriving on the 16th</track1>
+		<track2>我这个月16号到</track2>
+		<track3>Wǒ zhè gè yuè shíliù hào dào</track3>
+	</subtitle>
+	<subtitle>
+		<time>172</time>
+		<track1>and I leave on the 19th</track1>
+		<track2>19号离开</track2>
+		<track3>shíjiǔ hào líkāi</track3>
+	</subtitle>
+	<subtitle>
+		<time>188</time>
+		<track1>ok, would you like a single room</track1>
+		<track2>好的,请问您订单人间</track2>
+		<track3>Hǎode, qǐngwèn nín dìng dānrénjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>212</time>
+		<track1>or a double room</track1>
+		<track2>还是双人间?</track2>
+		<track3>háishì shuāngrénjiān?</track3>
+	</subtitle>
+	<subtitle>
+		<time>228</time>
+		<track1>how expensive are the rooms?</track1>
+		<track2>房间怎么收费?</track2>
+		<track3>Fángjiān zěnme shōufèi?</track3>
+	</subtitle>
+	<subtitle>
+		<time>244</time>
+		<track1>the single room is 400 Yuan per day</track1>
+		<track2>单人间每天400元</track2>
+		<track3>Dānrénjiān měitiān sìbǎi yuán</track3>
+	</subtitle>
+	<subtitle>
+		<time>266</time>
+		<track1>the double room is 600 Yuan per day</track1>
+		<track2>双人间每天600元</track2>
+		<track3>shuāngrénjiān měitiān liùbǎi yuán</track3>
+	</subtitle>
+	<subtitle>
+		<time>288</time>
+		<track1>is breakfast included?</track1>
+		<track2>包括早餐吗?</track2>
+		<track3>Bāokuò zǎocān ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>300</time>
+		<track1>it is, you also have broadband Internet</track1>
+		<track2>是的, 还可以上宽带网</track2>
+		<track3>Shìde, hái kěyǐ shàng kuāndàiwǎng</track3>
+	</subtitle>
+	<subtitle>
+		<time>332</time>
+		<track1>excuse me, do you have airconditioning?</track1>
+		<track2>请问有空调吗</track2>
+		<track3>Qǐngwèn yǒu kōngtiáo ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>356</time>
+		<track1>we have. Each room has a TV</track1>
+		<track2>有。每个房间都有电视</track2>
+		<track3>Yǒu. Měi gè fángjiān dōuyǒu diànshì</track3>
+	</subtitle>
+	<subtitle>
+		<time>384</time>
+		<track1>airconditioning and hot water</track1>
+		<track2>空调, 还有热水</track2>
+		<track3>kōngtiáo, háiyǒu rèshuǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>412</time>
+		<track1>ok, I would like to book a single room</track1>
+		<track2>好,我想订个单人间</track2>
+		<track3>Hǎo, wǒ xiǎng dìng gè dānrénjiā</track3>
+	</subtitle>
+	<subtitle>
+		<time>440</time>
+		<track1>ok. What is your surname, please?</track1>
+		<track2>好的。请问您贵姓?</track2>
+		<track3>Hǎode. Qǐngwèn nín guì xìng?</track3>
+	</subtitle>
+	<subtitle>
+		<time>470</time>
+		<track1>my name is Wang</track1>
+		<track2>我姓王</track2>
+		<track3>Wǒ xìng wáng</track3>
+	</subtitle>
+	<subtitle>
+		<time>492</time>
+		<track1>ok, Mr Wang</track1>
+		<track2>好的, 王先生</track2>
+		<track3>Hǎode, wáng xiānsheng</track3>
+	</subtitle>
+	<subtitle>
+		<time>508</time>
+		<track1>I have booked a single room for you</track1>
+		<track2>已经给您订了一个单人间</track2>
+		<track3>yǐjīng gěi nín dìng le yī gè dānrénjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>530</time>
+		<track1>from the 16th to the 19th</track1>
+		<track2>从16号到19号</track2>
+		<track3>cóng shíliù hào dào shíjiǔ hào</track3>
+	</subtitle>
+	<subtitle>
+		<time>565</time>
+		<track1>thanks. Goodbye</track1>
+		<track2>谢谢你。再见</track2>
+		<track3>Xièxie nǐ. Zàijiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>574</time>
+		<track1>goodbye</track1>
+		<track2>再见</track2>
+		<track3>Zàijiàn</track3>
+	</subtitle>
+</subtitles>
+

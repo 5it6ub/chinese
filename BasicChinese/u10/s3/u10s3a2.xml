@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u10s3a2a1.mp3">What is the instruction?</quest>
+		<op fb="correct">first go straight ahead, then turn left, and then turn right.</op>
+		<op fb="incorrect: listen again">first turn left, then turn right, and then go straight</op>
+		<op fb="incorrect: listen again">first turn left, then go straight, and then turn right</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u10s3a2a2.mp3">Do they know how to get there?</quest>
+		<op fb="incorrect: listen again">yes</op>
+		<op fb="correct">one of them knows</op>
+		<op fb="incorrect: listen again">neither of them know</op>		
+	</item>	
+</act>
+

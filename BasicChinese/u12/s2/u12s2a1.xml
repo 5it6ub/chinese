@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">What’s wrong with the patient?</quest>
+		<op fb="correct">she has a sore throat and a high fever</op>
+		<op fb="incorrect: listen again">she has a sore throat and a bad cold</op>
+		<op fb="incorrect: listen again">she has a bad cold and a high fever</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How high was the body temperature? </quest>
+		<op fb="incorrect: listen again">37 degrees</op>		
+		<op fb="correct">38 degrees</op>
+		<op fb="incorrect: listen again">39 degrees</op>		
+	</item>	
+</act>	

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u8s1a4a1.mp3" hanzi="最近忙极了" punct="。" prompt="(I have been) extremly busy recently." />
+	<item id="2" audio="u8s1a4a2.mp3" hanzi="你这周末打算做什么" punct="？" prompt="What do you plan to do this weekend?" />
+	<item id="3" audio="u8s1a4a3.mp3" hanzi="我还没有计划" punct="。" prompt="I haven't got plans yet." />
+	<item id="4" audio="u8s1a4a4.mp3" hanzi="你有兴趣吗" punct="？" prompt="Are you interested?" />
+	<item id="5" audio="u8s1a4a5.mp3" hanzi="我们先一起吃晚饭吧" punct="。" prompt="Let's have dinner together first." />
+</act>

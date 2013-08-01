@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "cw" aimage="images/acts/cw.png" alink="u5/av3/audio/u5_av3_act4_a" title="Write it Yourself!">
+	<intro>Use the English prompts to create five sentences using the characters below.</intro>
+	<item id="1" audio="1.mp3" hanzi="请结账" punct="。" prompt="Bill, please." />
+	<item id="2" audio="2.mp3" hanzi="怎么了" punct="?" prompt="What’s wrong?" />
+	<item id="3" audio="3.mp3" hanzi="我们只收现金" punct="。" prompt="We only accept cash." />
+	<item id="4" audio="4.mp3" hanzi="非常抱歉" punct="。" prompt="Really sorry." />
+</act>
+
+
+
+
+
+

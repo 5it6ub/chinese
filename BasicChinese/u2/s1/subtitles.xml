@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>12</time>
+		<track1>What country are you from?</track1>
+		<track2>你是哪国人?</track2>
+		<track3>Nǐ shì nǎ guó ren?</track3>
+	</subtitle>
+	<subtitle>
+		<time>38</time>
+		<track1>I am American.</track1>
+		<track2>我是美国人。</track2>
+		<track3>Wǒ shì Měiguó rén.</track3>
+	</subtitle>
+	<subtitle>
+		<time>64</time>
+		<track1>What country are you from?</track1>
+		<track2>你是哪过人?</track2>
+		<track3>Nǐ shì nǎ guó rèn?</track3>
+	</subtitle>
+	<subtitle>
+		<time>92</time>
+		<track1>I am Chinese.</track1>
+		<track2>我是中国人。</track2>
+		<track3>Wǒ shì Zhōngguó rén.</track3>
+	</subtitle>
+</subtitles>
+

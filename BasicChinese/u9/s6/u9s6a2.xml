@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u9s6a2a1.mp3">How much is it in all?</quest>
+		<op fb="correct">200 yuan</op>
+		<op fb="incorrect: listen again">230 Yuan</op>
+		<op fb="incorrect: listen again">300 Yuan</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="u9s6a2a2.mp3">What is the change?</quest>
+		<op fb="correct">5 yuan</op>
+		<op fb="incorrect: listen again">8 Yuan</op>
+		<op fb="incorrect: listen again">11 Yuan</op>
+	</item>		
+</act>

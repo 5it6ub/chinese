@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Additional Listening">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u8s1a2a1.mp3">Will he go with her?</quest>
+		<op fb="incorrect: listen again">Yes, he will.</op>
+		<op fb="correct">No, he is too busy.</op>
+		<op fb="incorrect: listen again">No, he is sick today.</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u8s1a2a2.mp3">Where is he going tomorrow?</quest>
+		<op fb="incorrect: listen again">to the cinema</op>
+		<op fb="incorrect: listen again">to college</op>
+		<op fb="correct">to a museum</op>
+	</item>		
+	<item id="2">
+		<quest correct="1" audio="u8s1a2a3.mp3">What are they talking about?</quest>
+		<op fb="correct">newly-released movies</op>
+		<op fb="incorrect: listen again">going to cinema together</op>
+		<op fb="incorrect: listen again">plans for the week-end</op>		
+	</item>	
+</act>
+

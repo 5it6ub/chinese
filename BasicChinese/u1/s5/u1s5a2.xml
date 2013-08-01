@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u1s5a2a1.mp3">Who is the person?</quest>
+		<op fb="incorrect: the questioner asks if he is a student">a student</op>
+		<op fb="correct">a new teacher</op>
+		<op fb="incorrect: he joined the school only this year">a long serving teacher</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u1s5a2a2.mp3">What is the person doing in Britain?</quest>
+		<op fb="incorrect: she studied for her Bachelor's degree in China.">studying for her BA degree</op>
+		<op fb="incorrect: there is no mentioning of a Master's degree.">studying for her MA degree</op>
+		<op fb="correct">studying for her PhD degree</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="u1s5a2a3.mp3">Why can she speak good Chinese?</quest>
+		<op fb="correct">She has studied Chinese for six years.</op>
+		<op fb="incorrect: she has never been to China.">She has lived in China for six years.</op>
+		<op fb="incorrect: there is no mentioning of a Master's course.">She finished her Master's course in Chinese.</op>
+	</item>
+	<item id="4">
+		<quest correct="2" audio="u1s5a2a4.mp3">Where is she going?</quest>
+		<op fb="incorrect: library is 'túshūguǎn'">the library</op>
+		<op fb="correct">the laboratory</op>
+		<op fb="incorrect: classroom is 'jiàoshì'">the classroom</op>
+	</item></act>
+
+

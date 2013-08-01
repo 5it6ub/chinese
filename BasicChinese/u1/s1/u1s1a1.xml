@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "ma" aimage="images/acts/cw.png" alink="saudio/" title="Find a match" leftType="to">
+	<intro>Click on an item on the left and then on the matching item on the right.</intro>
+	<item id="1" audio="u1s1a1a1.mp3" left="Audio 1" right="Wǎnshàng hǎo" lFont="hanzi" rFont="" />
+	<item id="2" audio="u1s1a1a2.mp3" left="Audio 2" right="Huānyíng" lFont="hanzi" rFont="" />
+	<item id="3" audio="u1s1a1a3.mp3" left="Audio 3" right="Zàijiàn" lFont="hanzi" rFont="" />
+	<item id="4" audio="u1s1a1a4.mp3" left="Audio 4" right="Zǎoshàng hǎo" lFont="hanzi" rFont="" />
+	<item id="5" audio="u1s1a1a5.mp3" left="Audio 5" right="Míngtiān jiàn" lFont="hanzi" rFont="" />
+</act>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amenu hfont="kai.swf">
+	<item name="Writing Practice" icon="../../images/write.png" player="../../utils/rw.swf" content="u1s2a1.xml"/>
+</amenu>

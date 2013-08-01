@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation himage = "images/general/translation.png">
+	<line col="Customer">Waitress, please bring the bill to me.</line>
+	<line col="Waitress">Here is your 50 yuan change, Mr Li.</line>
+	<line col="Customer">Good, thanks. The bill does not seem to be correct.</line>
+	<line col="Waitress">What’s wrong?</line>
+	<line col="Waitress">We only ordered a glass of red wine, not a bottle of it.</line>
+	<line col="Customer">I am very sorry about it. It should be 150 yuan.</line>
+	<line col="Waitress">Can I use a credit card?</line>
+	<line col="Customer">I’m sorry, we only accept cash.</line>
+	<line col="Waitress">It’s alright. Here is 200 yuan.</line>
+	<line col="Waitress">Thanks. Please come again and good-bye. </line>
+</translation>

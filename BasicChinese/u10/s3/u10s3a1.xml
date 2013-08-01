@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">Where is the passenger going?</quest>
+		<op fb="correct">a friend’s home</op>
+		<op fb="incorrect: listen again">a supermarket</op>
+		<op fb="incorrect: listen again">a university</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How to get there?</quest>
+		<op fb="incorrect: listen again">turn left first, and then turn right</op>
+		<op fb="correct">go straight first, and then turn left, and then turn right</op>		
+		<op fb="incorrect: listen again">go straight first, then turn right, and then turn left</op>		
+	</item>	
+</act>	

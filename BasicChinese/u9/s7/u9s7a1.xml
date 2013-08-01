@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What does the customer want to buy?</quest>
+		<op fb="incorrect listen again">a skirt</op>
+		<op fb="incorrect: listen again">a T-shirt</op>
+		<op fb="correct">a blouse</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What colour does the customer like?</quest>
+		<op fb="incorrect: listen again">orange</op>
+		<op fb="correct">white</op>
+		<op fb="incorrect: listen again">green</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">What size might the customer take at last?</quest>
+		<op fb="correct">170</op>
+		<op fb="incorrect: listen again">165</op>
+		<op fb="incorrect: listen again">160</op>		
+	</item>		
+</act>

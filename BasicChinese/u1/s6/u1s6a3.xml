@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u1s6a3a1.mp3" hanzi="请让我介绍一下，这位是李经理，这位是张厂长。" pinyin="Qǐng ràng wǒ jièshào yīxià, zhè wèi shì Lǐ jīnglǐ, zhè wèi shì Zhāng chǎngzhǎng." />
+	<item id="2" audio="u1s6a3a2.mp3" hanzi="李经理，您好，很高兴认识您。" pinyin="Lǐ jīnglǐ, nín hǎo, hěn gāoxìng rènshí nín." />
+	<item id="3" audio="u1s6a3a3.mp3" hanzi="张厂长，您好，我也很高兴认识您。" pinyin="Zhāng chǎngzhǎng, nín hǎo, wǒ yě hěn gāoxìng rènshi nín." />
+	<item id="4" audio="u1s6a3a4.mp3" hanzi="李经理，这是我的名片，以后请多关照。" pinyin="Lǐ jīnglǐ, zhè shì wǒ de míngpiàn, yǐhòu qǐng duō guānzhào." />	
+	<item id="5" audio="u1s6a3a5.mp3" hanzi="谢谢，这是我的名片，但愿我们合作愉快。" pinyin="Xièxie, zhè shì wǒ de míngpiàn, dànyuàn wǒmen hézuò yúkuài." />
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

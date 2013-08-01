@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>1</time>
+		<track1>hello miss  where are you going</track1>
+		<track2>小姐你好 你去哪里</track2>
+		<track3>xiǎojiě nǐhǎo nǐ qù nǎlǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>26</time>
+		<track1>hello  I am going to a friend</track1>
+		<track2>你好 我去一个朋友家</track2>
+		<track3>nǐhǎo wǒ qù yīgè péngyǒu jiā</track3>
+	</subtitle>
+	<subtitle>
+		<time>52</time>
+		<track1>here is his address</track1>
+		<track2>这是地址</track2>
+		<track3>zhèshì dìzhǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>64</time>
+		<track1>ok</track1>
+		<track2>好的</track2>
+		<track3>hǎo de</track3>
+	</subtitle>
+	<subtitle>
+		<time>74</time>
+		<track1>Miss  do you know how to go from here</track1>
+		<track2>小姐 你知道前面该怎么走吗</track2>
+		<track3>xiǎojiě  nǐ zhīdào qiánmiàn gāi zěnme zǒu ma</track3>
+	</subtitle>
+	<subtitle>
+		<time>108</time>
+		<track1>I know  first straight ahead then turn left</track1>
+		<track2>知道 先一直走 然后左拐</track2>
+		<track3>zhīdào  xiān yīzhí zǒu ránhòu zuǒ guǎi</track3>
+	</subtitle>	
+	<subtitle>
+		<time>140</time>
+		<track1>ok  and afterwards</track1>
+		<track2>好的然后呢</track2>
+		<track3>hǎo de  ránhòu ne</track3>
+	</subtitle>		
+	<subtitle>
+		<time>158</time>
+		<track1>at the second crossing ahead turn right</track1>
+		<track2>前面第二个路口右拐</track2>
+		<track3>qiánmiàn dì èr gè lùkǒu yòu guǎi</track3>
+	</subtitle>			
+	<subtitle>
+		<time>182</time>
+		<track1>then straight ahead</track1>
+		<track2>然后一直往前开</track2>
+		<track3>ránhòu yīzhí wǎng qián kāi</track3>
+	</subtitle>			
+	<subtitle>
+		<time>204</time>
+		<track1>ok</track1>
+		<track2>好</track2>
+		<track3>hǎo</track3>
+	</subtitle>			
+	<subtitle>
+		<time>214</time>
+		<track1>Driver  we have arrived</track1>
+		<track2>司机先生，到了，</track2>
+		<track3>sījī xiānsheng dào le</track3>
+	</subtitle>		
+	<subtitle>
+		<time>230</time>
+		<track1>please stop here</track1>
+		<track2>就停在这里吧</track2>
+		<track3>jiù tíng zài zhèlǐ ba</track3>
+	</subtitle>	
+</subtitles>
+
+	

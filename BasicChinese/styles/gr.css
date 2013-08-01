@@ -1,0 +1,149 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #1A0000;
+	background-color: #FFFFFF;
+	font-size: 62.5%;
+}
+
+#container{
+	margin:auto;
+	text-align: left;
+	width:750px;
+	background-color:#FFFFFF;
+	padding: 0;
+	
+}
+
+#header{
+	height: 6em;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #FFCD6A;
+	border: 1px solid #CC0000;
+}
+
+
+#header h1{
+	font-size: 2.30em;
+	color: #1A0000;
+	padding:0.70em 0 0 0;
+	margin: 0;
+	text-align:center;
+}
+
+#header h2{
+	font-size: 2em;
+	color: #1A0000;
+	padding:0.60em 0 0 0;
+	margin: 0;
+	text-align:center;
+}
+
+#header h2.top_hz{color: #1A0000;
+	font-family: Kai, "MS Arial Unicode";
+	font-size: 2.5em;
+}
+
+#header h2.top_py{color: #1A0000;
+	font-family: Arial, "MS Arial Unicode";
+	font-size: 1em;
+}
+
+#nv{text-align:right; color: #1A0000; font-size: 0.95em; margin-right: 10px;}
+#nv a{color:  #1A0000; text-decoration: none;}
+#nv a:hover{color: #CC0000;}
+
+#grlink{text-align:right;  font-size: 0.95em; margin-top: 5px; margin-right: 10px;}
+#grlink a{color: #330000; text-decoration: none;}
+#grlink a:hover{color: #CC0000;}
+
+#grlinkb{text-align:right;  font-size: 0.95em; margin-top: 5px; margin-right: 10px; padding-top: 5px; border-top: 1px solid #E6CCB3;}
+#grlinkb a{color: #330000; text-decoration: none;}
+#grlinkb a:hover{color: #CC0000;}
+
+/*  Index page styles   */
+
+#main2 {position: relative; margin: 0; padding: 0; width: 100%;  border-left: 1px solid #FFCD6A; border-right: 1px solid #FFCD6A;}
+#main2  ul {list-style-type: none; margin: 0; padding: 0; border-bottom: 1px solid #FFCD6A;}
+#main2 li {font-family: arial, Helvetica, sans-serif; font-size: 10pt; text-align: left; padding:0 1px 1px 1px; }
+#main2 a {display: block; height: 18px; padding: 3px 1px 2px 8px; width: 356px; margin: 0; background-color: #E1E2D6; color: black; border: 1px solid black;}
+#main2 a:link, #main2 a:visited {color: black; text-decoration: none; border: 1px solid white;}
+#main2 a:hover {background-color: #FFCD6A; border: 1px solid #E6CCB3; color: black;}
+
+#left {float: left; margin: 0; border-right: 1px solid #FFCD6A; border-left: 1px solid #FFCD6A;}
+#right {float: right; margin: 0; padding-right: 2px; border-left: 1px solid #FFCD6A; border-right: 1px solid #FFCD6A;}
+
+/*  End index page styles   */
+
+#main a:link{color: #330000; text-decoration:none; }
+#main a:visited{color: #000000; text-decoration:none; }
+#main a:hover{color: #CC0000; text-decoration:none; }
+#main a:active{color: #000000; text-decoration:none; }
+	
+#main {
+	position: relative;
+	margin: 8px 0 0 0;
+	padding: 5px;
+	font-size: 1.1em;
+	width:738px;
+}
+
+#main h2{
+	font-size: 1.5em;
+	padding-left: 5px;
+}
+
+#main ul.index {
+	font-size: 1.3em;
+	padding: 5px;
+	padding-left: 15px;
+
+}
+
+table {margin: auto; padding: 0; border-bottom: 1px solid #FFCD6A;}
+td {padding:5px;  border-top: 1px solid #FFCD6A; border-left: 1px solid #FFCD6A;}
+td.last {padding:5px; border-top: 1px solid #FFCD6A; border-left: 1px solid #FFCD6A; border-right: 1px solid #FFCD6A;}
+td.lastb {padding:5px; border-top: 1px solid #FFCD6A; border-left: 1px solid #FFCD6A; border-right: 2px solid #FFCD6A;}
+td.merge {padding:5px; border-bottom: 1px solid #FFCD6A;  border-right: 1px solid #FFCD6A;}
+
+td.noborder {padding:5px; border: none;}
+
+
+/* Table with examples */
+
+
+.red{color: #CC0000;}
+
+.e_hz{color: #800040;
+	font-family: Kai, "MS Arial Unicode";
+	font-size: 1.4em;
+}
+
+.e_py{color: #803E00;
+	font-family: Arial, "MS Arial Unicode";
+	font-size: 1.1em;
+}
+
+.e_eng{
+	font-family: Helvetica, Verdana, Arial;
+	font-size: 1em;
+}
+
+sup{color: #CC6600;}
+
+#footer{
+	font-size: 1em;
+	padding-top: 1em;
+	text-align: center;
+}
+
+
+

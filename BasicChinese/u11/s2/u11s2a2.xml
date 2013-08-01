@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u11s2a2a1.mp3">Where are they planning to go tomorrow?</quest>
+		<op fb="incorrect: listen again">the Summer Palace</op>
+		<op fb="incorrect: listen again">the Capital Museum</op>
+		<op fb="correct">the Museum in the Forbidden City</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u11s2a2a2.mp3">Why can he not recommend places to visit?</quest>
+		<op fb="incorrect: listen again">Because the map is not clear.</op>
+		<op fb="correct">Because he is new here herself.</op>
+		<op fb="incorrect: listen again">Because he is unsure which place is the best.</op>
+	</item>		
+	<item id="2">
+		<quest correct="1" audio="u11s2a2a3.mp3">How are they going to go?</quest>
+		<op fb="correct">by underground</op>
+		<op fb="incorrect: listen again">by taxi</op>
+		<op fb="incorrect: listen again">on foot</op>		
+	</item>	
+</act>
+

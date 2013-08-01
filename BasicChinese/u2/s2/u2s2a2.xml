@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u2s2a2a1.mp3">What is her nationality?</quest>
+		<op fb="incorrect:British is 'Yīngguó rén'">British</op>
+		<op fb="correct">Spanish</op>
+		<op fb="incorrect: Portugese is 'Pútáoyá rén'">Portugues</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="u2s2a2a2.mp3">Where was he born?</quest>
+		<op fb="correct">Beijing</op>
+		<op fb="incorrect: listen again.">Shanghai</op>
+		<op fb="incorrect: Hongkong is 'Xiānggǎng'">Hongkong</op>		
+	</item>	
+</act>
+
+

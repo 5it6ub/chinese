@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>6</time>
+		<track1>hello I would like to check out</track1>
+		<track2>你好,我想退房</track2>
+		<track3>nǐ hǎo wǒ xiǎng tuìfáng</track3>
+	</subtitle>
+	<subtitle>
+		<time>34</time>
+		<track1>excuse me what was your room number</track1>
+		<track2>请问您住几号房间</track2>
+		<track3>qǐngwèn nín zhù jǐ hào fángjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>52</time>
+		<track1>room 345</track1>
+		<track2>345房间</track2>
+		<track3>sān sì wǔ fángjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>64</time>
+		<track1>ok</track1>
+		<track2>好的</track2>
+		<track3>hǎode</track3>
+	</subtitle>
+	<subtitle>
+		<time>92</time>
+		<track1>three days 1200 yuan</track1>
+		<track2>三天一共1200块钱</track2>
+		<track3>sān tiān yīgòng yī qiān èr bǎi kuài qián</track3>
+	</subtitle>	 
+	<subtitle>
+		<time>116</time>
+		<track1>excuse me can I use my credit card</track1>
+		<track2>请问我可以用信用卡吗</track2>
+		<track3>qǐngwèn wǒ kěyǐ yòng xìnyòngkǎ ma</track3>
+	</subtitle>
+	<subtitle>
+		<time>136</time>
+		<track1>you can</track1>
+		<track2>可以</track2>
+		<track3>kěyǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>152</time>
+		<track1>ok</track1>
+		<track2>好的</track2>
+		<track3>hǎode</track3>
+	</subtitle>	
+	<subtitle>
+		<time>188</time>
+		<track1>ok this is your receipt</track1>
+		<track2>好的,这是您的发票</track2>
+		<track3>hǎode zhèshì nín de fāpiào</track3>
+	</subtitle>	
+	<subtitle>
+		<time>220</time>
+		<track1>thank you goodbye</track1>
+		<track2>谢谢再见</track2>
+		<track3>xièxie zàijiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>239</time>
+		<track1>goodbye</track1>
+		<track2>再见</track2>
+		<track3>zàijiàn</track3>
+	</subtitle>	
+</subtitles>

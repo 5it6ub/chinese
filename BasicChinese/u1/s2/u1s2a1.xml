@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create five sentences using the characters below.</intro>
+	<item id="1" audio="u1s2a1a1.mp3" hanzi="你姓什么" punct="!" prompt="What is your surname?" />
+	<item id="2" audio="u1s2a1a2.mp3" hanzi="我姓王" punct="。" prompt="My surname is Wang" />
+	<item id="3" audio="u1s2a1a3.mp3" hanzi="你叫什么名字" punct="。" prompt="What is your name?" />
+</act>
+
+
+
+
+
+
+
+
+
+

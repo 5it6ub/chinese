@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript himage = "images/general/transcript.png">
+	<line hanzi="医生" pinyin="Yīsheng">
+		<hanzi>你好，你哪里不舒服？</hanzi>
+		<pinyin>Nǐ hǎo, nǐ nǎlǐ bù shūfu?</pinyin>
+	</line>
+	<line hanzi="病人" pinyin="Bìngrén">
+		<hanzi>医生，我喉咙疼，而且好像发烧了。</hanzi>
+		<pinyin>Yīsheng, wǒ hóulong téng, érqiě hǎoxiàng fāshāo le.</pinyin>
+	</line>	
+	<line hanzi="医生" pinyin="Yīsheng">
+		<hanzi>把嘴张开，让我看看，说“啊”。</hanzi>
+		<pinyin>Bǎ zuǐ zhāngkāi, ràng wǒ kànkan, shuō 'ā'.</pinyin>
+	</line>
+	<line hanzi="病人" pinyin="Bìngrén">
+		<hanzi>啊......</hanzi>
+		<pinyin>Ā...</pinyin>
+	</line>
+	<line hanzi="医生" pinyin="Yīsheng">
+		<hanzi>你喉咙发炎了，我给你开点消炎药片。你发烧几天了？</hanzi> 
+		<pinyin>Nǐ hóulong fāyán le, wǒ gěi nǐ kāi diǎn xiāoyán yàopiàn. Nǐ fāshāo jǐ tiān le?</pinyin>
+	</line>
+	<line hanzi="病人" pinyin="Bìngrén">
+		<hanzi>昨天开始发烧的，我自己量过体温，三十八度。</hanzi>
+		<pinyin>Zuótiān kāishǐ fāshāo de, wǒ zìjǐ liáng guò tǐwēn, sān shí bā dù.</pinyin>
+	</line>
+	<line hanzi="医生" pinyin="Yīsheng">
+		<hanzi>我再给你开点退烧片。你对青霉素过敏吗？</hanzi>
+		<pinyin>Wǒ zài gěi nǐ kāi diǎn tuìshāo piàn. Nǐ duì qīngméisù guòmǐn ma?</pinyin>
+	</line>
+	<line hanzi="病人" pinyin="Bìngrén">
+		<hanzi>不过敏。</hanzi>
+		<pinyin>Bù guòmǐn.</pinyin>
+	</line>
+	<line hanzi="医生" pinyin="Yīsheng">
+		<hanzi>平时注意多喝水，多休息。</hanzi>
+		<pinyin>Píngshí zhùyì duō hēshuǐ, duō xīuxi.</pinyin>
+	</line>
+	<line hanzi="病人" pinyin="Bìngrén">
+		<hanzi>好的，我知道了，谢谢医生。</hanzi>
+		<pinyin>Hǎo de, wǒ zhīdào le, xièxie yīsheng.</pinyin>
+	</line>
+    <line hanzi="医生" pinyin="Yīsheng">
+		<hanzi>不客气。</hanzi>
+		<pinyin>Bù kèqi.</pinyin>
+	</line>
+</transcript>
+

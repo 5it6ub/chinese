@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u9s1a3a1.mp3" hanzi="你好，你要买点什么？" pinyin="Nǐ hǎo, nǐ yào mǎi diǎn shénme?" />
+	<item id="2" audio="u9s1a3a2.mp3" hanzi="你们这儿有葡萄吗？" pinyin="Nǐmen zhèr yǒu pútao ma" />
+	<item id="3" audio="u9s1a3a3.mp3" hanzi="葡萄卖完了，这些橙子是今天才来的，非常新鲜。" pinyin="Pútao mài wán le, zhèxiē chéngzi shì jīntiān cái lái de, fēicháng xīnxiān." />
+	<item id="4" audio="u9s1a3a4.mp3" hanzi="橙子多少钱一斤？" pinyin="Chéngzi duōshǎo qián yī jīn?" />
+	<item id="5" audio="u9s1a3a5.mp3" hanzi="橙子三块五一斤，你要几斤?" pinyin="Chéngzi sān kuài wǔ yī jīn, nǐ yào jǐ jīn?" />
+	<item id="6" audio="u9s1a3a6.mp3" hanzi="来三斤吧，嗯，这些香蕉怎么卖呢？" pinyin="Lái sān jīn ba, ēn, zhèxiē xiāngjiāo zěnme mài ne?" />
+	<item id="7" audio="u9s1a3a7.mp3" hanzi="香蕉四块钱一斤，这些香蕉可好吃了。" pinyin="Xiāngjiāng sì kuài qián yī jīn, zhèxiē xiāngjiāo kě hǎochī le." />	
+	<item id="8" audio="u9s1a3a8.mp3" hanzi="那也给我来一串吧。" pinyin="Nà yě gěi wǒ lái yī chuàn ba." />	
+</act>
+
+

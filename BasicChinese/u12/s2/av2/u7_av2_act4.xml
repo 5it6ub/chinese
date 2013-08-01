@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "cw" aimage="images/acts/cw.png" alink="u7/av2/audio/u7_av2_act4_a" title="Write it Yourself!">
+	<intro>Use the English prompts to create five sentences using the characters below.</intro>
+	<item id="1" audio="1.mp3" hanzi="我好像发烧了" punct="。" prompt="It seems that I have a high fever." />
+	<item id="2" audio="2.mp3" hanzi="把嘴张开" punct="。" prompt="Open the mouth." />
+	<item id="3" audio="3.mp3" hanzi="你对青霉素过敏吗" punct="?" prompt="Are you allergic to penicillin?" />
+	<item id="4" audio="4.mp3" hanzi="你喉咙发炎了" punct="。" prompt="You have a throat infection." />
+	<item id="5" audio="5.mp3" hanzi="多喝水" punct="。" prompt="Have much water" />
+</act>
+
+
+
+
+
+

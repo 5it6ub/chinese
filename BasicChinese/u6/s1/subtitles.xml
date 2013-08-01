@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>24</time>
+		<track1>Hello</track1>
+		<track2>您好</track2>
+		<track3>Nín hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>36</time>
+		<track1>Hello</track1>
+		<track2>你好</track2>
+		<track3>Nǐ hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>42</time>
+		<track1>I would like a room</track1>
+		<track2>我想要一个房间</track2>
+		<track3>Wǒ xiǎng yào yī gè fángjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>62</time>
+		<track1>Would you likea single or a double room?</track1>
+		<track2>请问您要单人间还是双人间？</track2>
+		<track3>Qǐngwèn nín yào dānrénjiān háishì shuāngrénjiān?</track3>
+	</subtitle>
+	<subtitle>
+		<time>88</time>
+		<track1>A single room</track1>
+		<track2>一个单人间</track2>
+		<track3>Yī gè dānrénjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>96</time>
+		<track1>Excuse me, how much is the room?</track1>
+		<track2>请问房间多少钱？</track2>
+		<track3>Qǐngwèn fángjiān duōshǎo qián?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>114</time>
+		<track1>Fourhundred Yuan</track1>
+		<track2>四百块钱</track2>
+		<track3>Sì bǎi kuài qián</track3>
+	</subtitle>
+	<subtitle>
+		<time>128</time>
+		<track1>Excuse me, how many days are you staying?</track1>
+		<track2>请问您住几天？</track2>
+		<track3>Qǐngwèn nín zhù jǐ tiān?</track3>
+	</subtitle>
+	<subtitle>
+		<time>146</time>
+		<track1>Three days</track1>
+		<track2>三天</track2>
+		<track3>Sān tiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>156</time>
+		<track1>Ok, please fill in the registration form</track1>
+		<track2>好的，请您填一下登记表</track2>
+		<track3>Hǎode, qǐng nín tián yīxià dēngjìbiǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>184</time>
+		<track1>Ok</track1>
+		<track2>好的</track2>
+		<track3>Hǎode</track3>
+	</subtitle>
+	<subtitle>
+		<time>192</time>
+		<track1></track1>
+		<track2></track2>
+		<track3></track3>
+	</subtitle>	
+	<subtitle>
+		<time>264</time>
+		<track1>Ok, this is your room key, it is room 345</track1>
+		<track2>好，这是您房间的钥匙，345房间</track2>
+		<track3>Hǎo. Zhèshì nín fángjiān de yàoshi, sān sì wǔ fángjian</track3>
+	</subtitle>	
+	<subtitle>
+		<time>300</time>
+		<track1>Excuse me, when is breakfast?</track1>
+		<track2>请问早饭几点</track2>
+		<track3>Qǐngwèn zǎofàn jǐ diǎn?</track3>
+	</subtitle>
+	<subtitle>
+		<time>318</time>
+		<track1>Breakfast is from seven until 9.30</track1>
+		<track2>早饭从七点到九点半</track2>
+		<track3>Zǎofàn cóng qī diǎn dào jiǔ diǎn bàn.</track3>
+	</subtitle>
+	<subtitle>
+		<time>344</time>
+		<track1>Thank you, goodbye</track1>
+		<track2>谢谢，再见</track2>
+		<track3>Xièxie, zàijiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>354</time>
+		<track1>Goodbye</track1>
+		<track2>再见</track2>
+		<track3>Zàijiàn</track3>
+	</subtitle>	
+</subtitles>
+

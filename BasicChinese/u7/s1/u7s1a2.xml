@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u7s1a2a1.mp3">What is preferred, water-colour painting or oil painting?</quest>
+		<op fb="correct">water-colour painting</op>
+		<op fb="incorrect: listen again">oil-painting</op>
+		<op fb="incorrect: listen again">both</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u7s1a2a2.mp3">How long has the first person been learning calligraphy?</quest>
+		<op fb="incorrect: listen again">3 years</op>
+		<op fb="incorrect: listen again">2 years</op>
+		<op fb="correct">1 year</op>
+	</item>		
+	<item id="2">
+		<quest correct="3" audio="u7s1a2a3.mp3">What does the second person play well?</quest>
+		<op fb="incorrect: listen again">both basketball and tennis</op>
+		<op fb="incorrect: listen again">basketbal</op>		
+		<op fb="correct">tennis</op>
+	</item>	
+</act>
+

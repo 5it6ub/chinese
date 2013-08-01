@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">What is the way to the library?</quest>
+		<op fb="correct">first westward, then northward</op>
+		<op fb="incorrect: listen again">first northward, then westward</op>
+		<op fb="incorrect: listen again">first eastward, then northward</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">Where is the toilet?</quest>
+		<op fb="incorrect: listen again">next to the door</op>
+		<op fb="correct">inside the building</op>		
+		<op fb="incorrect: listen again">next to the building</op>		
+	</item>	
+</act>	
+

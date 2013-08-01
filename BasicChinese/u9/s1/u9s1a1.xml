@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="1" audio="">How much are the apples?</quest>
+		<op fb="correct">3 yuan per jin</op>
+		<op fb="incorrect: listen again">2 yuan per jin</op>
+		<op fb="incorrect: listen again">1 yuan per jin</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">How much does the customer pay in all?</quest>
+		<op fb="correct">12 yuan</op>		
+		<op fb="incorrect: listen again">15 yuan</op>
+		<op fb="incorrect: listen again">6 yuan</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Which is more expensive,apple or orange?</quest>
+		<op fb="incorrect: listen again">apple</op>
+		<op fb="incorrect: listen again">orange</op>
+		<op fb="correct">they are the same</op>
+	</item>
+</act>	

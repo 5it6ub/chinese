@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u6s1a3a1.mp3" hanzi="您好，我要一个房间。" pinyin="Nín hǎo, wǒ yào yī gè fángjiān." />
+	<item id="2" audio="u6s1a3a2.mp3" hanzi="您要的是单人间吗？" pinyin="Nín yào de shì dān rén jiān ma?" />
+	<item id="3" audio="u6s1a3a3.mp3" hanzi="不，我要一间双人间" pinyin="Bù, wǒ yào yī jiān shuāng rén jiān." />
+	<item id="4" audio="u6s1a3a4.mp3" hanzi="好的，请问您住几个晚上？" pinyin="Hǎo de, qǐng wèn nín zhù jǐ gè wǎnshàng?" />
+	<item id="5" audio="u6s1a3a5.mp3" hanzi="两个晚上，双人间怎么收费" pinyin="Liǎng gè wǎnshàng, shuāng rén jiān zěnme shōu fèi?" />
+	<item id="6" audio="u6s1a3a6.mp3" hanzi="双人间五百块钱一天，两晚一千。" pinyin="Shuāng rén jiān wǔ bǎi kuài qián yī tiān, liǎng wǎn yī qiān." />
+	<item id="7" audio="u6s1a3a7.mp3" hanzi="好，请问包早饭吗？" pinyin="Hǎo, qǐngwèn bāo zǎofàn ma?" />	
+	<item id="8" audio="u6s1a3a8.mp3" hanzi="包早饭，七点半到十点。" pinyin="Bāo zǎofàn, qī diǎn bàn dào shí diǎn." />	
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

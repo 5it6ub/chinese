@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u6s3a4a1.mp3" hanzi="请问您贵姓" punct="?" prompt="May I have your honourable surname please?" />
+	<item id="2" audio="u6s3a4a2.mp3" hanzi="我打电话预定的" punct="。" prompt="I booked by telephone." />
+	<item id="3" audio="u6s3a4a3.mp3" hanzi="房间怎么样" punct="?" prompt="How is the room?" />
+	<item id="4" audio="u6s3a4a4.mp3" hanzi="这是我的身份证" punct="。" prompt="This is my ID card." />
+	<item id="5" audio="u6s3a4a5.mp3" hanzi="每个房间都有电视" punct="。" prompt="Every room has a TV set." />
+</act>

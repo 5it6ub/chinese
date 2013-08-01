@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Listen to the audio and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">What subject does Ming Liu study?</quest>
+		<op fb="Management is guǎnlǐ">Management</op>
+		<op fb="correct">Mathematics</op>
+		<op fb="Physics is wùlǐ">Physics</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">What subject does Sen Li study?</quest>
+		<op fb="correct">Management</op>
+		<op fb="Physics is wùlǐ">Physics</op>
+		<op fb="Mathematics is shùxué">Mathematics</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">What is Ming Liu's nationality?</quest>
+		<op fb="correct">Chinese</op>
+		<op fb="English is Yīngguórén">British</op>
+		<op fb="Singaporean is Xīnjiāpōrén">Singaporean</op>	
+	</item>	
+	<item id="4">
+		<quest correct="3" audio="">What is Sen Li's nationality?</quest>
+		<op fb="Chinese is Zhōngguórén">Chinese</op>
+		<op fb="English is Yīngguórén">British</op>
+		<op fb="correct">Singaporean</op>	
+	</item>
+</act>

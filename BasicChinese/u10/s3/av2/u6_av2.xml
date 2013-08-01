@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<av>
+	<keywords data = "u6/av2/u6_av2_kw.xml" />
+	<translation data = "u6/av2/u6_av2_tl.xml" />
+	<transcript data = "u6/av2/u6_av2_tc.xml" />
+	<acts himage = "images/general/activities.png">
+		<act name = "Listening Comprehension" data = "u6/av2/u6_av2_act1.xml" image = "images/acts/lc.png" />
+		<act name = "Additional Listening" data = "u6/av2/u6_av2_act2.xml" image = "images/acts/al.png" />
+		<act name = "Dialogue Reconstruction" data = "u6/av2/u6_av2_act3.xml" image = "images/acts/dr.png" />
+		<act name = "Write it Yourself!" data = "u6/av2/u6_av2_act4.xml" image = "images/acts/cw.png" />
+	</acts>
+</av>

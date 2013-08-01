@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What did Chen just finish?</quest>
+		<op fb="incorrect: listen again">his essay</op>
+		<op fb="incorrect: listen again">his degree</op>
+		<op fb="correct">his project</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What are they going to do on Saturday?</quest>
+		<op fb="incorrect: listen again">They are going to a concert.</op>		
+		<op fb="correct">They are going to the cinema.</op>
+		<op fb="incorrect: listen again">They are going to a museum.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">What do they want to do first?</quest>
+		<op fb="correct">have dinner together</op>
+		<op fb="incorrect: listen again">phone some friends</op>
+		<op fb="incorrect: listen again">finish a project</op>
+	</item>
+</act>	
+

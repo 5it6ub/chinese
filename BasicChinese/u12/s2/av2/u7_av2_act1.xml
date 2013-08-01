@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'mc1' aimage="images/acts/lc.png" title="Listening Comprehension">
+	<intro>Watch the video and then answer the questions below.</intro>
+	<item>
+		<quest correct="1" text="What’s wrong with the patient? " />
+		<opt id="1" text="sore throat and high fever" image="images/u7/av2/flowers.png" />
+		<opt id="2" text="sore throat and bad cold" image="images/u7/av2/wine.png" />
+		<opt id="3" text="bad cold and high fever" image="images/u7/av2/fruits.png" />
+	</item>	
+	<item>
+		<quest correct="2" text="How high was the body temperature? " />
+		<opt id="1" text="37 degrees" image="images/u7/av2/flowers.png" />
+		<opt id="2" text="38 degrees" image="images/u7/av2/wine.png" />
+		<opt id="3" text="39 degrees" image="images/u7/av2/fruits.png" />
+	</item>	
+</act>

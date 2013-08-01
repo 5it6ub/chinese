@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u3s1a2a1.mp3">What is the person's first name?</quest>
+		<op fb="incorrect">Qiang</op>
+		<op fb="correct: listen again">Chen</op>
+		<op fb="incorrect: listen again">Jiang</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u3s1a2a2.mp3">Where does he go to university?</quest>
+		<op fb="incorrect: listen again">in Hongkong</op>
+		<op fb="correct">in London</op>
+		<op fb="incorrect: listen again">in Shanghai</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="u3s1a2a3.mp3">What is his subject?</quest>
+		<op fb="incorrect: Physics is 'wùlǐ'">Physics</op>
+		<op fb="incorrect: Management is 'guǎnlǐ'">Management</op>
+		<op fb="correct">Linguistics</op>
+	</item>
+	<item id="4">
+		<quest correct="2" audio="u3s1a2a4.mp3">Who is she?</quest>
+		<op fb="incorrect: wife is 'qīzi' or 'tàitai'">his wife</op>
+		<op fb="correct">his girl-friend</op>
+		<op fb="incorrect: sister is 'jǐejie'(older) or 'mèimei'(younger)">his sister</op>
+	</item></act>
+
+

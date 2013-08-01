@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u6s6a4a1.mp3" hanzi="这是您的行李牌" punct="。" prompt="This is your luggage label." />
+	<item id="2" audio="u6s6a4a2.mp3" hanzi="请把行李放在那边" punct="。" prompt="Please put your luggage over there." />
+</act>

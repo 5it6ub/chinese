@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u1s5a3a1.mp3" hanzi="你好，你是这里的新学生吗？" pinyin="Nǐhǎo, nǐ shì zhèlǐ de xīn xuésheng ma?" />
+	<item id="2" audio="u1s5a3a2.mp3" hanzi="对，我叫Ann，很高兴认识你。" pinyin="Duì, wǒ jiào Ann, hěn gāoxìng rènshi nǐ." />
+	<item id="3" audio="u1s5a3a3.mp3" hanzi="你好，Ann。你来这里学什么？" pinyin="Nǐhǎo, Ann. Nǐ lái zhèlǐ xué shénme?" />
+	<item id="4" audio="u1s5a3a4.mp3" hanzi="我来这里学中国文学。" pinyin="Wǒ lái zhèlǐ xué Zhōngguó wénxué." />
+	<item id="5" audio="u1s5a3a5.mp3" hanzi="你的中文说得很不错。在哪儿学的？" pinyin="Nǐ de zhōngwén shuō de hěn bùcuò. Zài nǎr xué de?" />	
+	<item id="6" audio="u1s5a3a6.mp3" hanzi="我来之前在美国学了四年中文了。" pinyin="Wǒ lái zhīqián zài Měiguó xuéle sì nián zhōngwén le." />
+	<item id="7" audio="u1s5a3a7.mp3" hanzi="哦，难怪说得那么好。" pinyin="Ò, nánguài shuō de nàme hǎo." />
+	<item id="8" audio="u1s5a3a8.mp3" hanzi="哪里哪里。" pinyin="Nǎlǐ nǎlǐ." />
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

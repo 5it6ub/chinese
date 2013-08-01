@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>1</time>
+		<track1>What is your name?</track1>
+		<track2>你姓什么?</track2>
+		<track3>Nǐ xìng shénme?</track3>
+	</subtitle>
+	<subtitle>
+		<time>18</time>
+		<track1>My name is Wang.</track1>
+		<track2>我姓王。</track2>
+		<track3>Wǒ xìng Wáng.</track3>
+	</subtitle>
+	<subtitle>
+		<time>30</time>
+		<track1>What is your name?</track1>
+		<track2>你叫什么?</track2>
+		<track3>Nǐ jiào shénme?</track3>
+	</subtitle>
+	<subtitle>
+		<time>44</time>
+		<track1>My name is Wang Xiaochuan.</track1>
+		<track2>我叫王小川。</track2>
+		<track3>Wǒ jiào Wáng Xiǎochuān.</track3>
+	</subtitle>
+</subtitles>
+

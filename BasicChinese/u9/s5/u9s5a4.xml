@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u9s5a4a1.mp3" hanzi="买点面包当早餐吧" punct="。" prompt="Let’s buy some bread for breakfast." />
+	<item id="2" audio="u9s5a4a2.mp3" hanzi="这儿有咸面包" punct="。" prompt="There is salty bread" />
+	<item id="3" audio="u9s5a4a3.mp3" hanzi="我也爱吃蛋黄派" punct="。" prompt="I also like eating yolk-pies." />
+	<item id="4" audio="u9s5a4a4.mp3" hanzi="挺便宜的" punct="。" prompt="It is quite cheap." />
+</act>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u6s2a4a1.mp3" hanzi="请问你哪天到" punct="?" prompt="May I ask which day you are going to arrive?" />
+	<item id="2" audio="u6s2a4a2.mp3" hanzi="房间怎么收费" punct="?" prompt="How is the room charged?" />
+	<item id="3" audio="u6s2a4a3.mp3" hanzi="单人间每天400元" punct="。" prompt="A single room is 400 yuan per day." />
+	<item id="4" audio="u6s2a4a4.mp3" hanzi="包括早餐吗" punct="?" prompt="Is breakfast included?" />
+	<item id="5" audio="u6s2a4a5.mp3" hanzi="我想订个双人间" punct="。" prompt="I want to book a double room" />
+</act>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amenu hfont="kai.swf">
+	<item name="Check your understanding!" icon="../../images/listen.png" player="../../utils/sc.swf" content="u8s2a1.xml"/>
+	<item name="Listen carefully" icon="../../images/elisten.png" player="../../utils/sc.swf" content="u8s2a2.xml"/>
+	<item name="Reconstruct that dialogue" icon="../../images/write.png" player="../../utils/ro.swf" content="u8s2a3.xml"/>
+	<item name="Write it yourself" icon="../../images/write.png" player="../../utils/rw.swf" content="u8s2a4.xml"/>
+</amenu>

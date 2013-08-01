@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u1s4a2a1.mp3">What is the person's surname?</quest>
+		<op fb="correct">Wang</op>
+		<op fb="incorrect: listen again.">Huang</op>
+		<op fb="incorrect: listen again.">Yang</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u1s4a2a2.mp3">Where is he from?</quest>
+		<op fb="Britain is Yīngguó">Britain</op>
+		<op fb="correct">China</op>
+		<op fb="America is Měiguó">America</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="u1s4a2a3.mp3">What did she give to him?</quest>
+		<op fb="A piece of paper is 'yī zhāng zhǐ'.">a piece of paper</op>
+		<op fb="A name badge is 'huīzhāng'">a name badge</op>
+		<op fb="correct">a business card</op>
+	</item>
+</act>
+
+

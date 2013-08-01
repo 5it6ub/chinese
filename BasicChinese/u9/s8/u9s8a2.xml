@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u9s8a2a1.mp3">Whom is the present for?</quest>
+		<op fb="incorrect: listen again">her friend</op>
+		<op fb="incorrect: listen again">herself</op>
+		<op fb="correct">her teacher</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u9s8a2a2.mp3">How much does she propose?</quest>
+		<op fb="incorrect: listen again">10 Yuan</op>
+		<op fb="correct">60 Yuan</op>
+		<op fb="incorrect: listen again">70 Yuan</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u9s8a2a3.mp3">How much is the price?</quest>
+		<op fb="incorrect: listen again">100 Yuan</op>
+		<op fb="correct">90 Yuan</op>
+		<op fb="incorrect: listen again">10 Yuan</op>		
+	</item>	
+	<item id="4">
+		<quest correct="3" audio="u9s8a2a4.mp3">What does she mean?</quest>
+		<op fb="incorrect: listen again">She doesn’t like the clothes.</op>
+		<op fb="incorrect: listen again">She is going to take it immediately.</op>		
+		<op fb="correct">She wants to have a discount.</op>
+	</item>		
+</act>

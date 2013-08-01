@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="4" audio="u3s5a2a1.mp3">How long has she studied in England?</quest>
+		<op fb="incorrect: listen again">6 month</op>
+		<op fb="incorrect: listen again">1 year</op>
+		<op fb="incorrect: listen again">18 months</op>
+		<op fb="correct">2 years</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u3s5a2a2.mp3">When did she graduate from Shanghai Jiaotong University?</quest>
+		<op fb="incorrect: listen again">1996</op>
+		<op fb="incorrect: listen again">1998</op>
+		<op fb="correct">2001</op>
+		<op fb="incorrect: listen again">2005</op>			
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u3s5a2a3.mp3">His family has the following members:</quest>
+		<op fb="incorrect">paternal grandparent,father, mother, older brother</op>
+		<op fb="correct: ">father, mother, younger brother, younger sister</op>
+		<op fb="incorrect: ">paternal grandparents, father, mother, older sister, younger sister</op>
+		<op fb="incorrect: ">father mother, older sister, younger sister and younger brother</op>
+		
+	</item>
+	<item id="4">
+		<quest correct="1" audio="u3s5a2a4.mp3">What does she study?</quest>
+		<op fb="correct">History</op>
+		<op fb="incorrect: geography is 'dìlǐ'">Geography</op>
+		<op fb="incorrect: linguistics is 'yányǔxué'">Linguistics</op>
+		<op fb="incorrect: sociology is 'shèhuìxué'">Sociology</op>
+	</item></act>
+
+

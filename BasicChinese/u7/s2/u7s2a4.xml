@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u7s2a4a1.mp3" hanzi="你有什么兴趣爱好" punct="？" prompt="What interest and hobbies have you got?" />
+	<item id="2" audio="u7s2a4a2.mp3" hanzi="我喜欢体育运动" punct="。" prompt="I like sports." />
+	<item id="3" audio="u7s2a4a3.mp3" hanzi="我只会下中国象棋" punct="。" prompt="I can only play Chinese chess." />
+	<item id="4" audio="u7s2a4a4.mp3" hanzi="有机会我也试试" punct="。" prompt="I would also have a try if there is a chance." />
+	<item id="5" audio="u7s2a4a5.mp3" hanzi="你觉得怎么样" punct="？" prompt="What do you think?" />
+</act>
+

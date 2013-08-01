@@ -1,0 +1,260 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background: url(body_bg.jpg) no-repeat top center; 
+	background-color: #FFFFFF;
+	text-align: center;
+	font-size: 62.5%;
+}
+
+#container { 
+	margin: auto;
+	text-align: left;
+	width: 780px; 
+	background-color:#FFFFFF;
+	background: url(unit_bg_top.jpg) no-repeat top center; 
+	position: relative; 
+}
+
+#header{
+	padding: 0;
+	height: 8em;
+	position: relative;
+	background-color:#CC0000;
+	border-bottom: 1px solid  #ECECEC;
+	margin-bottom: 5px;
+}
+	
+#header h1{
+	font-size: 2.4em;
+	color:#DDCC88;
+	padding-top:0.5em;
+	text-align:center;
+}
+
+#main {
+	margin-top: 60px;
+	float: right;
+	width: 620px;
+	padding: 0 10px 0 0;
+	
+}
+
+#main p {
+	font-size: 1.2em;
+}
+
+#selector{
+	float:right;
+	width:360px;
+	font-size: 1.2em;
+}
+.item{
+	clear:both;
+	margin:0px;
+	padding:2px;
+	background-image:url(../images/selector.png);
+	background-repeat:no-repeat;
+	font-size:1em;
+}
+
+.item p{
+	margin-top:5px;
+	padding:0px;
+	margin-left:15px;
+}
+
+#selector a:link{color: #660000; text-decoration:none;}
+#selector a:visited{color: #660000; text-decoration:none;}
+#selector a:hover{color: #990000; text-decoration:none;}
+#selector a:active{color: #FF0000; text-decoration:none;}
+
+#video{
+	float:left;
+}
+
+#display{
+	clear:both;
+	padding:5px;
+	margin-top:5px;
+}
+
+#display h2.selectDisplay {
+	font-size: 1.35em;
+	margin: 2px 0 4px 0;
+}
+
+#display h2.selectDisplay a {
+	text-decoration: none;
+	color: #990000;
+	border: none;
+}
+
+#display h2.selectDisplay img{
+	border: none;
+}
+
+#display h2.selectDisplay a:visited {
+	color: #990000;
+}
+
+#display h2.selectDisplay a:hover {
+	color: #660000;
+}
+
+.selectDisplay{
+	padding:4px;
+}
+
+
+#keywords{
+	display:block;
+}
+#keywords img {width:16px; height:16px;}
+
+#vocabulary{
+	display:block;		
+}
+
+#transcript{
+	display:block;		
+}
+
+#translation{
+	display:block;		
+}
+
+#activity{
+	display:block;	
+}
+
+/*#sidebar{
+	float: left;
+	width:143px;
+	margin: 250px 0 0 3px;
+	font-size:1.4em;
+	text-align: left;
+	background-color:#DDCC88;
+}*/
+
+#sidebar{
+		float: left;
+		padding:0px;
+		width:141px;
+		margin: 0;
+		font-size:1.4em;
+		text-align: left;
+		background-color:white;
+		background-image:url(bamboo.png);
+		background-repeat: repeat-y;
+}
+
+
+#sidetop{
+        padding:0px;
+		float: left;
+        margin: 250px 0 0 0;
+        background-image:url(bamboo_top.png);
+        background-repeat: no-repeat;   
+        width:141px;
+        height:20px;
+		background-color:white;
+}
+
+
+#sidebottom{
+        padding:0px;
+		float: left;
+        margin: 0;
+        background-image:url(bamboo_bottom.png);
+        background-repeat: no-repeat;   
+        width:141px;
+        height:20px;
+		background-color:white;
+}
+
+#sidebar ul {
+	font-size: 0.95em;
+	list-style-type:none;
+	margin-left:0px;
+	padding-left:18px;
+	padding-top:0;
+	padding-bottom:4px;
+}
+
+#sidebar ul ul{
+	font-size: 0.85em;
+	list-style-type:none;
+	padding-left:10px;
+	padding-top:1px;
+	padding-bottom:3px;
+}
+
+#footer{
+	clear: both;
+	font-size: 1em;
+	padding-top: 2px;
+	color: #660000;
+	text-align: center;
+	border-top: 1px dotted #660000;
+	margin-top: 10px;
+}
+
+#sidebar a:link{color: #660000; text-decoration:none; }
+#sidebar a:visited{color: #000000; text-decoration:none; }
+#sidebar a:hover{color: #990000; text-decoration:none; }
+#sidebar a:active{color: #FF0000; text-decoration:none; }
+
+
+.wordlist {
+	padding: 5px;
+}
+
+.wordlist img{
+	vertical-align:middle;
+	border: none;
+	margin-right: 10px;
+}
+
+.wordlist td{
+	width:300px;
+}
+
+a.tp{
+	position:relative;
+	text-decoration:none;
+}
+
+a.tp span{
+	display:none;
+}
+
+a.tp:hover span{
+	display:block;
+	position:absolute;
+	top: 0;
+	left: 3em;	
+	padding: 0.1em 0.3em 0.2em 0.3em;
+	border:1px solid #996633;
+	background-color:#DDCC88;
+	color:#000;
+	font-size: 80%; /* IE 5.x/Win bugfix */
+}
+.pinyin{
+	display:none;
+	padding-left:10px;
+}
+
+.hanzi {
+	font-size:1.4em;
+}
+.eng{
+	font-size:1.4em
+}

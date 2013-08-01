@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">Can the girl speak Chinese?</quest>
+		<op fb="incorrect: listen again">Yes, she is a native speaker.</op>
+		<op fb="incorrect: the video proves the opposite.">No, she speaks no Chinese.</op>
+		<op fb="correct">Yes, she speaks some Chinese.</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">What is the girl's mother tongue?</quest>
+		<op fb="incorrect: her mother tongue is not 'Fǎyǔ'">French</op>
+		<op fb="correct">English</op>
+		<op fb="incorrect: her mother tongue is not 'Yìdàlìyǔ'">Italian</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">How is his Italian?</quest>
+		<op fb="correct">He is learning Italian.</op>
+		<op fb="incorrect: listen again">It is his second language.</op>
+		<op fb="incorrect: listen again">He knows no Italian at all.</op>
+	</item>
+	<item id="4">
+		<quest correct="1" audio="">What is his mother tongue?</quest>
+		<op fb="correct">Mandarin</op>
+		<op fb="incorrect: Cantonese is 'Guǎngdōnghuà'">Cantonese</op>
+		<op fb="incorrect: Hakka is 'Kèjiāyǔ'">Hakka</op>
+	</item>
+</act>

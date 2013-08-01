@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u9s7a2a1.mp3">What does the customer want?</quest>
+		<op fb="incorrect: listen again">a white blouse</op>
+		<op fb="correct">a pair of white trousers</op>
+		<op fb="incorrect: listen again">a pair of black trousers</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u9s7a2a2.mp3">What might the customer mean?</quest>
+		<op fb="incorrect: listen again">He wants a smaller size.</op>
+		<op fb="incorrect: listen again">He wants to buy this shirt.</op>		
+		<op fb="correct">He wants a bigger size.</op>
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u9s7a2a2.mp3">What is the sales-person asking about?</quest>
+		<op fb="incorrect: listen again">colour</op>
+		<op fb="correct">size</op>
+		<op fb="incorrect: listen again">style</op>		
+	</item>		
+</act>

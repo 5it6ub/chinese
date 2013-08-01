@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u5s2a3a1.mp3" hanzi="小姐，点菜。" pinyin="Xiǎojiě, diǎncài." />
+	<item id="2" audio="u5s2a3a2.mp3" hanzi="好的，先生，您想吃点什么？" pinyin="Hǎo de, xiānsheng, nín xiǎng chī diǎn shénme?" />
+	<item id="3" audio="u5s2a3a3.mp3" hanzi="你们这里什么菜最有名？" pinyin="Nǐmen zhèlǐ shénme cài zuì yǒumíng?" />
+	<item id="4" audio="u5s2a3a4.mp3" hanzi="当然是糖醋鱼了。" pinyin="Dāngrán shì tángcùyú le." />
+	<item id="5" audio="u5s2a3a5.mp3" hanzi="那就给我来一份糖醋鱼。" pinyin="Nà jiù gěi wǒ lái yī fèn tángcùyú." />
+	<item id="6" audio="u5s2a3a6.mp3" hanzi="好的，还要别的吗" pinyin="Hǎo de, háiyào biéde ma?" />
+	<item id="7" audio="u5s2a3a7.mp3" hanzi="再来一瓶啤酒，一盘青菜。" pinyin="Zài lái yī píng píjiǔ, yī pán qǐngcài." />	
+	<item id="8" audio="u5s2a3a8.mp3" hanzi="好，请稍等。" pinyin="Hǎo, qǐng shāoděng." />	
+</act>
+
+
+
+
+
+
+
+
+

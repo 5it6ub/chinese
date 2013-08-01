@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u12s1a3a1.mp3" hanzi="你看起来很累，你怎么了？" pinyin="Nǐ kàn qǐlái hěn lèi, nǐ zěnme le?" />
+	<item id="2" audio="u12s1a3a2.mp3" hanzi="我牙疼得厉害。" pinyin="Wǒ yá téng de lìhai." />
+	<item id="3" audio="u12s1a3a3.mp3" hanzi="哦，我有止疼片，你拿去试试。" pinyin="Ò, wǒ yǒu zhǐténgpiàn, nǐ ná qù shìshi." />
+	<item id="4" audio="u12s1a3a4.mp3" hanzi="好，谢谢，我觉得自己浑身没有力气。" pinyin="Hǎo, xièxie, wǒ juéde zìjǐ húnshēn méiyǒu lìqi." />
+	<item id="5" audio="u12s1a3a5.mp3" hanzi="让我摸摸你的额头，哦，你发烧了。" pinyin="Ràng wǒ mōmo nǐde étou, ò, nǐ fāshāo le." />	
+	<item id="6" audio="u12s1a3a6.mp3" hanzi="难怪，我觉得身体发热。你有退烧药吗？" pinyin="Nánguài, wǒ juéde shēntǐ fārè. Nǐ yǒu tuìshāo yào ma?" />	
+	<item id="7" audio="u12s1a3a7.mp3" hanzi="退烧药我没有，我建议你去看医生。" pinyin="Tuìshāo yào wǒ méiyǒu, wǒ jiànyì nǐ qù kàn yīsheng." />	
+	<item id="8" audio="u12s1a3a8.mp3" hanzi="嗯，我下午请假去看。" pinyin="Ēn, wǒ xiàwǔ qǐngjià qù kàn." />	
+</act>
+
+
+
+
+
+
+
+

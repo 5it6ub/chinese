@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u3s4a2a1.mp3">How many siblings does she have?</quest>
+		<op fb="incorrect: listen again">one</op>
+		<op fb="incorrect: listen again">four</op>
+		<op fb="correct">none</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u3s4a2a2.mp3">Whom is he introducing?</quest>
+		<op fb="incorrect: paternal grandma is 'nǎinai'">his paternal grandma</op>
+		<op fb="incorrect: paternal grandpa is 'yéye'">his paternal grandpa</op>
+		<op fb="correct">his maternal grandpa</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="u3s4a2a3.mp3">With whom did she use to live?</quest>
+		<op fb="correct: ">paternal grandparents</op>
+		<op fb="incorrect: maternal grandparents are 'wàigōng hé wàipó'">maternal grandparents</op>
+		<op fb="incorrect: uncles and aunts are 'shūshu hé āyí'">uncles and aunts</op>
+	</item>
+	<item id="4">
+		<quest correct="3" audio="u3s4a2a4.mp3">What is his now?</quest>
+		<op fb="incorrect: computer teacher is 'diànnǎo lǎoshī'">computer teacher</op>
+		<op fb="incorrect: chemistry teacher is 'huàxué lǎoshī'">chemistry teacher</op>
+		<op fb="correct">software programmer</op>
+	</item></act>
+
+

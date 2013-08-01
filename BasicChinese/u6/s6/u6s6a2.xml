@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u6s6a2a1.mp3">How long will the customer leave the luggage for?</quest>
+		<op fb="incorrect: listen again">for 1 hour</op>
+		<op fb="incorrect: listen again">for 8 hours</op>
+		<op fb="correct">for 7 hours</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u6s6a2a2.mp3">What does the receptionist give to the customer?</quest>
+		<op fb="incorrect: listen again">a leaflet</op>
+		<op fb="correct">a label for her luggage</op>
+		<op fb="incorrect: listen again">a receipt</op>
+	</item>	
+</act>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>1</time>
+		<track1>Hello. I am Li Sen</track1>
+		<track2>你好。 我是李森</track2>
+		<track3>nǐhǎo, wǒ shì Lǐ Sēn</track3>
+	</subtitle>
+	<subtitle>
+		<time>18</time>
+		<track1>What is your name?</track1>
+		<track2>你叫什么?</track2>
+		<track3>nǐ jiào shénme?</track3>
+	</subtitle>
+	<subtitle>
+		<time>34</time>
+		<track1>Hello, Sen lin</track1>
+		<track2>你好, 李森</track2>
+		<track3>nǐhǎo, Lǐ Sēn</track3>
+	</subtitle>
+	<subtitle>
+		<time>48</time>
+		<track1>My surname is Liu</track1>
+		<track2>我姓刘</track2>
+		<track3>wǒ xìng Liú</track3>
+	</subtitle>
+	<subtitle>
+		<time>56</time>
+		<track1>My full name is Liu Ming</track1>
+		<track2>我叫刘明</track2>
+		<track3>wǒ jiào Liú Míng.</track3>
+	</subtitle>	
+	<subtitle>
+		<time>78</time>
+		<track1>Liu Ming, are you a student?</track1>
+		<track2>刘明, 你是学生吗?</track2>
+		<track3>Liú Míng, nǐ shì xuésheng ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>106</time>
+		<track1>Yes. I am a student.</track1>
+		<track2>对, 我是学生</track2>
+		<track3>duì, wǒ shì xuésheng</track3>
+	</subtitle>
+	<subtitle>
+		<time>122</time>
+		<track1>I am studying mathematics, and you?</track1>
+		<track2>我学数学。你呢?</track2>
+		<track3>wǒ xué shùxué, nǐ ne?</track3>
+	</subtitle>
+	<subtitle>
+		<time>148</time>
+		<track1>I am studying Mathematics.</track1>
+		<track2>我学管理</track2>
+		<track3>wǒ xué guǎnlǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>162</time>
+		<track1>Where are you from?</track1>
+		<track2>你从哪里来?</track2>
+		<track3>nǐ cóng nǎlǐ lái?</track3>
+	</subtitle>
+	<subtitle>
+		<time>180</time>
+		<track1>I am from Beijing.</track1>
+		<track2>我从北京来。</track2>
+		<track3>wǒ cóng Běijīng lái.</track3>
+	</subtitle>
+	<subtitle>
+		<time>202</time>
+		<track1>Are you Chinese?</track1>
+		<track2>你是中国人吗?</track2>
+		<track3>nǐ shì Zhōngguó rén ma?</track3>
+	</subtitle>
+	<subtitle>
+		<time>220</time>
+		<track1>No, I am from Singapore.</track1>
+		<track2>不是,我是新加坡人。</track2>
+		<track3>bù shì, wǒ shì Xīnjiàpō rén</track3>
+	</subtitle></subtitles>

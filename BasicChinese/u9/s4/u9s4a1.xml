@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What are they buying?</quest>
+		<op fb="incorrect listen again">beef</op>
+		<op fb="incorrect: listen again">chicken</op>
+		<op fb="correct">instant noodles</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">What flavours do they finally choose?</quest>
+		<op fb="correct">chicken and hot-spicy</op>
+		<op fb="incorrect: listen again">beef and hot-spicy</op>
+		<op fb="incorrect: listen again">chicken and beef</op>		
+	</item>	
+</act>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation himage = "images/general/translation.png">
+	<line col="Doctor">Hello, what's wrong with you?</line>
+	<line col="Patient">Doctor, my throat pains, and seemingly I have a high fever.</line>
+	<line col="Doctor">Open the mouth, let me have a look, say 'ah'.</line>
+	<line col="Patient">Ah...</line>
+	<line col="Doctor">You have a sore throat, I'll prescribe you some anti-infection tablets. For how many days have you had the high fever?</line>
+	<line col="Patient">From yesterday. I've take then temperature myself, 38 degrees.</line>
+	<line col="Doctor">I'll prescribe you some tablet to lower down the temperature. Are you allergic to penicillin?</line>
+	<line col="Patient">No.</line>
+	<line col="Doctor">Do take much water and rest at usual time.</line>
+	<line col="Patient">OK, I know, thank you, doctor.</line>
+	<line col="Doctor">You are welcome.</line>
+</translation>

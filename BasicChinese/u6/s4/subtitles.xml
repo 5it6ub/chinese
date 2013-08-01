@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>6</time>
+		<track1>excuse me</track1>
+		<track2>对不起</track2>
+		<track3>duìbùqǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>12</time>
+		<track1>madam</track1>
+		<track2>服务员</track2>
+		<track3>fúwùyuán</track3>
+	</subtitle>
+	<subtitle>
+		<time>18</time>
+		<track1>the air-conditioning in my room is broken</track1>
+		<track2>我房间的空调坏了</track2>
+		<track3>wǒ fángjiān de kōngtiáo huài le</track3>
+	</subtitle>
+	<subtitle>
+		<time>39</time>
+		<track1>very sorry</track1>
+		<track2>真抱歉</track2>
+		<track3>zhēn bàoqiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>50</time>
+		<track1>excuse, what is the number of your room</track1>
+		<track2>请问您住几号房间?</track2>
+		<track3>qǐngwèn nín zhù jǐ hào fángjiān?</track3>
+	</subtitle>	
+	<subtitle>
+		<time>68</time>
+		<track1>room 345</track1>
+		<track2>345房间</track2>
+		<track3>Sān sì wǔ fángjiān</track3>
+	</subtitle>
+	<subtitle>
+		<time>84</time>
+		<track1>ok</track1>
+		<track2>好的</track2>
+		<track3>Hǎo de</track3>
+	</subtitle>
+	<subtitle>
+		<time>92</time>
+		<track1>I will immediately look for somebody to fix it</track1>
+		<track2>我马上找人去修</track2>
+		<track3>wǒ mǎshàng zhǎo rén qù xiū</track3>
+	</subtitle>
+	<subtitle>
+		<time>106</time>
+		<track1>thank you</track1>
+		<track2>谢谢</track2>
+		<track3>xièxie</track3>
+	</subtitle>	
+</subtitles>

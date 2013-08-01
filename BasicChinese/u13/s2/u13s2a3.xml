@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u13s2a3a1.mp3" hanzi="西方人比较重视什么节日？" pinyin="Xīfāng rén bǐjiào zhòngshì shénme jiérì?" />
+	<item id="2" audio="u13s2a3a2.mp3" hanzi="应该说是圣诞节吧。" pinyin="Yīnggāi shuō shì Shèngdàn jié ba." />
+	<item id="3" audio="u13s2a3a3.mp3" hanzi="人们在圣诞节通常做什么？" pinyin="Rénmen zài Shèngdàn jié tōngcháng zuò shénme?" />
+	<item id="4" audio="u13s2a3a4.mp3" hanzi="通常在那一天，人们会和家人团聚。" pinyin="Tōngcháng zài nà yī tiān, rénmen huì hé jiārén tuánjù." />
+	<item id="5" audio="u13s2a3a5.mp3" hanzi="哦，和中国人在春节那天同家人团聚一样。"  pinyin="Ò, hé Zhōngguó rén zài Chūnjié nà tiān tóng jiārén tuánjù yīyàng." />	
+	<item id="6" audio="u13s2a3a6.mp3" hanzi="对，没错。" pinyin="Duì, méicuò." />	
+</act>
+
+
+
+
+
+
+
+
+

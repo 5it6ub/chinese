@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">Which is the most important festival in China?</quest>
+		<op fb="incorrect: listen again">Mid-Autumn Festival</op>
+		<op fb="incorrect: listen again">Lantern Festival</op>
+		<op fb="correct">Spring Festival</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">When is the Spring Festival?</quest>
+		<op fb="incorrect: listen again">the beginning of February by the lunar calendar</op>		
+		<op fb="correct">1st January by the lunar calendar</op>
+		<op fb="incorrect: listen again">1st January by the solar calendar</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">Which activity does not belong to the Mid-Autumn Festival?</quest>
+		<op fb="correct">dragon boat racing</op>
+		<op fb="incorrect: listen again">appreciating the moon</op>
+		<op fb="incorrect: listen again">eating moon cakes</op>
+	</item>
+</act>	
+
+

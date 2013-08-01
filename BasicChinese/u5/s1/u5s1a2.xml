@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u5s1a2a1.mp3">What is he booking?</quest>
+		<op fb="incorrect: listen again">a seat by the window</op>
+		<op fb="incorrect: listen again">two seats by the window</op>
+		<op fb="correct">two seats by the corridor</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u5s1a2a2.mp3">What does the operator say?</quest>
+		<op fb="incorrect: listen again">The separate rooms are all full</op>
+		<op fb="correct">The dining hall is full.</op>
+		<op fb="incorrect: listen again">There is no vacancy at all.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="u5s1a2a3.mp3">Which day does the customer book?</quest>
+		<op fb="incorrect: listen again">2nd</op>
+		<op fb="incorrect: listen again">12th</op>
+		<op fb="correct">20th</op>	
+	</item>
+</act>

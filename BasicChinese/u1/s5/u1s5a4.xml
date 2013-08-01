@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u1s5a4a1.mp3" hanzi="你会说杭州话吗" punct="?" prompt="Can you speak Hangzhou dialect?" />
+	<item id="2" audio="u1s5a4a2.mp3" hanzi="哪里哪里" punct="。" prompt="Not really." />
+	<item id="3" audio="u1s5a4a3.mp3" hanzi="我是这里的新学生" punct="。" prompt="I am a new student here." />
+	<item id="4" audio="u1s5a4a4.mp3" hanzi="你中文说得很棒" punct="。?" prompt="You speak Chinese very well." />
+</act>

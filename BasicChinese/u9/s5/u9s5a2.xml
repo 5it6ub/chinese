@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u9s5a2a1.mp3">Which flavour does she like?</quest>
+		<op fb="incorrect: listen again">salty</op>
+		<op fb="correct">pine-apple flavoured</op>
+		<op fb="incorrect: listen again">sweet</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="u9s5a2a2.mp3">What are they going to buy?</quest>
+		<op fb="incorrect: listen again">yolk-pie</op>
+		<op fb="incorrect: listen again">chocolate bread</op>		
+		<op fb="correct">chocolate-pie</op>
+	</item>	
+</act>

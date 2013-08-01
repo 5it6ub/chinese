@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords himage = "images/general/keywords.png" alink="u5/av3/audio/u5_av3_kaudio" aimage = "images/general/aicon.png" gimage = "images/general/gicon.png" cimage = "images/general/cicon.png">
+	<entry audio="1.mp3" gr="-1" cn="-1">
+		<hanzi>结账</hanzi>
+		<pinyin>jié,zhàng</pinyin>
+		<english>to pay the bill, to check out</english>
+	</entry>
+	<entry audio="2.mp3" gr="-1" cn="-1">
+		<hanzi>找</hanzi>	
+		<pinyin>zhǎo</pinyin>
+		<english>to give change, to look for</english>
+	</entry>
+	<entry audio="3.mp3" gr="-1" cn="-1">			
+		<hanzi>这</hanzi>
+		<pinyin>zhè</pinyin>
+		<english>this</english>
+	</entry>
+	<entry audio="4.mp3" gr="-1" cn="-1">		
+		<hanzi>账单</hanzi>
+		<pinyin>zhàng,dān</pinyin>
+		<english>bill</english>
+	</entry>
+	<entry audio="5.mp3" gr="-1" cn="-1">			
+		<hanzi>好像</hanzi>
+		<pinyin>hǎo,xiàng</pinyin>
+		<english>it seems</english>
+	</entry>
+	<entry audio="6.mp3" gr="-1" cn="-1">		 
+		<hanzi>不对</hanzi>
+		<pinyin>bù,duì</pinyin>
+		<english>incorrect, wrong</english>
+	</entry>
+	<entry audio="7.mp3" gr="-1" cn="-1">		
+		<hanzi>怎么了</hanzi>
+		<pinyin>zěn,me,le</pinyin>
+		<english>what's wrong</english>
+	</entry>
+	<entry audio="8.mp3" gr="-1" cn="-1">		
+		<hanzi>点</hanzi>
+		<pinyin>diǎn</pinyin>
+		<english>to order</english>
+	</entry>
+	<entry audio="9.mp3" gr="0" cn="-1">			
+		<hanzi>非常抱歉</hanzi>
+		<pinyin>fēi,cháng,bào,qiàn</pinyin>
+		<english>very sorry</english>
+	</entry>
+	<entry audio="10.mp3" gr="-1" cn="-1">		
+		<hanzi>应该</hanzi>
+		<pinyin>yīng,gāi</pinyin>
+		<english>should</english>
+	</entry>
+	<entry audio="11.mp3" gr="-1" cn="-1">		
+		<hanzi>能用</hanzi>
+		<pinyin>néng,yòng</pinyin>
+		<english>to be able to use, can use</english>
+	</entry>
+	<entry audio="12.mp3" gr="-1" cn="-1">		
+		<hanzi>信用卡</hanzi>
+		<pinyin>xìn,yòng,kǎ</pinyin>
+		<english>credit card</english>
+	</entry>
+	<entry audio="13.mp3" gr="0" cn="-1">		
+		<hanzi>对不起</hanzi>
+		<pinyin>duì,bù,qǐ</pinyin>
+		<english>sorry</english>
+	</entry>
+	<entry audio="14.mp3" gr="-1" cn="-1">		
+		<hanzi>只</hanzi>
+		<pinyin>zhǐ</pinyin>
+		<english>only</english>
+	</entry>
+	<entry audio="15.mp3" gr="0" cn="-1">		
+		<hanzi>收</hanzi>
+		<pinyin>shōu</pinyin>
+		<english>to receive</english>
+	</entry>
+	<entry audio="16.mp3" gr="-1" cn="-1">		
+		<hanzi>现金</hanzi>
+		<pinyin>xiàn,jīn</pinyin>
+		<english>cash</english>
+	</entry>
+	<entry audio="17.mp3" gr="0" cn="-1">		
+		<hanzi>没关系</hanzi>
+		<pinyin>méi,guān,xì</pinyin>
+		<english>it doesn't matter</english>
+	</entry>
+	<entry audio="18.mp3" gr="0" cn="-1">		
+		<hanzi>下次</hanzi>
+		<pinyin>xià,cì</pinyin>
+		<english>next time</english>
+	</entry>
+	<entry audio="19.mp3" gr="0" cn="-1">		
+		<hanzi>再来</hanzi>
+		<pinyin>zài,lái</pinyin>
+		<english>come again</english>
+	</entry>
+	<entry audio="20.mp3" gr="-1" cn="-1">			
+		<hanzi>请慢走</hanzi>
+		<pinyin>qǐng,màn,zǒu</pinyin>
+		<english>good-bye (lit. please slowly walk)</english>
+	</entry>
+</keywords>

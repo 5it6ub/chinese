@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">Where is Yang Fan from ?</quest>
+		<op fb="incorrect: listen again">Beijing</op>
+		<op fb="incorrect: listen again">Shanghai</op>
+		<op fb="correct">Hangzhou</op>
+		<op fb="incorrect: listen again">Chicago</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">How many people live in Amanda's familiy ?</quest>
+		<op fb="correct">six people</op>
+		<op fb="incorrect: listen again">five people</op>
+		<op fb="incorrect: listen again">four people</op>		
+		<op fb="incorrect: listen again">three people</op>		
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">What does Amanda's father do?</quest>
+		<op fb="correct">He is retired</op>
+		<op fb="incorrect: doctor is 'yīshēng'">He is a doctor</op>
+		<op fb="incorrect: teacher is 'lǎoshī'">He is a teacher</op>
+		<op fb="incorrect: accountant is 'kuàijì'">He is an accountant</op>
+	</item>
+	<item id="4">
+		<quest correct="1" audio="">How old is Amanda?</quest>
+		<op fb="correct: counting years in Western style ">twenty-three</op>
+		<op fb="incorrect: In China you are one year old during the first twelve months of your life.">twenty-four</op>
+		<op fb="incorrect: listen again">twenty-five</op>
+		<op fb="incorrect: listen again">twenty-six</op>
+	</item>
+	<item id="5">
+		<quest correct="2" audio="">What year was Yang Fan born in?</quest>
+		<op fb="incorrect: ox 'niú'">The year of the  ox</op>
+		<op fb="correct">The year of the  dog</op>
+		<op fb="incorrect: monkey is 'hóu'">The year of the monkey</op>
+		<op fb="incorrect: rat is 'shǔ'">The year of the rat</op>
+	</item>	
+	<item id="6">
+		<quest correct="4" audio="">What does Yang Fan study?</quest>
+		<op fb="incorrect: physics is 'wùlǐ'">Physics</op>
+		<op fb="incorrect: chemistry is 'huàxué'">Chemistry</op>
+		<op fb="incorrect: English is 'Yīngyǔ'">English</op>
+		<op fb="correct">Engineering</op>
+	</item>	
+	<item id="7">
+		<quest correct="2" audio="">What does Amanda study?</quest>
+		<op fb="incorrect: Chinese language is ''">Chinese Language</op>
+		<op fb="correct">Chinese Film</op>
+		<op fb="incorrect: linguistics is ''">Linguistics</op>
+		<op fb="incorrect: the fine arts are 'měishù'">Fine Arts</op>
+	</item>
+</act>

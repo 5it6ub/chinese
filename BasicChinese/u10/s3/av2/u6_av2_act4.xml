@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "cw" aimage="images/acts/cw.png" alink="u6/av2/audio/u6_av2_act4_a" title="Write it Yourself!">
+	<intro>Use the English prompts to create five sentences using the characters below.</intro>
+	<item id="1" audio="1.mp3" hanzi="你去哪里" punct="？" prompt="Where are you going?" />
+	<item id="2" audio="2.mp3" hanzi="这是地址" punct="。" prompt="This is the address." />
+	<item id="3" audio="3.mp3" hanzi="先一直走，然后左拐" punct="。" prompt="Go straight ahead first, and then turn left." />
+	<item id="4" audio="4.mp3" hanzi="就停在这里吧" punct="。" prompt="Just stop here." />
+</act>
+
+
+
+
+
+

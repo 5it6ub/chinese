@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u6s3a2a1.mp3">Has the guest already booked or not?</quest>
+		<op fb="correct">Yes, and he wants a single room.</op>
+		<op fb="incorrect: listen again">No, he wants a single room.</op>
+		<op fb="incorrect: listen again">Yes, but he wants to change to a double room</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u6s3a2a2.mp3">What does the customer say?</quest>
+		<op fb="incorrect: listen again">He booked the room for three days.</op>
+		<op fb="correct">He booked the room by phone.</op>
+		<op fb="incorrect: listen again">He booked the room three days ago.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="u6s3a2a3.mp3">How does the customer proof his identity?</quest>
+		<op fb="incorrect: listen again">with a driving license</op>
+		<op fb="incorrect: listen again">with a passport</op>
+		<op fb="correct">with an ID card</op>	
+	</item>
+	<item id="4">
+		<quest correct="2" audio="u6s3a2a4.mp3">Where is the room?</quest>
+		<op fb="incorrect: listen again">on the top floor, on the left</op>
+		<op fb="correct">on the top floor, on the right</op>
+		<op fb="incorrect: listen again">on the first floor, on the left</op>	
+	</item>	
+</act>

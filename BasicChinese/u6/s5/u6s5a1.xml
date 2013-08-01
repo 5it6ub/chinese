@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">What is the customer doing?</quest>
+		<op fb="incorrect: listen again">checking in</op>
+		<op fb="correct">checking out</op>
+		<op fb="incorrect: listen again">making a complaint</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">How many days has he stayed in the hotel?</quest>
+		<op fb="correct">3 days</op>
+		<op fb="incorrect: listen again">4 days</op>		
+		<op fb="incorrect: listen again">5 days</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">How does the customer pay?</quest>
+		<op fb="incorrect: listen again">with cash</op>
+		<op fb="incorrect: listen again">with a debit card</op>
+		<op fb="correct">with a credit card</op>
+	</item>
+</act>	

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u9s2a4a1.mp3" hanzi="这是苹果汁" punct="。" prompt="This is apple juice." />
+	<item id="2" audio="u9s2a4a2.mp3" hanzi="还有其他口味吗" punct="?" prompt="Are there any other flavours?" />
+	<item id="3" audio="u9s2a4a3.mp3" hanzi="也不贵" punct="。" prompt="It is not expensive, either." />
+	<item id="4" audio="u9s2a4a4.mp3" hanzi="这个不错" punct="。" prompt="This is not bad." />
+	<item id="5" audio="u9s2a4a5.mp3" hanzi="我更喜欢橘子味的" punct="。" prompt="I prefer the orange-flavoured." />
+</act>

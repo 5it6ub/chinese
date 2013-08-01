@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "rw" aimage="images/acts/cw.png" alink="saudio/" title="Write it Yourself!">
+	<intro>Use the English prompts to create four sentences using the characters below.</intro>
+	<item id="1" audio="u1s3a1a1.mp3" hanzi="我姓毛叫毛小龙" punct="。" prompt="My surname is Mao, I am called Xiaolong Mao." />
+	<item id="2" audio="u1s3a1a2.mp3" hanzi="您贵姓" punct="?" prompt="What is your surname? (formal)" />
+	<item id="3" audio="u1s3a1a3.mp3" hanzi="免贵姓郁" punct="。" prompt="My surname is Yu. (formal)" />
+	<item id="4" audio="u1s3a1a4.mp3" hanzi="很高兴见到你" punct="。" prompt="Nice to meet you." />
+</act>
+
+
+
+
+
+
+
+
+
+

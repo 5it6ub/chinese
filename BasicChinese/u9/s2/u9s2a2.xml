@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="2" audio="u9s2a2a1.mp3">What does she prefer?</quest>
+		<op fb="incorrect: listen again">orange juice</op>
+		<op fb="correct">apple juice</op>
+		<op fb="incorrect: listen again">peach juice</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="u9s2a2a2.mp3">Why do they get that bottle of drink?</quest>
+		<op fb="correct">Because it is less expensive.</op>
+		<op fb="incorrect: listen again">Because they prefer that flavour.</op>
+		<op fb="incorrect: listen again">Because they want to get a smaller bottle of drink.</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="u9s2a2a3.mp3">How much does he pay altogether?</quest>
+		<op fb="incorrect: listen again">4 Yuan</op>
+		<op fb="incorrect: listen again">2.5 Yuan</op>	
+		<op fb="correct">10 Yuan</op>
+	</item>
+</act>

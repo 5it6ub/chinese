@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u10s2a3a1.mp3" hanzi="司机先生，请问我去人民公园还有几站？" pinyin="Sījī xiānsheng, qǐngwèn wǒ qù Rénmín gōngyuán háiyǒu jǐ zhàn?" />
+	<item id="2" audio="u10s2a3a2.mp3" hanzi="哦，你坐错车了。" pinyin="Ò, nǐ zuò cuò chē le." />
+	<item id="3" audio="u10s2a3a3.mp3" hanzi="哎呀，那怎么办？" pinyin="Āiya, nà zěnmebàn?" />
+	<item id="4" audio="u10s2a3a4.mp3" hanzi="没关系，你可以在南京路站下，然后换22路车。" pinyin="Méi guānxi, nǐ kěyǐ zài Nánjīng lù zhàn xià, ránhòu huàn èr shí èr lù chē." />
+	<item id="5" audio="u10s2a3a5.mp3" hanzi="到南京路还有几站？" pinyin="Dào Nánjīng lù háiyǒu jǐ zhàn?" />
+	<item id="6" audio="u10s2a3a6.mp3" hanzi="还有两站。" pinyin="Háiyǒu liǎng zhàn." />
+	<item id="7" audio="u10s2a3a7.mp3" hanzi="您到时候能叫我一下吗？" pinyin="Nín dào shíhòu néng jiào wǒ yīxià ma?" />	
+	<item id="7" audio="u10s2a3a8.mp3" hanzi="好的。" pinyin="Hǎo de." />	
+</act>
+
+
+
+
+
+
+
+
+
+
+

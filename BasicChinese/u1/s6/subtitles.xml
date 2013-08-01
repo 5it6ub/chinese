@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>2</time>
+		<track1>Hello</track1>
+		<track2>你们好</track2>
+		<track3>Nǐmen hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>12</time>
+		<track1>I am sorry, that you had to wait</track1>
+		<track2>对不起，让你们久等了</track2>
+		<track3>duìbuqǐ, ràng nǐmen jiǔ děng le</track3>
+	</subtitle>
+	<subtitle>
+		<time>44</time>
+		<track1>No problem. We have just arrived</track1>
+		<track2>没关系，我们刚到</track2>
+		<track3>Méi guānxi, wǒmen gāng dào</track3>
+	</subtitle>
+	<subtitle>
+		<time>66</time>
+		<track1>Manager Chen, please allow us to introduce ourselves first</track1>
+		<track2>陈经理，请允许我们先自我介绍一下</track2>
+		<track3>Chén jīnglǐ, qǐng yúnxǔ wǒmen xiān zìwǒ jièshào yīxià</track3>
+	</subtitle>
+	<subtitle>
+		<time>102</time>
+		<track1>My name is Wang</track1>
+		<track2>我姓王</track2>
+		<track3>wǒ xìng Wáng</track3>
+	</subtitle>
+	<subtitle>
+		<time>116</time>
+		<track1>This time I am in charge of this project on behalf of our company</track1>
+		<track2>这次代表我们公司负责这项计划</track2>
+		<track3>zhè cì dàibiǎo wǒmen gōngsī fùzé zhè xiàng jìhuà</track3>
+	</subtitle>
+	<subtitle>
+		<time>148</time>
+		<track1>This is my assistant Xiao Zhang.</track1>
+		<track2>这是我的助手小张</track2>
+		<track3>Zhè shì wǒ de zhùshǒu xiǎo Zhāng</track3>
+	</subtitle>
+	<subtitle>
+		<time>178</time>
+		<track1>Very pleased to meet you Mr. Wang.</track1>
+		<track2>很高兴认识你王先生</track2>
+		<track3>hěn gāoxìng rènshí nǐ, Wáng xiānsheng</track3>
+	</subtitle>
+	<subtitle>
+		<time>204</time>
+		<track1>Very pleased to meet you, Miss Zhang.</track1>
+		<track2>很高兴认识你，张小姐</track2>
+		<track3>hěn gǎoxìng rènshí nǐ, Zhāng xiǎojiě</track3>
+	</subtitle>
+	<subtitle>
+		<time>232</time>
+		<track1>How do you do Manager Chen.</track1>
+		<track2>您好，陈经理</track2>
+		<track3>nín háo, Chén jīnglǐ</track3>
+	</subtitle>
+	<subtitle>
+		<time>252</time>
+		<track1>I am honoured to work with you.</track1>
+		<track2>很荣幸能与您合作</track2>
+		<track3>hěn róngxìng néng yǔ nín hézuò</track3>
+	</subtitle>
+	<subtitle>
+		<time>284</time>
+		<track1>I am honoured too.</track1>
+		<track2>我也很荣幸</track2>
+		<track3>wǒ yě hěn róngxìng</track3>
+	</subtitle>
+	<subtitle>
+		<time>300</time>
+		<track1>This is my business card.</track1>
+		<track2>这是我的名片</track2>
+		<track3>zhè shì wǒ de míngpiàn</track3>
+	</subtitle>
+	<subtitle>
+		<time>314</time>
+		<track1>Lets go to the meeting room for a talk.</track1>
+		<track2>我们去会议室慢慢谈吧</track2>
+		<track3>wǒmen qù huìyìshì mànman tán ba</track3>
+	</subtitle>
+</subtitles>
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">What can Wang play?</quest>
+		<op fb="incorrect: listen again">International chess</op>
+		<op fb="correct">Chinese chess</op>
+		<op fb="incorrect: listen again">both</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">What can Chen play?</quest>
+		<op fb="correct">International chess</op>
+		<op fb="incorrect: listen again">Chinese chess</op>		
+		<op fb="incorrect: listen again">both</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">What is Wang learning at the moment?</quest>
+		<op fb="incorrect: listen again">painting</op>
+		<op fb="incorrect: listen again">swimming</op>
+		<op fb="correct">shadow-boxing</op>
+	</item>
+</act>	
+

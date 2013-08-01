@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords himage = "images/general/keywords.png" alink="u7/av2/audio/u7_av2_kaudio" aimage = "images/general/aicon.png" gimage = "images/general/gicon.png" cimage = "images/general/cicon.png">
+	<entry audio="1.mp3" gr="-1" cn="-1">
+		<hanzi>医生</hanzi>
+		<pinyin>yī,shēng</pinyin>
+		<english>medical doctor</english>
+	</entry>
+	<entry audio="2.mp3" gr="-1" cn="-1">
+		<hanzi>哪里</hanzi>	
+		<pinyin>nǎ,lǐ</pinyin>
+		<english>where</english>
+	</entry>
+	<entry audio="3.mp3" gr="-1" cn="-1">			
+		<hanzi>舒服</hanzi>
+		<pinyin>shū,fú</pinyin>
+		<english>comfortable, well</english>
+	</entry>
+	<entry audio="4.mp3" gr="-1" cn="-1">		
+		<hanzi>病人 </hanzi>
+		<pinyin>bìng,rén</pinyin>
+		<english>patient</english>
+	</entry>
+	<entry audio="5.mp3" gr="-1" cn="-1">			
+		<hanzi>喉咙</hanzi>
+		<pinyin>hóu,lóng</pinyin>
+		<english>throat</english>
+	</entry>
+	<entry audio="6.mp3" gr="-1" cn="-1">		 
+		<hanzi>疼</hanzi>
+		<pinyin>téng</pinyin>
+		<english>sore, painful</english>
+	</entry>
+	<entry audio="7.mp3" gr="-1" cn="-1">		
+		<hanzi>而且</hanzi>
+		<pinyin>ér,qiě</pinyin>
+		<english>moreover (conjunction word)</english>
+	</entry>
+	<entry audio="8.mp3" gr="-1" cn="-1">		
+		<hanzi>好像</hanzi>
+		<pinyin>hǎo,xiàng</pinyin>
+		<english>seemingly</english>
+	</entry>
+	<entry audio="9.mp3" gr="0" cn="-1">			
+		<hanzi>发烧</hanzi>
+		<pinyin>fā,shāo</pinyin>
+		<english>to have a high fever</english>
+	</entry>
+	<entry audio="10.mp3" gr="-1" cn="-1">		
+		<hanzi>把</hanzi>
+		<pinyin>bǎ</pinyin>
+		<english>grammar note</english>
+	</entry>
+	<entry audio="11.mp3" gr="-1" cn="-1">		
+		<hanzi>嘴</hanzi>
+		<pinyin>zuǐ</pinyin>
+		<english>mouth</english>
+	</entry>
+	<entry audio="12.mp3" gr="-1" cn="-1">		
+		<hanzi>张开</hanzi>
+		<pinyin>zhāng,kāi</pinyin>
+		<english>to spread, to open</english>
+	</entry>
+	<entry audio="13.mp3" gr="0" cn="-1">		
+		<hanzi>让</hanzi>
+		<pinyin>ràng</pinyin>
+		<english>to let</english>
+	</entry>
+	<entry audio="14.mp3" gr="-1" cn="-1">		
+		<hanzi>看</hanzi>
+		<pinyin>kàn</pinyin>
+		<english>to look at</english>
+	</entry>
+	<entry audio="15.mp3" gr="0" cn="-1">		
+		<hanzi>说</hanzi>
+		<pinyin>shuō</pinyin>
+		<english>to say</english>
+	</entry>
+	<entry audio="16.mp3" gr="-1" cn="-1">		
+		<hanzi>发炎</hanzi>
+		<pinyin>fā,yán</pinyin>
+		<english>to have infection</english>
+	</entry>
+	<entry audio="17.mp3" gr="0" cn="-1">		
+		<hanzi>给</hanzi>
+		<pinyin>gěi</pinyin>
+		<english>grammar note</english>
+	</entry>
+	<entry audio="18.mp3" gr="0" cn="-1">		
+		<hanzi>开</hanzi>
+		<pinyin>kāi</pinyin>
+		<english>to prescribe</english>
+	</entry>
+	<entry audio="19.mp3" gr="0" cn="-1">		
+		<hanzi>消炎</hanzi>
+		<pinyin>xiāo,yán</pinyin>
+		<english>to cure infection</english>
+	</entry>
+	<entry audio="20.mp3" gr="-1" cn="-1">			
+		<hanzi>药片</hanzi>
+		<pinyin>yào,piàn</pinyin>
+		<english>tablet</english>
+	</entry>
+	<entry audio="21.mp3" gr="-1" cn="-1">		
+		<hanzi>天</hanzi>
+		<pinyin>tiān</pinyin>
+		<english>day</english>
+	</entry>
+	<entry audio="22.mp3" gr="-1" cn="-1">		
+		<hanzi>昨天</hanzi>
+		<pinyin>zuó,tiān</pinyin>
+		<english>yesterday </english>
+	</entry>
+	<entry audio="23.mp3" gr="-1" cn="-1">			
+		<hanzi>开始</hanzi>
+		<pinyin>kāi,shǐ</pinyin>
+		<english>to start, to begin</english>
+	</entry>
+	<entry audio="24.mp3" gr="-1" cn="-1">		
+		<hanzi>自己</hanzi>
+		<pinyin>zì,jǐ</pinyin>
+		<english>oneself</english>
+	</entry>
+	<entry audio="25.mp3" gr="-1" cn="-1">		
+		<hanzi>量</hanzi>
+		<pinyin>liáng</pinyin>
+		<english>to measure</english>
+	</entry>
+	<entry audio="26.mp3" gr="0" cn="-1">		
+		<hanzi>过	</hanzi>
+		<pinyin>guò</pinyin>
+		<english>grammar note</english>
+	</entry>
+	<entry audio="27.mp3" gr="-1" cn="-1">		
+		<hanzi>体温</hanzi>
+		<pinyin>tǐ,wēn</pinyin>
+		<english>body temperature</english>
+	</entry>
+	<entry audio="28.mp3" gr="-1" cn="-1">		
+		<hanzi>度</hanzi>
+		<pinyin>dù</pinyin>
+		<english>degree</english>
+	</entry>
+	<entry audio="29.mp3" gr="-1" cn="-1">		
+		<hanzi>再</hanzi>
+		<pinyin>zài</pinyin>
+		<english>again</english>
+    </entry>
+    <entry audio="30.mp3" gr="-1" cn="-1">		
+		<hanzi>退烧</hanzi>
+		<pinyin>tuì,shāo</pinyin>
+		<english>to lower down the body temperature</english>
+	</entry>
+	<entry audio="31.mp3" gr="-1" cn="-1">		
+		<hanzi>对</hanzi>
+		<pinyin>duì</pinyin>
+		<english>against</english>
+	</entry>
+	<entry audio="32.mp3" gr="-1" cn="-1">		
+		<hanzi>青霉素</hanzi>
+		<pinyin>qīng,méi,sù</pinyin>
+		<english>penicillin</english>
+	</entry>
+	<entry audio="33.mp3" gr="-1" cn="-1">		
+		<hanzi>过敏</hanzi>
+		<pinyin>guò,mǐn</pinyin>
+		<english>to be allergic to</english>
+	</entry>
+	<entry audio="34.mp3" gr="-1" cn="-1">		
+		<hanzi>吗</hanzi>
+		<pinyin>ma</pinyin>
+		<english>marker for yes or no question</english>
+	</entry>
+	<entry audio="35.mp3" gr="-1" cn="-1">		
+		<hanzi>平时</hanzi>
+		<pinyin>píng,shí</pinyin>
+		<english>at usual time</english>
+	</entry>
+	<entry audio="36.mp3" gr="-1" cn="-1">		
+		<hanzi>注意</hanzi>
+		<pinyin>zhù,yì</pinyin>
+		<english>to pay attention to</english>
+	</entry>
+	<entry audio="37.mp3" gr="-1" cn="-1">		
+		<hanzi>多</hanzi>
+		<pinyin>duō</pinyin>
+		<english>much, many</english>
+	</entry>
+	<entry audio="38.mp3" gr="-1" cn="-1">		
+		<hanzi>喝</hanzi>
+		<pinyin>hē</pinyin>
+		<english>to drink</english>
+	</entry>
+	<entry audio="39.mp3" gr="-1" cn="-1">		
+		<hanzi>水</hanzi>
+		<pinyin>shuǐ</pinyin>
+		<english>water</english>
+	</entry>
+	<entry audio="40.mp3" gr="-1" cn="-1">		
+		<hanzi>休息</hanzi>
+		<pinyin>xiū,xī</pinyin>
+		<english>to rest, rest</english>
+	</entry>
+	<entry audio="41.mp3" gr="-1" cn="-1">		
+		<hanzi>知道</hanzi>
+		<pinyin>zhī,dào</pinyin>
+		<english>to know</english>
+	</entry>
+	<entry audio="42.mp3" gr="-1" cn="-1">		
+		<hanzi>谢谢</hanzi>
+		<pinyin>xiè,xiè</pinyin>
+		<english>to thank</english>
+	</entry>
+	<entry audio="43.mp3" gr="-1" cn="-1">		
+		<hanzi>不客气</hanzi>
+		<pinyin>bù,kè,qì</pinyin>
+		<english>you are welcome</english>
+	</entry>
+</keywords>

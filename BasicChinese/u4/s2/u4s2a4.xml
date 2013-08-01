@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="">The female customer orders</quest>
+		<op fb="correct">lemon tea</op>
+		<op fb="incorrect: jasmine tea is 'mòlìhuā chá'">jasmine tea</op>
+		<op fb="incorrect: ice tea is 'bīngchá'">ice tea</op>
+		<op fb="incorrect: green tea is 'lǜchá'">green tea</op>
+	</item>	
+		<item id="2">
+		<quest correct="3" audio="">The male customer takes his coffee with</quest>
+		<op fb="incorrect: listen again">black without sugar</op>
+		<op fb="incorrect: listen again">with sugar only</op>		
+		<op fb="correct">with milk only</op>
+		<op fb="incorrect: listen again">without milk and sugar</op>
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">The female customer likes her drink</quest>
+		<op fb="incorrect: listen again">ice cold</op>
+		<op fb="incorrect: listen again">very hot</op>	
+		<op fb="correct">neither</op>
+	</item>
+</act>
+
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+
+
+	
+	
+	

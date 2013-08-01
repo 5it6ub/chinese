@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' alink="u0s2audio/" title="Dialog Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u1_av1_act3_a1.mp3" hanzi="小李, 你明天晚上有空吗?" pinyin="Xiǎo Lǐ, nǐ míngtián wǎnshang yǒu kòng ma?" />
+	<item id="2" audio="u1_av1_act3_a2.mp3" hanzi="有空,什么事?" pinyin="Yǒu kòng, shénme shì?" />
+	<item id="3" audio="u1_av1_act3_a3.mp3" hanzi="王老师邀请我们明天去她家做客。" pinyin="Wáng lǎoshī yàoqǐng wǒmen míngtiān qù tā jiā zuò kè." />
+	<item id="4" audio="u1_av1_act3_a4.mp3" hanzi="太好了! 我们应买什么礼物呢?" pinyin="Tài hǎo le! Wǒmen yīng mǎi shénme lǐwù ne?" />
+	<item id="5" audio="u1_av1_act3_a5.mp3" hanzi="让我想想, 你说我们买点儿水果怎么样?" pinyin="Ràng wǒ xiǎng xiǎng, nǐ shuō wǒmen mǎi diǎnr shuǐguǒ zènme yàng?" />	
+	<item id="6" audio="u1_av1_act3_a6.mp3" hanzi="不错, 或者我们也可以买一些巧克力。" pinyin="Bù cuò, huòzhě wǒmen yě kěyǐ mǎi yī xiē qiǎokèlì." />
+	<item id="7" audio="u1_av1_act3_a7.mp3" hanzi="那就带一些巧克力把, 希望王老师会喜欢。" pinyin="Nà jiù dài yī xiē qiǎokèlì ba, xǐwàng wáng lǎoshī huì xǐhuan." />
+</act>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

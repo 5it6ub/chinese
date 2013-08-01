@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "amc1" aimage="images/acts/al.png" alink="u6/av2/audio/u6_av2_act2_a" title="Additional Listening">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="1.mp3" text="What is the instruction?" />
+		<opt id="1" text="first go straight ahead, then turn left, and then turn right." image="images/u6/av2/wine.png" />
+		<opt id="2" text="first turn left, then turn right, and then go straight" image="images/u6/av2/chocolate.png" />
+		<opt id="3" text="first turn left, then go straight, and then turn right" image="images/u6/av2/fruits.png" />
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="2.mp3" text="Do they know how to get there? " />
+		<opt id="1" text="yes" image="images/u6/av2/once.png" />
+		<opt id="2" text="one of them knows	" image="images/u6/av2/twice.png" />
+		<opt id="3" text="neither of them knows" image="images/u6/av2/many.png" />
+	</item>	
+</act>

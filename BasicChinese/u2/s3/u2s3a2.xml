@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="1" audio="u2s3a2a1.mp3">How is her Chinese?</quest>
+		<op fb="correct">She is learning Chinese.</op>
+		<op fb="incorrect: it is 'bù tài hǎo'">Her Chinese is very good.</op>
+		<op fb="incorrect: it is 'bù tài hǎo'">She is a native speaker.</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="u2s3a2a2.mp3">What is his mother tongue?</quest>
+		<op fb="incorrect: English is 'Yīngyǔ'">English</op>
+		<op fb="correct">French</op>
+		<op fb="incorrect: German is 'Déyǔ'">German</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u2s3a2a3.mp3">What is the language used in schools?</quest>
+		<op fb="incorrect: Cantonese is spoken at home.">Cantonese</op>
+		<op fb="correct">Mandarin</op>
+		<op fb="incorrect: There is no mention of English:'Yīngyǔ'">English</op>
+	</item>
+</act>
+
+

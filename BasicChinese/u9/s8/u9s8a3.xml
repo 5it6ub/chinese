@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = 'ro' aimage="images/acts/dr.png" alink="saudio/" title="Dialogue Reconstruction">
+	<intro>Put the sentences below in the correct order. (They are jumbled randomly and appear in a different order everytime you attemp the activity) </intro>
+	<item id="1" audio="u9s8a3a1.mp3" hanzi="小姐，您好，请问您想买什么？" pinyin="Xiǎojiě,nín hǎo, qǐngwèn nín xiǎng mǎi shénme?" />
+	<item id="2" audio="u9s8a3a2.mp3" hanzi="我想给我的老师买一件礼物。" pinyin="Wǒ xiǎng gěi wǒ de lǎoshī mǎi yī jiàn lǐwù." />
+	<item id="3" audio="u9s8a3a3.mp3" hanzi="给老师买礼物，笔记本最合适了。" pinyin="Gěi lǎoshī mǎi lǐwù, bǐjìběn zuì héshì le." />
+	<item id="4" audio="u9s8a3a4.mp3" hanzi="嗯，这本笔记本不错，多少钱？" pinyin="Ēn, zhè běn bǐjìběn bùcuò, duōshǎo qián?" />
+	<item id="5" audio="u9s8a3a5.mp3" hanzi="一百二十块钱，您要我给您打个折。" pinyin="Yī bǎi èr shí kuài qián, nín yào wǒ gěi nín dǎ gè zhé." />
+	<item id="6" audio="u9s8a3a6.mp3" hanzi="一百块钱怎么样？" pinyin="Yī bǎi kuài qián zěnmeyàng?" />
+	<item id="7" audio="u9s8a3a7.mp3" hanzi="好的，那就一百吧。" pinyin="Hǎode, nà jiù yī bǎi ba." />
+	<item id="8" audio="u9s8a3a8.mp3" hanzi="给您钱。" pinyin="Gěi nín qián." />
+	<item id="9" audio="u9s8a3a9.mp3" hanzi="谢谢，这是您的笔记本，欢迎下次再来" pinyin="Xièxie, zhè shì nín de bǐjìběn, huānyíng xià cì zài lái." />
+</act>

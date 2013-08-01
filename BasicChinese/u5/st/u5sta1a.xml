@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="3" audio="">What is the customer asking for?</quest>
+		<op fb="incorrect: listen again">the manager</op>
+		<op fb="incorrect: listen again">a receipt</op>
+		<op fb="correct">the bill</op>
+	</item>	
+	<item id="2">
+		<quest correct="2" audio="">How much is the bill at last?</quest>
+		<op fb="incorrect: listen again">100 yuan</op>
+		<op fb="correct">150 yuan</op>		
+		<op fb="incorrect: listen again">200 yuan</op>		
+	</item>	
+</act>	

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">What are they buying?</quest>
+		<op fb="incorrect： 20 is 'èrshí suì'">fruits</op>
+		<op fb="correct">soft drinks</op>
+		<op fb="incorrect: 26 is 'èrshíliù suì'">snacks</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="">Do they get small bottles or big bottles</quest>
+		<op fb="correct">small bottles</op>
+		<op fb="incorrect: BA is 'xuéshí'">big bottles</op>
+		<op fb="incorrect: PhD is 'bóshí'">both</op>		
+	</item>	
+	<item id="3">
+		<quest correct="3" audio="">Which flavour drink do they buy in the end?</quest>
+		<op fb="incorrect: manufacturing is 'zhìzào'">orange</op>
+		<op fb="incorrect: engineering is 'gōngchéng'">peach</op>
+		<op fb="correct">apple</op>
+	</item>
+</act>

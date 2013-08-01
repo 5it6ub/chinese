@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="saudio/" title="Listen carefully">
+	<intro>Listen to the sentences below and decide what is being said.</intro>
+	<item id="1">
+		<quest correct="3" audio="u1s6a2a1.mp3">Who is being introduced?</quest>
+		<op fb="incorrect: listen again">Professor Wang</op>
+		<op fb="incorrect: listen again">Professor Zhang</op>
+		<op fb="correct">Junior Zhang</op>
+	</item>	
+	<item id="2">
+		<quest correct="1" audio="u1s6a2a2.mp3">What does he give?</quest>
+		<op fb="correct">a business card</op>
+		<op fb="incorrect: listen again">a name badge</op>
+		<op fb="incorrect: listen again">a ticket</op>		
+	</item>	
+	<item id="3">
+		<quest correct="2" audio="u1s6a2a3.mp3">What is she apologising for?</quest>
+		<op fb="incorrect: listen again">being confused</op>
+		<op fb="correct">being late</op>
+		<op fb="incorrect: listen again">being early</op>
+	</item>
+</act>
+
+

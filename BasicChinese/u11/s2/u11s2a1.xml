@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "sc" afolder="" title="Listening Comprehension">
+	<intro>Watch the video and answer the questions below.</intro>
+	<item id="1">
+		<quest correct="2" audio="">Where do people usually shop in Beijing?</quest>
+		<op fb="incorrect: listen again">at the Summer Palace</op>
+		<op fb="correct">at Wangfujing</op>
+		<op fb="incorrect: listen again">on People's Square</op>
+	</item>	
+	<item id="2">
+		<quest correct="3" audio="">What does the man ask for?</quest>
+		<op fb="incorrect: listen again">a train timetable</op>		
+		<op fb="incorrect: listen again">a receipt</op>		
+		<op fb="correct">a map</op>
+	</item>	
+	<item id="3">
+		<quest correct="1" audio="">Where is Wangfujing?</quest>
+		<op fb="correct">next to Beijing Hotel</op>
+		<op fb="incorrect: listen again">in front of Beijing Hotel</op>
+		<op fb="incorrect: listen again">behind Beijing Hotel</op>
+	</item>
+</act>	
+

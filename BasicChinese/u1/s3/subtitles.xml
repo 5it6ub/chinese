@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<subtitles tracks="3">
+	<subtitle>
+		<time>1</time>
+		<track1>Excuse me, what is your name?</track1>
+		<track2>请问您贵姓?</track2>
+		<track3>Qǐngwèn nín guì xìng?</track3>
+	</subtitle>
+	<subtitle>
+		<time>18</time>
+		<track1>My name is Li. What is yours?</track1>
+		<track2>免贵姓李。您呢?</track2>
+		<track3>Miǎnguì xìng Lǐ. Nín ne?</track3>
+	</subtitle>
+	<subtitle>
+		<time>42</time>
+		<track1>I am called Wang.</track1>
+		<track2>我姓王.</track2>
+		<track3>Wǒ xìng Wáng.</track3>
+	</subtitle>
+	<subtitle>
+		<time>52</time>
+		<track1>Miss Li, hello</track1>
+		<track2>李小姐, 您好</track2>
+		<track3>Lǐ xiǎojie, nín hǎo</track3>
+	</subtitle>	
+	<subtitle>
+		<time>66</time>
+		<track1>nice to meet you.</track1>
+		<track2>很高兴认识您。</track2>
+		<track3>hěn gāoxìng rènshi nín</track3>
+	</subtitle>
+	<subtitle>
+		<time>88</time>
+		<track1>Hello Mr. Wang</track1>
+		<track2>王先生, 您好</track2>
+		<track3>Wáng xiānsheng, nín hǎo</track3>
+	</subtitle>
+	<subtitle>
+		<time>104</time>
+		<track1>nice to mee you too.</track1>
+		<track2>我也很高兴认识您</track2>
+		<track3>wǒ yě hěn gāoxìng rènshi nín</track3>
+	</subtitle>	
+	<subtitle>
+		<time>128</time>
+		<track1>Here is my business card.</track1>
+		<track2>这是我的名片。</track2>
+		<track3>Zhè shì wǒ de míngpiān</track3>
+	</subtitle>
+</subtitles>

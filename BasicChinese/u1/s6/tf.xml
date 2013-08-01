@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<act type = "tf" afolder="u0s2audio/" title="Additional Listening">
+	<intro>Listen to the sentences below and decide if what is said is true.</intro>
+	<item id="1">
+		<quest correct="f" audio="tf1.mp3">They take a bottle of wine as a present</quest>
+		<tf></tf>
+		<ff>They take flowers 一束花 (yī shù huā) not wine 葡萄酒 (pútaojiǔ).</ff>	
+	</item>	
+	<item id="2">
+		<quest correct="f" audio="tf2.mp3" tf="" >
+		He has never been to a Chinese house before</quest>
+		<tf></tf>
+		<ff>This is his second visit.</ff>
+	</item>	
+	<item id="3">
+		<quest correct="t" audio="tf3.mp3" text="" >
+		She likes chocoloate.</quest>
+		<tf></tf>
+		<ff></ff>		
+	</item>
+</act>
